@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>BPY Team Mamidipally</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/datatables.net@1.13.8/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/datatables.net-dt@1.13.8/css/jquery.dataTables.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Pothana2000&display=swap" rel="stylesheet">
+
+  <style>
+    body{font-family:Arial, sans-serif; background:#f4f6f9; margin:20px;}
+    .container{width:95%;max-width:1600px;margin:auto;background:white;padding:20px;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.08);
+    position: relative;
+    z-index: 10;
+}
+
+    h1{text-align:center;color:#d35400;margin:6px 0 16px;}
+    .lang-btn{padding:10px 22px;background:#3498db;color:white;border:none;border-radius:6px;cursor:pointer;}
+    .stats{text-align:center;padding:12px;background:#fffacd;border-radius:10px;margin:10px 0 20px;font-weight:bold;border:1px solid #ffeeba;}
+    .highlight{color:#e74c3c;}
+    .filter-panel{background:#f8f9fa;padding:18px;border-radius:10px;margin-bottom:18px;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;align-items:center;border:1px solid #e9ecef;}
+    .filter-panel select,.filter-panel input{padding:10px;font-size:15px;border:1px solid #ccc;border-radius:6px;width:100%;box-sizing:border-box;}
+    .telugu{font-family:'Pothana2000',Arial;font-size:16px;}
+    .loading{text-align:center;color:#d35400;margin:30px;}
+    table.dataTable thead th{background:#d35400;color:white;}
+    table.dataTable tbody tr:hover{background:#f1f1f1;}
+    #clearBtn{padding:8px 14px;background:#95a5a6;color:white;border:none;border-radius:6px;cursor:pointer;}
+  </style>
+</head>
+<body>
+
+<!-- PASSWORD SCREEN -->
+<div id="passwordScreen" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);display:flex;align-items:center;justify-content:center;z-index:99999;">
+    <div style="background:white;padding:35px;border-radius:12px;width:360px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.3);">
+        <h2 style="margin:0;color:#d35400;">BPY Team Mamidipally</h2>
+        <p style="margin-top:10px;font-size:18px;">Enter Password</p>
+        <input type="password" id="passwordInput" placeholder="Enter password" style="width:100%;padding:10px;font-size:18px;margin-top:10px;">
+        <button id="passwordSubmit" style="margin-top:15px;padding:10px 25px;background:#d35400;color:white;border:none;border-radius:5px;cursor:pointer;">Submit</button>
+        <p id="errorMsg" style="color:red;margin-top:10px;"></p>
+    </div>
+</div>
+
+<script>
+document.getElementById('passwordSubmit').addEventListener('click', checkPassword);
+document.getElementById('passwordInput').addEventListener('keydown', function(e){ if(e.key==='Enter') checkPassword(); });
+function checkPassword() {
+    const correct = "4111";
+    const entered = document.getElementById("passwordInput").value;
+    if (entered === correct) {
+        document.getElementById("passwordScreen").style.display = "none";
+    } else {
+        document.getElementById("errorMsg").textContent = "Incorrect Password!";
+    }
+}
+// Prevent tabbing to background content until unlocked (simple safeguard)
+document.addEventListener('focus', function(e){
+  if(document.getElementById("passwordScreen") && document.getElementById("passwordScreen").style.display !== "none") {
+    if(!document.getElementById("passwordScreen").contains(e.target)) {
+      e.stopPropagation();
+      document.getElementById("passwordInput").focus();
+    }
+  }
+}, true);
+</script>
+<!-- END PASSWORD SCREEN -->
+
+  <div class="container">
+    <div style="text-align:center;margin-bottom:10px;">
+    <img src="images/Logo.jpeg" alt="Logo" style="height:90px;object-fit:contain;"><br>
+    <h1 id="pageTitle">BPY Team Mamidipally - Voters List</h1>
+    <button id="langBtn" class="lang-btn">తెలుగు వెర్షన్</button>
+  </div>
+
+    <div class="stats">
+      Total Voters: <span class="highlight" id="totalCount">0</span> |
+      Male: <span class="highlight" id="maleCount">0</span> |
+      Female: <span class="highlight" id="femaleCount">0</span> |
+      Showing: <span class="highlight" id="showingCount">0</span>
+    </div>
+
+    <div style="text-align:right;margin-bottom:8px;">
+      <button id="clearBtn">Clear All Filters</button>
+    </div>
+
+    <div class="filter-panel">
+      <input type="text" id="surnameFilter" placeholder="Search surname/name...">
+      <select id="wardFilter"><option value="">All Wards</option></select>
+      <input type="number" id="minAge" placeholder="Min Age" min="18">
+      <input type="number" id="maxAge" placeholder="Max Age">
+      <select id="genderFilter">
+        <option value="">All Gender</option>
+        <option value="M">Male</option>
+        <option value="F">Female</option>
+      </select>
+    </div>
+
+    <div class="loading" id="loading">Loading your voters list...</div>
+
+    <div style="overflow-x:auto;">
+      <table id="votersTable" class="display" style="width:100%;display:none;">
+        <thead>
+          <tr>
+            <th>S.No</th><th>Ward</th><th>Name</th><th>తండ్రి/భర్త</th><th>Age</th><th>Gender</th><th>EPIC</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+<script>
+let table, allData = [];
+let isTelugu = false;
+
+const teluguHeaders = ["క్ర.సం","వార్డు","పేరు","తండ్రి/భర్త","వయసు","లింగం","ఓటరు కార్డు"];
+const englishHeaders = ["S.No","Ward","Name","Father/Husband","Age","Gender","EPIC"];
+
+function toggleLanguage() {
+  isTelugu = !isTelugu;
+  document.getElementById('pageTitle').textContent = isTelugu ? "BPY టీమ్ మామిడిపల్లి - ఓటర్ల జాబితా" : "BPY Team Mamidipally - Voters List";
+  document.getElementById('langBtn').textContent = isTelugu ? "English Version" : "తెలుగు వెర్షన్";
+
+  const headers = isTelugu ? teluguHeaders : englishHeaders;
+  $('#votersTable thead th').each(function(i){ $(this).text(headers[i]); });
+
+  if (table) {
+    table.rows().invalidate().draw(false);
+  }
+}
+
+function escapeRegex(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+$.fn.dataTable.ext.search.push(function(settings, data) {
+  const min = parseInt($('#minAge').val(), 10);
+  const max = parseInt($('#maxAge').val(), 10);
+  const age = parseFloat(data[4]) || NaN;
+  if ((isNaN(min) && isNaN(max)) ||
+      (isNaN(min) && !isNaN(max) && age <= max) ||
+      (!isNaN(min) && isNaN(max) && age >= min) ||
+      (!isNaN(min) && !isNaN(max) && age >= min && age <= max)) return true;
+  return false;
+});
+
+// normalize headers simply and capture possible telugu columns if present
+function normalizeRow(row) {
+  const lower = {};
+  for (const k in row) lower[k.trim().toLowerCase()] = k;
+  function pick(list){ for(const p of list) if (lower[p]) return lower[p]; return null; }
+
+  const sKey = pick(['s.no','s no','sno','serial']);
+  const wKey = pick(['ward','ward -','wardno']);
+  const nKey = pick(['name','voter name','full name']);
+  const nTelKey = pick(['name_telugu','name_tel','name_tel']);
+  const fKey = pick(['father/husband name','father hu','father/husband','father name','father']);
+  const fTelKey = pick(['father_telugu','father_tel']);
+  const aKey = pick(['age','years']);
+  const gKey = pick(['sex','gender']);
+  const eKey = pick(['epic','voter id','voterid','epic no']);
+
+  return {
+    'S.No': sKey ? (row[sKey]||'').toString().trim() : '',
+    'Ward': wKey ? (row[wKey]||'').toString().trim() : '',
+    'Ward_Tel': (row['Ward_Telugu'] || row['Ward_Tel'] || row['ward_telugu'] || ''),
+    'Name': nKey ? (row[nKey]||'').toString().trim() : '',
+    'Name_Tel': nTelKey ? (row[nTelKey]||'').toString().trim() : '',
+    'Father/Husband Name': fKey ? (row[fKey]||'').toString().trim() : '',
+    'Father_Tel': fTelKey ? (row[fTelKey]||'').toString().trim() : '',
+    'Age': aKey ? (row[aKey]||'').toString().trim() : '',
+    'Sex': gKey ? (row[gKey]||'').toString().trim() : '',
+    'EPIC': eKey ? (row[eKey]||'').toString().trim() : ''
+  };
+}
+
+function loadCSV(){
+  Papa.parse("voters.csv", { download:true, header:true, skipEmptyLines:true,
+    error: function(err){ console.error(err); $('#loading').html(`<p style='color:red;'>Could not load voters_telugu.csv or voters.csv. Use a local server (Live Server or python -m http.server).</p>`); },
+    complete: function(results){
+      if(!results || !results.data || results.data.length===0){
+        // fallback to voters.csv
+        Papa.parse("voters.csv", { download:true, header:true, skipEmptyLines:true, complete: function(res2){ if(!res2 || !res2.data) { $('#loading').html(`<p style='color:red;'>No data.</p>`); return; } initTable(res2.data); } , error: function(){ $('#loading').html(`<p style='color:red;'>No data.</p>`);} });
+        return;
+      }
+      initTable(results.data);
+    }
+  });
+}
+
+function initTable(rawData){
+  allData = rawData.map(normalizeRow).filter(r => (r.Name && r.Name.trim() !== '') || (r.Name_Tel && r.Name_Tel.trim() !== ''));
+
+  if(allData.length === 0){ $('#loading').html(`<p style='color:red;'>No valid rows found.</p>`); return; }
+
+  // populate ward dropdown (use English Ward text for values)
+  const wards = Array.from(new Set(allData.map(r => r.Ward || '').filter(Boolean))).sort((a,b)=>a.localeCompare(b, undefined, {numeric:true}));
+  wards.forEach(w => $('#wardFilter').append(`<option value="${w}">${w}</option>`));
+
+  table = $('#votersTable').DataTable({
+    data: allData,
+    pageLength: 25,
+    responsive: true,
+    order: [[1,'asc']],
+    columns: [
+      { data: null, defaultContent: '', orderable:false },
+      { data: function(row){ return isTelugu ? (row.Ward_Tel || row.Ward) : row.Ward; } },
+      { data: null, className:'telugu', render: function(data,type,row){ return isTelugu ? (row.Name_Tel || row.Name) : row.Name; } },
+      { data: null, className:'telugu', render: function(data,type,row){ return isTelugu ? (row.Father_Tel || row['Father/Husband Name']) : row['Father/Husband Name']; } },
+      { data: 'Age' },
+      { data: 'Sex', render: function(d,type){ const raw = (d||'').toString().trim().toUpperCase(); const isM = raw==='M' || raw==='MALE' || raw==='1'; return (type==='display') ? (isTelugu ? (isM ? 'పురుషుడు' : 'స్త్రీ') : (isM ? 'Male' : 'Female')) : d; } },
+      { data: 'EPIC' }
+    ],
+    drawCallback: function(){
+      const api = this.api();
+      const visible = api.rows({search:'applied'}).nodes();
+      for(let i=0;i<visible.length;i++){
+        const td = visible[i].querySelector('td:first-child');
+        if(td) td.innerHTML = (i+1);
+      }
+      $('#showingCount').text(api.rows({search:'applied'}).count());
+    }
+  });
+
+  $('#loading').hide();
+  $('#votersTable').show();
+
+  $('#totalCount').text(allData.length);
+  $('#maleCount').text(allData.filter(r => ((r.Sex||'').toUpperCase()==='M' || (r.Sex||'').toUpperCase()==='MALE')).length);
+  $('#femaleCount').text(allData.filter(r => ((r.Sex||'').toUpperCase()==='F' || (r.Sex||'').toUpperCase()==='FEMALE')).length);
+
+  // event handlers
+  $('#surnameFilter').on('keyup paste change', function(){
+    const q = this.value.trim();
+    if(!q) table.column(2).search('').draw();
+    else table.column(2).search(q, false, true).draw();
+  });
+
+  $('#wardFilter').on('change', function(){
+    const v = $(this).val();
+    if(!v) table.column(1).search('').draw();
+    else table.column(1).search('^' + escapeRegex(v) + '$', true, false).draw();
+  });
+
+  $('#genderFilter').on('change', function(){ const val=$(this).val(); if(!val) table.column(5).search('').draw(); else table.column(5).search('^'+val+'$', true, false).draw(); });
+  $('#minAge, #maxAge').on('keyup change', function(){ table.draw(); });
+
+  $('#clearBtn').on('click', function(){ $('#surnameFilter').val(''); $('#wardFilter').val(''); $('#minAge').val(''); $('#maxAge').val(''); $('#genderFilter').val(''); table.search('').columns().search('').draw(); });
+  $('#langBtn').on('click', toggleLanguage);
+
+  table.on('draw', function(){ $('#showingCount').text(table.rows({search:'applied'}).count()); });
+}
+
+$(document).ready(function(){ loadCSV(); });
+</script>
+</body>
+</html>
