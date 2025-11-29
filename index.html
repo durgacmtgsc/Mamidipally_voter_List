@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BPY Team Mamidipally</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/datatables.net@1.13.8/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/datatables.net-dt@1.13.8/css/jquery.dataTables.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Pothana2000&display=swap" rel="stylesheet">
+
+  <style>
+    body::before {
+        content: "BPY TEAM";
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 120px;
+        color: rgba(255, 165, 0, 0.08);
+        z-index: 0;
+        pointer-events: none;
+        user-select: none;
+        font-weight: 700;
+        letter-spacing: 10px;
+        white-space: nowrap;
+    }
+
+    body { font-family: Arial, sans-serif; background: #f4f6f9; margin: 20px; }
+
+    .container { 
+        width: 95%; max-width: 1600px; margin: auto; background: white; 
+        padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        position: relative; z-index: 10;
+    }
+
+    h1 { text-align: center; color: #d35400; }
+
+    .lang-btn { padding: 10px 25px; background: #3498db; color: white; border: none;
+                border-radius: 6px; cursor: pointer; }
+
+    table.dataTable thead th { background-color: #d35400; color: white; }
+
+    /* PASSWORD SCREEN */
+    #passwordScreen {
+        position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0,0,0,0.85); display: flex; align-items: center;
+        justify-content: center; z-index: 99999;
+    }
+
+    #passwordBox {
+        background: white; padding: 35px; border-radius: 12px; width: 350px;
+        text-align: center; box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+    }
+
+    #passwordInput {
+        width: 100%; padding: 10px; font-size: 18px; margin-top: 10px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<!-- PASSWORD SCREEN -->
+<div id="passwordScreen">
+    <div id="passwordBox">
+        <h2 style="margin:0; color:#d35400;">BPY Team Mamidipally</h2>
+        <p style="margin-top:10px; font-size:18px;">Enter Password</p>
+
+        <input type="password" id="passwordInput" placeholder="Enter password">
+        <button onclick="checkPassword()" 
+            style="margin-top:15px; padding:10px 25px; background:#d35400; color:white; border:none; border-radius:5px;">
+            Submit
+        </button>
+
+        <p id="errorMsg" style="color:red; margin-top:10px;"></p>
+    </div>
+</div>
+
+<script>
+function checkPassword() {
+    const correct = "4111";  // FIXED PASSWORD
+    const entered = document.getElementById("passwordInput").value;
+
+    if (entered === correct) {
+        document.getElementById("passwordScreen").style.display = "none";
+    } else {
+        document.getElementById("errorMsg").textContent = "Incorrect Password!";
+    }
+}
+</script>
+
+</body>
+</html>
