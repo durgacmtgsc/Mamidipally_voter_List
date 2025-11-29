@@ -1,0 +1,1312 @@
+S.No,Ward,Name,Father/Husband Name,Age,Sex,EPIC
+1,Ward -1,Vadla Sandeep Kumar,Vadla Sangameshwar,25,M,NIQ2463040
+2,Ward -1,SHIVA KUMAR VADLA,SANGAMESHWAR,20,M,NIQ2896017
+3,Ward -1,Vadla Jagan,Vadla Govindhu,46,M,NIQ1815679
+4,Ward -1,Vadla Sangameshwar,Govindu,42,M,NIQ2555829
+5,Ward -1,Vadla Devendhar Chari,Sudhakar,36,M,FBD5288923
+6,Ward -1,Vadla Srikanth,Vadla Jagam,25,M,NIQ1799220
+7,Ward -1,MANIKANTA VADLA,JAGAM,25,M,NIQ2868198
+8,Ward -1,Vadla Prashanth,Vadla Jangam,24,M,NIQ2414597
+9,Ward -1,Vadla Vasavi,Vadla Prashanth,21,F,NIQ3250750
+10,Ward -1,Vadla Anjaneyulu,Veeranna,55,M,NIQ2556256
+11,Ward -1,Vadla Shamamma,Anjaneyulu,51,F,NIQ2556165
+12,Ward -1,Vadla Srinivas,Anjaiah,34,M,FBD5288949
+13,Ward -1,Vadla Lakshmamma,Narsimulu,65,F,NIQ2556132
+14,Ward -1,Vi Lakshmana Chari,Narsimulu,36,M,FBD5288956
+15,Ward -1,Vadla Sharanya,Vadla Laxman Chary,31,F,NIQ1798933
+16,Ward -1,Vadla Karthik Vadla,Vadla Brahmachary,21,M,NIQ2970739
+17,Ward -1,Vadla Ramulu,Narsimulu,54,M,NIQ2556819
+18,Ward -1,Vadla Meghamala,Ramulu,49,F,NIQ2556959
+19,Ward -1,Vadla Vimala,Vadla Santhosh Kumar,35,F,NIQ3071339
+20,Ward -1,Vadla Santhosh Kumar,Vadla Ramulu,29,M,NIQ1197780
+21,Ward -1,Vadla Ravi,Narsimulu,48,M,NIQ2556264
+22,Ward -1,Vadla Lalita,Ravi,44,F,NIQ2556280
+23,Ward -1,Vadla Raju,Vadla Ravi,26,M,NIQ1815000
+24,Ward -1,Vadla Ramya Vadla,Vadla Ravi,22,F,NIQ3285665
+25,Ward -1,Vadla Brahmachari,Narsimulu,44,M,NIQ2556405
+26,Ward -1,Vadla Vishwaroopa,Vadla Brahma Chary,43,F,NIQ1327866
+27,Ward -1,Vadla Anusha,Vadla Srinivas,30,F,NIQ3250743
+28,Ward -1,Kasala Ramulu,Kasala Narayana,78,M,NIQ2094654
+29,Ward -1,Kasala Lingamaiah,Naraayana,63,M,FBD3804812
+30,Ward -1,Kasala Vimalamma,Lingamaiah,59,F,NIQ2555811
+31,Ward -1,Vadla Manisha,Vadla Srikanth,22,F,NIQ3250735
+32,Ward -1,Pandurangarao Kasala,Lingamaiah,43,M,FBD3802303
+33,Ward -1,Mahalaxmi Alle,Pandu Ranga Rao,29,F,NIQ2301935
+34,Ward -1,Arjun Chaupal,Mahender Chaupal,32,M,NIQ1799592
+35,Ward -1,Priyanka Chapal,Arjun Chaupal,30,F,NIQ1799626
+36,Ward -1,Niradi Ramulu,Eeraiah,65,M,FBD3803012
+37,Ward -1,Neeradi Shusheela,Ramulu,58,F,FBD3803772
+38,Ward -1,Talari Sujata,Narsimlu,40,F,FBD3802055
+39,Ward -1,N Anjaneyulu Anjaneyulu,Ramulu,35,M,FBD5288964
+40,Ward -1,Lavanya Nirudi,Anjaneyulu,29,F,NIQ1214725
+41,Ward -1,Neerudi Anuradha Neerudi,Sujatha,27,F,NIQ3247251
+42,Ward -1,Vadla Shusheela,Sudhakar,60,F,FBD5288915
+43,Ward -1,Neerudi Anusha Neerudi,Sujatha,25,F,NIQ3247244
+44,Ward -1,Talari Vittal,Talari Eraiah,59,M,NIQ1327874
+45,Ward -1,Talari Ranemma,Vithal,43,F,FBD3804374
+46,Ward -1,Vadla Parmdas Chari,Sudhakar,36,M,FBD5288931
+47,Ward -1,V Anil Kumar,Sudhaker,35,M,NIQ1467134
+48,Ward -1,Vadla Kalpana Vadla,Devendra Chary,32,F,NIQ0963992
+49,Ward -1,Vadla Madhavi,Vadla Parandas Chary,30,F,NIQ2265007
+50,Ward -1,Talari Raju,Vitoba,31,M,NIQ0890947
+51,Ward -1,Talari Rajendra Prasad,Talari Vittalaiah,28,M,NIQ1532671
+52,Ward -1,Talari Vasundhara,Talari Raju,28,F,NIQ1954510
+53,Ward -1,Talari Veeresham,Talari Vittalaiah,28,M,NIQ1815059
+54,Ward -1,Tuntan Chupal,Tuntan Mahgindar,39,M,NIQ1815638
+55,Ward -1,Sigashum Choupal,Tuntun Choupal,38,F,NIQ1197871
+56,Ward -1,BABLU CHOUPAL,TUNTUN,22,M,NIQ2864916
+57,Ward -1,Kasala Ramulu,Venkaiah,49,M,NIQ2558328
+58,Ward -1,Kasala Suvarna,Ramulu,44,F,NIQ2556603
+59,Ward -1,Kasaala Mallikarjun,Kasaala Ramulu,27,M,NIQ1854215
+60,Ward -1,Kasala Shravani Kasala,Kasala Mallikarjun,21,F,NIQ3337060
+61,Ward -1,Kasala Durgaprasad,Ramulu,19,M,NIQ3245073
+62,Ward -1,Kale Jagdish,Pandit,50,M,NIQ2556348
+63,Ward -1,Kale Vinod Kale,Jagdeesh,36,M,NIQ1332287
+64,Ward -1,Gaikwad Arthi,Jagadish,33,F,NIQ1420751
+65,Ward -1,Gaikwad Anand,Jagadish,33,M,NIQ0879940
+66,Ward -1,Kale Saritha,Kale Vinod,29,F,NIQ1327916
+67,Ward -1,Patnam Nandam,Pocaiah,80,M,NIQ2555290
+68,Ward -1,Patnam Pushmmamma,Patnam Nandam,66,F,NIQ1798941
+69,Ward -1,Patnam Srkanth,Patnam Sathyanarayana,34,M,NIQ1798966
+70,Ward -1,Patnam Manjula,Patnam Srikanth,31,F,NIQ1799303
+71,Ward -1,Vimala Kurma,Laxmaiah,31,F,NIQ1214733
+72,Ward -1,Kasala Narsimulu,Naraayana,71,M,FBD3804580
+73,Ward -1,Kasala Lakshmamma,Narsimulu,66,F,FBD3804598
+74,Ward -1,Kasala Naraayana,Narsimulu,44,M,FBD3804960
+75,Ward -1,Kasala Venkatesham,Narsimlu,41,M,FBD5288980
+76,Ward -1,Kasala Jyothi,Venkatesh,38,F,NIQ0805127
+77,Ward -1,Kasala Santosha,Naraayana,37,F,FBD3802063
+78,Ward -1,Chintha Balaih,Chandhraiah,56,M,NIQ2555431
+79,Ward -1,Vendikolu Manaiah,Vendikolu Lakshmaiah,56,M,FBD5288998
+80,Ward -1,Vendikola Svaruapa,Vendikola Manaiah,51,F,FBD5289004
+81,Ward -1,Chintha Anjamma,Baiyulu,49,F,NIQ2555852
+82,Ward -1,Chintha Durga Prasad,Chintha Balaiah,31,M,NIQ0890954
+83,Ward -1,Sai Chandra Chintha,Balaiah,30,M,NIQ1214709
+84,Ward -1,Parvathi Chintha,Durga Prasad,25,F,NIQ2301661
+85,Ward -1,MANJULA CHINTHA,SAI CHANDRA,23,F,NIQ2869600
+86,Ward -1,Kiran Janardhan More,Janardhan More,37,M,NIQ1922368
+87,Ward -1,Preethi Kiran More,Kiran Janardhan More,34,F,NIQ1922343
+88,Ward -1,Chint Lakshmamma,Naraayana,65,F,NIQ2555894
+89,Ward -1,Kale Aadi Sakthi,Pandit,63,F,FBD3804077
+90,Ward -1,Kale Sanju Nelapati,Kale Pandith,52,M,NIQ1332295
+91,Ward -1,Chintha Narsimlu,Naraayana,38,M,FBD3804945
+92,Ward -1,Chintha Manjula,Narsimlu,37,F,FBD3802014
+93,Ward -1,Kale Vijay,Ravi,37,M,FBD3804515
+94,Ward -1,Kale Ashtshila,Kale Vijay,36,F,NIQ1922376
+95,Ward -1,Kale Ashwini,Kale Sanju,25,F,NIQ1922392
+96,Ward -1,BHAVANI CHINTHA,NARSIMLU,21,F,NIQ2860963
+97,Ward -1,Chintha Bargavi Chintha,Narsimulu,19,F,NIQ3244985
+98,Ward -1,Kale Shobh,Jagdish,50,F,NIQ2556330
+99,Ward -1,Venkatesham Talari,Mallaiah,43,M,FBD3804820
+100,Ward -1,Padma Talari,Venkatesham,37,F,NIQ1089185
+101,Ward -1,Kummari Shayamamma,Pandari,52,F,NIQ2561280
+102,Ward -1,Kummari Sathyanarayana,Lingaiah,43,M,FBD3802048
+103,Ward -1,Kummari Sunitha,Sathyanarayan,36,F,FBD5290234
+104,Ward -1,Kummari Pentamma,Balaiah,80,F,NIQ2556496
+105,Ward -1,Kummari Narsimulu,Kammari Balaiah,56,M,NIQ2556751
+106,Ward -1,Kummari Lakshmi,Narsimulu,49,F,NIQ2557114
+107,Ward -1,Kummari Sriramulu,Balaiah,46,M,NIQ2557023
+108,Ward -1,Kummari Sujata,Shriramulu,45,F,NIQ2556686
+109,Ward -1,Kummari Mallesham,Balaiah,43,M,NIQ2557072
+110,Ward -1,Kummari Anjaneyulu,Balaiah,41,M,FBD3803020
+111,Ward -1,Kummari Ramulamma,Malesham,39,F,FBD3802451
+112,Ward -1,Kummari Latha,Aanjaneyulu,36,F,NIQ0356600
+113,Ward -1,Kummari Venkatesh,Baiyulu,35,M,NIQ0701730
+114,Ward -1,K Gowthami,K Venkatesh,31,F,NIQ1101609
+115,Ward -1,Kummari Paraveen Kumar,Kummari Narsimlu,30,M,NIQ0989790
+116,Ward -1,Kummari Vinod Kumar,Kummari Sri Ramulu,28,M,NIQ1799550
+117,Ward -1,Kummari Sudha,Kummari Praveen Kumar,28,F,NIQ3011467
+118,Ward -1,Kummari Ganesh,Kummari,28,M,NIQ3245081
+119,Ward -1,KUMMARI SHRAVANI,KUMMARIMALLESHAM,20,F,NIQ3119369
+120,Ward -1,Kasala Chinna Yadamma,Ramulu,63,F,NIQ2555803
+121,Ward -1,Pavan Kale,Sanju,23,M,NIQ3191509
+122,Ward -1,Vadla Souwya,Vadla Anil Kumar,29,F,NIQ3091972
+123,Ward -1,MANJULA CHINTHA,CHINTA SAI CHANDRA,23,F,NIQ2842003
+124,Ward -1,Vinoda Kummari,Pandaraiah,24,F,NIQ3329885
+125,Ward -1,V JHANSI RANI,V KRISHNA,30,F,NIQ3328382
+126,Ward -1,V TEJASHWINI,V KRISHNA,23,F,NIQ3328515
+127,Ward -1,CHINTHA BHAVANI,CHINTHA NARSIMLU,21,F,NIQ2848745
+128,Ward -1,Vadla Padma,Lakshminarayana,54,F,NIQ0701011
+129,Ward -1,Chandrakala V,Krishna,52,F,ZUC2803526
+130,Ward -1,Krishna,Vadla,46,M,ZUC2803534
+131,Ward -1,Vadla Venkatesh,Lakshmi Narayana,37,M,NIQ0701029
+132,Ward -1,Vadla Saritha,Venkatesh,35,F,NIQ1420769
+133,Ward -1,Harish Kurma,Manaiah,24,M,NIQ2412948
+134,Ward -1,KUMMARI PRANAY,KUMMARIANJANEYULU,19,F,NIQ3001807
+135,Ward -1,Vadla Anuradha,Vadla Sangameshwar,34,F,NIQ2959054
+136,Ward -1,Kurma Rukkamma,Venkaiah,80,F,FBD3802402
+137,Ward -1,Kurma Anjamma,Venkaiah,48,F,FBD3803137
+138,Ward -1,Kurma Lakshmaiah,Kurma Venkaiah,37,M,FBD5288972
+139,Ward -1,Kasala Narayana,Kasala Narsimlu,49,M,NIQ2840890
+140,Ward -2,Kummari Mallamma,Kammari Mallaiah,66,F,NIQ2556769
+141,Ward -2,Kummari Mogulaiah,Kammari Mallaiah,42,M,NIQ2556678
+142,Ward -2,Kummari Anitha,Mogulaiah,40,F,FBD3803335
+143,Ward -2,Kummari Narsimulu,Kummari Mallaiah,54,M,NIQ1799808
+144,Ward -2,Kummari Pushpamma,Narsimulu,44,F,NIQ2556850
+145,Ward -2,Kummari Balakrishna,Mallaiah,54,M,NIQ2556082
+146,Ward -2,Kummari Navaneetha,Kummari Rajendhar,34,F,NIQ1814946
+147,Ward -2,Kummari Jeeta Rao,Bala Krishna,34,M,NIQ0701144
+148,Ward -2,Kummari Rajender,Bala Krishna,32,M,NIQ0891002
+149,Ward -2,RAJESHWARI KUMMARI,SAIDAPPA,22,F,NIQ2864833
+150,Ward -2,Kummari Jyothi,Kummari Jeetharao,34,F,NIQ1814979
+151,Ward -2,Kasala Sashikala,Pandari,49,F,NIQ2556595
+152,Ward -2,Kasala Venkatesham,Kasala Pandari,36,M,NIQ0034710
+153,Ward -2,Kasala Sandhyarani,Kasala Venkatesham,29,F,NIQ1582809
+154,Ward -2,Neerudi Lakshmamma,Kishtaiah,74,F,NIQ2556322
+155,Ward -2,Neerudi Srishailam,Kistaiah,36,M,FBD5289095
+156,Ward -2,Nirudi Shankar,Kishtaiah,34,M,NIQ0036665
+157,Ward -2,Neerudi Mallamma,Yadagiri,49,F,NIQ2555555
+158,Ward -2,Swathi Neerudu,Nagaraju,30,F,NIQ1214758
+159,Ward -2,Neerudi Eashwaraiah,Kishtaiah,48,M,NIQ2555613
+160,Ward -2,Chilaka Marri Lakshmi,Malla Areddy,81,F,FBD5289129
+161,Ward -2,Chilaka Marri Satish,Malla Areddy,48,M,FBD5289137
+162,Ward -2,Chilaka Marri Santosh,Malla Areddy,46,M,FBD5289061
+163,Ward -2,Jyothsna Chilakamari,Satish Reddy,44,F,NIQ1313634
+164,Ward -2,Neerudi Sandhya,Neerudi Eshwaraiah,39,F,NIQ1815265
+165,Ward -2,Talari Anasuya,Lakshmaiah,54,F,FBD3805207
+166,Ward -2,Thalari Ishwarya,Sudakar,32,F,NIQ0805168
+167,Ward -2,SIDHARTHA REDDY KATTUMULLA,NARSI REDDY,22,M,NIQ3165495
+168,Ward -2,Talari Mallesham,Nagaiah,49,M,FBD5289145
+169,Ward -2,Talari Chandhrakala,Mallesham,44,F,NIQ2556629
+170,Ward -2,SAI KUMAR TALARI,MALLESHAM,21,M,NIQ2869709
+171,Ward -2,Kattumulla Narsireddy,Lingareddy,50,M,FBD3804275
+172,Ward -2,Kay Jiyoti,Narsi Areddy,43,F,FBD3804325
+173,Ward -2,Talari Malesham,Naraayana,43,M,FBD3803194
+174,Ward -2,Talari Lalita,Mallesha,39,F,FBD5289152
+175,Ward -2,Talari Srinivas,Satyaiah,47,M,NIQ2557163
+176,Ward -2,Talri Neelamma,Srinivas,37,F,FBD3802337
+177,Ward -2,SRIKANTH TALARI,SRINIVAS,23,M,NIQ2893907
+178,Ward -2,SRIDHAR TALARI,SRINIVAS,20,M,NIQ2869881
+179,Ward -2,Neerudi Raju,Sathaiah,41,M,FBD3802329
+180,Ward -2,Neerudi Surakha,Raju,37,F,NIQ0037218
+181,Ward -2,Talari Ravi,Talari Sathaiah,38,M,FBD5289160
+182,Ward -2,Thalari Saritha,Ravi,33,F,NIQ0805143
+183,Ward -2,Talari Shrishailam,Anjaiah,49,M,NIQ2555571
+184,Ward -2,Kurma Srinivas,Komuraiah,48,M,FBD3803269
+185,Ward -2,Kurma Lalita,Srinivas,43,F,FBD3803228
+186,Ward -2,Talari Lakshmi,Shrishailam,40,F,FBD3803889
+187,Ward -2,Thalari Lalitha,Thalari Prabhu,39,F,NIQ1921550
+188,Ward -2,Kurma Yadhagiri,Kurma Srinivas,30,M,NIQ1799857
+189,Ward -2,Kurma Vinoda,Yadagiri,28,F,NIQ2301877
+190,Ward -2,Talari Shiva,Talari Srisailam,24,M,NIQ2418788
+191,Ward -2,Talari Balakrishna,Talari Srishailam,20,M,NIQ2959534
+192,Ward -2,Talari Ellaiah,Balaiah,78,M,FBD3804234
+193,Ward -2,Talari Narsimulu,Ellaiah,43,M,FBD3804978
+194,Ward -2,Talari Urmilla,Narsimlu,37,F,FBD3802196
+195,Ward -2,ARUN TALARI,NARSIMLU,24,M,NIQ2869824
+196,Ward -2,Talari Shamamma,Talari Lachami Naree,39,F,FBD5289194
+197,Ward -2,Talari Lakshmamma,Raamulu,64,F,NIQ2556546
+198,Ward -2,Talari Srinivas,Amulu,43,M,FBD3802774
+199,Ward -2,Talari Balmani,Srinivas,37,F,FBD3802188
+200,Ward -2,Talari Venkatesham,Ramulu,37,M,FBD3802394
+201,Ward -2,Thalari Padma,Talari Venkatesham,34,F,NIQ0868844
+202,Ward -2,Thalari Madhavi,Thalari Mallesham,29,F,NIQ1799287
+203,Ward -2,MADHURI TALARI,TALARI SRINU,23,F,NIQ2842078
+204,Ward -2,BHARATH TALARI,SRINIVAS,22,M,NIQ2869667
+205,Ward -2,Kasala Lakshmaiah,Chittari,60,M,NIQ2555886
+206,Ward -2,Kasala Vittal,Kasala Chithari,55,M,NIQ1815240
+207,Ward -2,Kasala Balmani,Vithal,48,F,NIQ2556314
+208,Ward -2,Kasala Swathi,Kasala Vittal,31,F,NIQ1236083
+209,Ward -2,MADHAVI KASALA,VITTAL,24,F,NIQ2847127
+210,Ward -2,SRAVAN KUMAR KASALA,VITTAL,22,M,NIQ2868057
+211,Ward -2,Kasala Rukkamma,Gopal,54,F,NIQ2556652
+212,Ward -2,Khasala Sathish Kumar,Khasala Gopal,34,M,NIQ1799279
+213,Ward -2,Khasal Jyothi,Khasal Sathish Kumar,27,F,NIQ1799246
+214,Ward -2,Kasala Lakshmi,Lakshmaiah,52,F,NIQ2556306
+215,Ward -2,K Pavan Kumar,Lakshmaiah,34,M,NIQ0627307
+216,Ward -2,Kasala Prashanth,Laxmaiah,31,M,NIQ0890996
+217,Ward -2,Kasala Narasma,Kasala Aagaiah,65,F,NIQ2556470
+218,Ward -2,Kasala Agamaiah,Chithari,59,M,NIQ2555530
+219,Ward -2,Sara Anitha,Naraayana,54,F,NIQ2557015
+220,Ward -2,Sar Jankiram,Lakshman,54,M,FBD5289236
+221,Ward -2,Sar Padma Bai,Jankiram,49,F,FBD5289244
+222,Ward -2,Rajireddygari Gowardan Areddy,Manik Areddy,58,M,FBD3804754
+223,Ward -2,Rajireddygari Madhuraveni,Gowardan Areddy,49,F,NIQ2556637
+224,Ward -2,R Ramesh Reddy,Govardan Reddy,34,M,NIQ0805176
+225,Ward -2,Nikhitha Reddy Aakula,R Ramesh Reddy,27,F,NIQ2301901
+226,Ward -2,RAJIREDDYGARI NAVYA,Rajireddygari RakeshReddy,25,F,NIQ2992493
+227,Ward -2,R Padma,Srinivas Reddy,46,F,NIQ2557130
+228,Ward -2,RAJIREDDY GARI RAKESH REDDY,RAJIREDDY GARISRINIVAS REDDY,34,M,NIQ0701045
+229,Ward -2,Rajireddy Rohith Reddy,Rajireddy Gaari SrinivasReddy,30,M,NIQ0990268
+230,Ward -2,Jaggareddygari Venkatamma,Pratas Areddy,67,F,NIQ2555738
+231,Ward -2,Jaggareddygari Rai Reddy,Pratap Reddy,34,M,FBD5290366
+232,Ward -2,SWATHI JAGGAREDDYGARI,RAIREDDY,22,F,NIQ3165487
+233,Ward -2,Jaggareddy Gari Ram Reddy,Jaggareddy GariVitalreddy,53,M,NIQ1815356
+234,Ward -2,Jaggareddy Gari Sujatha,Ramreddy,43,F,FBD3804614
+235,Ward -2,Sunil Kumar Mishra,Thribhuvan Mishra,42,M,NIQ1236091
+236,Ward -2,Kangan Mishra,Sunil Kumar Mishra,38,F,NIQ1236059
+237,Ward -2,Jaggareddy Gari Praveena,Jaggareddy GariRamreddy,28,F,NIQ1799204
+238,Ward -2,Jaggareddy Gari Prasanna Reddy,Jaggareddy Gari RamReddy,26,F,NIQ1799238
+239,Ward -2,Jaggareddy Gari Madhavareddy,Vithal Reddy,45,M,FBD3805140
+240,Ward -2,Jeprabhavathi,Madhava Reddy,40,F,FBD3802592
+241,Ward -2,Jaggareddy Gari Vikram Reddy,Jaggareddy GariMadhavareddy,24,M,NIQ3011459
+242,Ward -2,Jaggareddy Gari Vaishnavi,Jaggareddy GariMadhavareddy,22,F,NIQ3011426
+243,Ward -2,Jenavj Areddy,Vittala Areddy,45,M,FBD3802626
+244,Ward -2,Jaggareddi Gari Lavanya,Navaj Reddi,39,F,NIQ0356873
+245,Ward -2,Talari Krishna Talari,Talari Mallaiah,47,M,NIQ3318789
+246,Ward -2,Talari Manjula,Talari Krishna,40,F,NIQ3318771
+247,Ward -2,Padamati Srinivas,Padamati Komuraiah,51,M,NIQ2786564
+248,Ward -2,KUMMARI VIJAY KUMAR,KUMMARIMOGULAYYA,24,M,NIQ3314838
+249,Ward -2,TALARI SAI KUMAR,TALARI MALLESHAM,22,M,NIQ2841922
+250,Ward -2,TALARI SRIKANTH,TALARI SRINIVAS,23,M,NIQ2884237
+251,Ward -2,TALARI SRIDHAR,TALARI SRINIVAS,20,M,NIQ2884245
+252,Ward -2,PRAVEEN KURMA,SRINIVAS,25,M,NIQ2925170
+253,Ward -2,THALARI ANAND,THALARI NARSIMLU,20,M,NIQ3248903
+254,Ward -2,Anand Thalari,Narsimlu,20,M,NIQ3245404
+255,Ward -2,TALARI ARUN,TALARI NARSIMLU,24,M,NIQ2884229
+256,Ward -2,TALARI BHARATH,TALARI SRINIVAS,22,M,NIQ2884088
+257,Ward -2,Shaik Mohinoddin,Shaik Ahmed,73,M,NIQ2301752
+258,Ward -2,Shaik Fathima,Mohinoddin,68,F,NIQ2301760
+259,Ward -2,Sanganamoni Lingamma,Srinu,41,F,NIQ2301828
+260,Ward -2,KUMMARI BHARATH KUMAR,KUMMARIMOGULAYYA,18,M,NIQ3367547
+261,Ward -3,J Venugopal Reddy,Bucchi Areddy,41,M,FBD3802758
+262,Ward -3,Jaggareddy Gari Buchireddy,Lakshma Areddy,72,M,FBD3803251
+263,Ward -3,Jaggareddy Gari Snehalatha,Bucchi Areddy,58,F,FBD3803970
+264,Ward -3,Jaggareddy Gari Sushma,Jeggareddy Venkat Reddy,32,F,NIQ0989865
+265,Ward -3,Jagareddy Gari Swathi,J.Venugopal Reddy,31,F,NIQ2210474
+266,Ward -3,Rajireddygari Balram Reddy,Balkishta Reddy,64,M,NIQ2556579
+267,Ward -3,Rajireddygari Kamalamma,Bal Ram Areddy,63,F,NIQ2557122
+268,Ward -3,Rajireddygari Saireddy,Balaram Areddy,46,M,FBD3802691
+269,Ward -3,Rajireddygari Sudhaakar Reddy,Rajireddygari BalramReddy,44,M,NIQ2264968
+270,Ward -3,Rajireddygari Jyothi,Rajireddygari SudhakarReddy,44,F,NIQ2264976
+271,Ward -3,Kummari Durgamma,Balaiah,83,F,FBD3804846
+272,Ward -3,Kummari Parvatamma,Venkataiah,48,F,FBD3803707
+273,Ward -3,Kummari Venkataiah,Balaiah,48,M,FBD3803806
+274,Ward -3,Kummari Anjaneyulu,Venkataiah,35,M,FBD5289277
+275,Ward -3,Kummari Hemalatha,Kummari Anjaneilu,26,F,NIQ1922038
+276,Ward -3,Kummari Pooja,Kummari Anjaneyulu,25,F,NIQ2959096
+277,Ward -3,Beerappala Bucchamma,Narayana,59,F,NIQ2556462
+278,Ward -3,Beerapala N,Berapala Naraayana,37,M,FBD5289228
+279,Ward -3,Birappala Manjula,N,33,F,FBD5290325
+280,Ward -3,Beerappala Laxmaiah,Naraayana,60,M,FBD3803723
+281,Ward -3,Beerappala Chandrakala,Lakshmaiah,49,F,FBD3803756
+282,Ward -3,Beerappala Venkatesh Beerappagari,Laxmaiah,30,M,NIQ0990227
+283,Ward -3,Beerappla Manjula,Beerappla Venkatesham,28,F,NIQ1799089
+284,Ward -3,Beerapala Viswanadham,Narayana,50,M,FBD3804762
+285,Ward -3,Beerappala Balamani,Viswanadham,45,F,FBD3803749
+286,Ward -3,NARENDAR BERAPPALA,VISHWANATHAM,22,M,NIQ2865558
+287,Ward -3,Beerappagari Penraiah,Kurma Gopal,55,M,NIQ2556488
+288,Ward -3,Beerappagari Lalitha,Pentaiah,50,F,NIQ2555753
+289,Ward -3,Beerappagari Gopal,Beerappagari Pentaiah,31,M,NIQ1089193
+290,Ward -3,Habeeb Ahmad,Fate Mohamed,58,M,NIQ2555332
+291,Ward -3,Asiabegam,Abib Hammad,52,F,FBD5289285
+292,Ward -3,Nawaz Amed Mohd,Habeeb Ahmed,29,M,NIQ1222827
+293,Ward -3,Fathima Begum Md,Habeeb,26,F,NIQ3315900
+294,Ward -3,Raheela Ruqsar,Md Nawaz Ahmed,19,F,NIQ3354362
+295,Ward -3,Amina Bee,Daval Sab,58,F,FBD3804564
+296,Ward -3,Parveen Sulthana,Md Nazeer Ahmed,34,F,NIQ1799907
+297,Ward -3,M D Nazeer Ahmed,Mahammad,34,M,NIQ0701755
+298,Ward -3,Arthiya Begam,Mohmmed Shabber,33,F,NIQ1799352
+299,Ward -3,Md Shabbir,Md Dawal Sab,31,M,NIQ0890939
+300,Ward -3,Hajira Begam,Mohmmed Ahmed,26,F,NIQ1799345
+301,Ward -3,SHAIK MAHMOOD MIYA,SHAIK IMAM SAB,55,M,FBD5289301
+302,Ward -3,Salma Begum,M D Ahmed,39,F,FBD5290275
+303,Ward -3,Md Ghouse Pasha,Babu Miya,36,M,FBD5289293
+304,Ward -3,Mohammed Jilani,Babumiya,33,M,NIQ1937622
+305,Ward -3,Asfiya Begum,Mohammad GhousePasha,24,F,NIQ2412914
+306,Ward -3,RAHMATH MOHAMMED,AHMED,23,M,NIQ2868503
+307,Ward -3,KATHIJA BEGUM,JILANI,23,F,NIQ2860849
+308,Ward -3,Mahaboob Ali Md,Imam Sab,50,M,NIQ2557171
+309,Ward -3,Gausiya Begam,M D Maibali,43,F,FBD3804556
+310,Ward -3,ADIL MOHAMMED,MOHABOOB ALI,22,M,NIQ2870327
+311,Ward -3,AMAN MD,MOHABOOB ALI,21,M,NIQ2890457
+312,Ward -3,Rajiya,Malang,70,F,NIQ2555449
+313,Ward -3,Nizam Mohammd,Malang,31,M,NIQ0964081
+314,Ward -3,Saba Begum,Pakkiri Nizam,26,F,NIQ1799394
+315,Ward -3,NASREEN BEGUM,NIZAM,22,F,NIQ2860302
+316,Ward -3,Khaja Bee,Hussain Sab,76,F,NIQ1186205
+317,Ward -3,Mahmad Ali Sab,Shek Hussen,59,M,FBD3804952
+318,Ward -3,Mohmmed Shafiuddin,Mohmmed Ali,29,M,NIQ1799758
+319,Ward -3,Thalari Anitha,Shri Ramulu,35,F,FBD5290408
+320,Ward -3,SUMERA FATHIMA SHAIK,MAMOOD MIYA,23,F,NIQ2861011
+321,Ward -3,Mohammed Shafee,Pasha,24,M,NIQ3350253
+322,Ward -3,Neha Begum Md,Md Imthiaz,22,F,NIQ3247269
+323,Ward -3,Neha Begum Md,Md Imthiyaz,22,F,NIQ3318185
+324,Ward -3,Neha Begum,Md Shakeer,21,F,NIQ3351780
+325,Ward -3,Mohammaed Sameer Mohammed,Mohammad Ali Sab,21,M,NIQ3064110
+326,Ward -3,BEERAPPAGARI MOUNIKA,BEERAPPAGARIGOPAL,23,F,NIQ3247277
+327,Ward -3,PAKEER KATHIJA BEGUM,MD JALANI,23,F,NIQ2848497
+328,Ward -3,MD AMAN,MD MAHBOOB ALI,21,M,NIQ2884104
+329,Ward -3,Nirudi Jangaiah,Bagaiah,59,M,NIQ2556975
+330,Ward -3,Talari Shushila,Jangaiah,54,F,NIQ2556967
+331,Ward -3,N Prasad,Jangaiah,33,M,NIQ0627323
+332,Ward -3,Nirudi Vijaya Laxmi,Nirudi Jangaiah,28,F,NIQ1854199
+333,Ward -3,Jahingar Begam,Mahmad Maimud,38,F,FBD5289319
+334,Ward -3,Chakali Ellamma,Balaiah,59,F,NIQ2555704
+335,Ward -3,Chakali Devender,Balaiah,36,M,FBD5289335
+336,Ward -3,Sakali Yamini,Devendar,33,F,NIQ0805135
+337,Ward -3,Chakali Sreedhar,Chakali Balaiah,31,M,NIQ0989493
+338,Ward -3,Venna Haritha Reddy,Chakali Sridhar,27,F,NIQ2213619
+339,Ward -3,Mohammed Fayaz Pasha,Yusuf,32,M,FBD5290317
+340,Ward -3,Farzana Begum Mohd,Fayaz,30,F,NIQ1222835
+341,Ward -3,Begam Bee,Yusuf,52,F,NIQ2555662
+342,Ward -3,Mohammed Ali,Mohammed Kajamiya,54,M,NIQ1921576
+343,Ward -3,Gousiya Begum,M.D Ali,46,F,NIQ1921568
+344,Ward -3,Mahbub Bee,Khajamiah,85,F,FBD3805108
+345,Ward -3,Mahaboob Ali,Khajamiah,49,M,FBD3804986
+346,Ward -3,Mahboob Bee,Mahboob Alee,47,F,FBD3804028
+347,Ward -3,Chand Pasha,Khajamiya,47,M,FBD3804994
+348,Ward -3,Chand Bee,Chand Pasha,40,F,FBD3802857
+349,Ward -3,Nasima Begum,Mahaboob Ali,29,F,NIQ1719780
+350,Ward -3,Mohammed Imthiyaz Mohammed,Mohammed Chand Pasha,27,M,NIQ1601707
+351,Ward -3,Mohammed Shafi,Chandh Pasha,26,M,NIQ1921584
+352,Ward -3,RUKSANA BEGUM,CHAN PASHA,22,F,NIQ3245875
+353,Ward -3,Mohammed Ghouse,Mahaboob Ali,26,M,NIQ1719806
+354,Ward -3,Mahamood,Mahaboob Ali,25,M,NIQ1921600
+355,Ward -3,Sabera Begum,Mainoddin,59,F,NIQ2555621
+356,Ward -3,Mohammed Ghouse,Mainoddin,40,M,FBD3802352
+357,Ward -3,Rihnabegam,Mahmad Bashir,37,F,FBD3802501
+358,Ward -3,Mohammad Fareed,Md Moinoddin,35,M,NIQ1815166
+359,Ward -3,Md Shahanaz Begum,Mohammed Ghouse,34,F,NIQ0034959
+360,Ward -3,Asra Begum,Md Farid,28,F,NIQ1769371
+361,Ward -3,Chakali Srinivas,Chakali Balaiah,44,M,FBD5289343
+362,Ward -3,Chakali Manjula,Srinivas,42,F,FBD5289350
+363,Ward -3,Chakali Veeramani,Krishan,41,F,FBD3803350
+364,Ward -3,Chakali Krishan,Baiyulu,40,M,FBD3802998
+365,Ward -3,Anuradha Chakali,Jithesh,32,F,NIQ2465417
+366,Ward -3,Chakali Shobh,Sadanandam,54,F,FBD3804721
+367,Ward -3,Chakali Malesh,Sadanandam,37,M,FBD3802147
+368,Ward -3,Chakali Malleshwari,Mallesh,33,F,NIQ0701136
+369,Ward -3,Chakali Jitesh,Chakali Sadanandam,32,M,NIQ0989410
+370,Ward -3,M D Rafiq,Mohammed Khasim Sab,41,M,FBD3802766
+371,Ward -3,Rijwana Begum,Mdrafik,35,F,FBD5290341
+372,Ward -3,Jubeda Begam,Maulana,57,F,NIQ2556439
+373,Ward -3,Mohammed Shafi,Kasimsab,51,M,NIQ2555985
+374,Ward -3,Fouziya Begum,Shaphi,43,F,NIQ2555977
+375,Ward -3,Mohmmed Shakeer,Mohmmed Shafi,28,M,NIQ1799766
+376,Ward -3,Mohmmed Imran,Mohmmed Shafi,26,M,NIQ1799931
+377,Ward -3,Jaggareddy Gari Venkat Reddy,Buchchireddy,42,M,FBD3803954
+378,Ward -3,SHAIKSUMERA FATHIMA,SHAIKMAHAMOODMIYA,22,F,NIQ2848539
+379,Ward -3,MOHAMMED IMAM,LATE MOHAMMEDBASHEER,21,M,NIQ2867083
+380,Ward -3,Md Shabir,Khasim Sab,56,M,NIQ0281857
+381,Ward -3,Mazahari Begum,Md Shabir,45,F,NIQ0999005
+382,Ward -3,Md Shamshuddin,Md Shabbir Ahmed,29,M,NIQ0999401
+383,Ward -3,Jaggareddy Gari Srinivasreddy,Lakshma Reddy,53,M,FBD3804283
+384,Ward -3,NASREEN BEGUM,PAKEER NIZAM,22,F,NIQ2848794
+385,Ward -3,Himanbi,Khasimsab,70,F,NIQ2555670
+386,Ward -3,Md Jilani,Baabumiya,33,M,NIQ0034926
+387,Ward -3,Manjula Birapala,Narayana,32,F,NIQ1772144
+388,Ward -3,TALARI GANESH,TALARI,19,M,NIQ3384021
+389,Ward -4,Vadde Anjamma,Allaiah,59,F,NIQ2555936
+390,Ward -4,Saba Fathima,Md Khaled,29,F,NIQ3351772
+391,Ward -4,AZEEM MOHAMMED,ANWAR MIYA,22,M,NIQ2853604
+392,Ward -4,Sameena Bagum Mohammed,Gulam Dastagir,23,F,NIQ2971414
+393,Ward -4,SAMREEN,BABU MIYA,22,F,NIQ2860625
+394,Ward -4,SAI KUMAR CHAKALI,NARSIMLU,20,M,NIQ2869733
+395,Ward -4,CHAKALI RAVI,CHAKALI RAMESH,25,M,NIQ2843027
+396,Ward -4,SANDEEP KANEKAR,DIPAK,20,M,NIQ2853612
+397,Ward -4,Nishad Begam,MD Nasiroddin,25,F,NIQ2958890
+398,Ward -4,MALANG MOHAMMED,KHAJA MIYA,60,M,NIQ2862696
+399,Ward -4,SAJEEDA BEGUM,MALANG,55,F,NIQ2860930
+400,Ward -4,KRISHNA CHAKALI,ANJANEYULU,23,M,NIQ2868149
+401,Ward -4,Chakali Manasa,Chakali Krishna,19,F,NIQ3354586
+402,Ward -4,Kode Venkatesham,Kode Srinivas,44,M,NIQ2782415
+403,Ward -4,Bommala Kavitha,Bommala Sai Kumar,26,F,NIQ3011483
+404,Ward -4,ARUNA MYADAM,SRINIVAS,54,F,NIQ3034253
+405,Ward -4,ABHILASH MYADAM,KRISHNA,24,M,NIQ2868347
+406,Ward -4,RAJESH KURMA,DURGAIAH,21,M,NIQ2822484
+407,Ward -4,Vadde Naresh Vadde,Chandraiha,21,M,NIQ3056231
+408,Ward -4,NAVEEN VADDE,MUYTAIAH,20,M,NIQ2865525
+409,Ward -4,RAJESH VADDE,GANGAIAH,22,M,NIQ2847176
+410,Ward -4,PRAVEEN KUMAR VADDE,MALLESH,20,M,NIQ2847119
+411,Ward -4,Vadde Lalitha Vadde,Vadde Narsimulu,26,F,NIQ3037421
+412,Ward -4,SAJEEDA BEGUM,MOHAMMED MALANG,55,F,NIQ2842110
+413,Ward -4,SHAHANAZ BEGUM,DAST,27,F,NIQ2860286
+414,Ward -4,Yamdi Sharipha Bee,Yusuf,74,F,NIQ2557155
+415,Ward -4,Yamdikhamrunnisa Bhegam,Ek Bal,46,F,NIQ2555845
+416,Ward -4,Khaleed Mohammed,Khamarunnisa Begum,31,M,NIQ1197830
+417,Ward -4,Mohmmed Wajid Pasha,Mohmmed Iqbal,26,M,NIQ1799139
+418,Ward -4,Shamshad Begum,Mahammad Iqbal,24,F,NIQ2417681
+419,Ward -4,Mohammedanuwar Miya,Yusuf,47,M,NIQ2555951
+420,Ward -4,Sabera Begum,Anwar,36,F,NIQ2414381
+421,Ward -4,Aziz Mohammad,Anwar,24,M,NIQ2414456
+422,Ward -4,Fateem Bee,Gulam Dastagir,51,F,FBD3804259
+423,Ward -4,Sameena Begum,Mohammad GulamDsthgir,28,M,NIQ1854173
+424,Ward -4,Gausiya Begum,Mohammed Babu Miya,43,F,FBD3804044
+425,Ward -4,Chakali Lakshmi,Narsimlu,42,F,NIQ2556124
+426,Ward -4,CHAKALI SHIVA KUMAR,CHAKALI NARSIMLU,20,M,NIQ2969145
+427,Ward -4,Chakali Pramila,Ramesh,52,F,FBD3804499
+428,Ward -4,Kurma Laxmaiah,Shankaraiah,48,M,NIQ1771146
+429,Ward -4,Kurma Pandu,Sankaraiah,36,M,FBD3802121
+430,Ward -4,Kurma Anitha,Lakshmaiah,34,F,NIQ0701292
+431,Ward -4,Kurma Parvathi,Pandu,34,F,NIQ0701409
+432,Ward -4,Bommala Rajamma,Bommala Saialu,75,F,NIQ1815075
+433,Ward -4,Bommala Narsimlu,Sayulu,63,M,FBD3805132
+434,Ward -4,Bommala Pentamma,Narsimlu,48,F,FBD3805124
+435,Ward -4,Bommala Kasturi,Bommala Shankarayya,29,F,NIQ2417582
+436,Ward -4,BOMMALA AKHILA,BOMMALA NARSIMLU,22,F,NIQ3254125
+437,Ward -4,Bommala Venkatasvaami,Sailu,54,M,FBD5289376
+438,Ward -4,Bommala Sai Nath,Bommala Venkat Swami,29,M,NIQ1487959
+439,Ward -4,B Sharath Kumar,B Venkat Swamy,27,M,NIQ1587296
+440,Ward -4,Kanerkar Gouthami,Kanerkar Dipak,26,F,NIQ1854124
+441,Ward -4,Kanerkar Hemavathi,Kanerkar Dipak,26,F,NIQ1854140
+442,Ward -4,Mohammed Jani Miya,Mohammed MoulanaSaab,59,M,NIQ1180173
+443,Ward -4,Bhi Pasha,Janee Miah,40,F,FBD3802204
+444,Ward -4,Kanerakara Lakshmi,Deepak,40,F,FBD5289467
+445,Ward -4,M D Nasiroddin,Md,37,M,NIQ0034835
+446,Ward -4,Hazira Begum,Mohammed Mubarak,31,F,NIQ1799436
+447,Ward -4,Mohmmed Dasthagir,Mohmmed Janimiya,27,M,NIQ1799378
+448,Ward -4,Mohammad Chandpasha,Nannesab,50,M,FBD5289483
+449,Ward -4,Sharifa Begam,Chand Pasha,48,F,FBD5289491
+450,Ward -4,Md Yasin,Md Chand Pasha,31,M,NIQ0890921
+451,Ward -4,Wajeed Ali Mohammed,Chand Pasha,29,M,NIQ1197822
+452,Ward -4,Parveen,M D Chand Pasha,26,F,NIQ1719798
+453,Ward -4,Naziya Begum,Md Yaseen,26,F,NIQ1937648
+454,Ward -4,AYESHA EATIMA,M D WAJEED ALI,20,F,NIQ3200516
+455,Ward -4,Chakali Anjaiah,Naraayana,52,M,FBD3803277
+456,Ward -4,Chakali Yadagiri Chakali,Anjaiah,31,M,NIQ1164425
+457,Ward -4,Chakali Bhumika,Yadagiri,24,F,NIQ2301869
+458,Ward -4,Kasala Sankaraiah,Kishtaiah,59,M,FBD3803079
+459,Ward -4,Kasala Laxmi,Shankaraiah,52,F,FBD3804861
+460,Ward -4,Kasala Raju,Sankaraiah,37,M,NIQ0701771
+461,Ward -4,Kasala Shekhar,Shankaraiah,32,M,NIQ0890962
+462,Ward -4,Kasala Ramesh,Shankaraiah,31,M,NIQ1391325
+463,Ward -4,Kasala Sunitha,Kasala Raju,30,F,NIQ1799600
+464,Ward -4,Kasala Varshitha,Kasala Shekhar,22,F,NIQ2959138
+465,Ward -4,Kasal Sathyanarayan,Ramaiah,68,M,FBD3804523
+466,Ward -4,Kasala Nagamma,Sathyanarayan,53,F,FBD3804853
+467,Ward -4,Kasala Balaraju,Sathyanarayan,39,M,FBD3802931
+468,Ward -4,Kasal Narsimlu,Sathyanarayan,37,M,FBD5289517
+469,Ward -4,Bagyamma K,Balaraju,34,F,NIQ0964099
+470,Ward -4,Kasala Latha,Kasala Narsimulu,30,F,NIQ1601699
+471,Ward -4,Kode Srinivas,Ramaiah,64,M,FBD5289525
+472,Ward -4,Kode Savitramma,Srinivas,61,F,FBD3804101
+473,Ward -4,KODELA JANGAIAH,Srinivas,42,M,FBD3802030
+474,Ward -4,Kode Venkatesham,Srinivas,40,M,FBD3802428
+475,Ward -4,K Santhosha,Venkatesham,34,F,NIQ0805101
+476,Ward -4,KODELA VIJAYALAXMI,Jangaiah,30,F,NIQ0805150
+477,Ward -4,B Lakshmaiah,Venkaiah,69,M,NIQ0701078
+478,Ward -4,Bommala Yadamma,Lakshmaiah,64,F,NIQ0701052
+479,Ward -4,Bommala Sayamma,Pentaiah,75,F,NIQ2556645
+480,Ward -4,B Bala Krishna,B Babu,30,M,NIQ1180165
+481,Ward -4,Bommala Sridhar,Bommala Babu,29,M,NIQ1954627
+482,Ward -4,Bommala Ramakrishna,Bommala Narsimlu,31,M,NIQ0989535
+483,Ward -4,Bommala Sai Prasad,Bommala Narsimulu,26,M,NIQ1799329
+484,Ward -4,Bommala Shardha,Bommala,41,F,FBD5289558
+485,Ward -4,Bommala Ravi,B Mallesham,29,M,NIQ1769439
+486,Ward -4,BOMMALA SHIVA BOMMALA,SHARADHA,23,M,NIQ3172145
+487,Ward -4,SHIVA BOMMALA,SHARADHA,23,M,NIQ3174810
+488,Ward -4,Myadam Srinivas,ANANTHAIAH,56,M,NIQ2556108
+489,Ward -4,Myadam Auruna,Srinivas,46,F,NIQ2556710
+490,Ward -4,Myadam Sai Kumar,Shrinivas,32,M,NIQ0868810
+491,Ward -4,RAJESHWARI MYADAM,SAI KUMAR,28,F,NIQ2917532
+492,Ward -4,Myadam Krishan,Antaiah,46,M,NIQ2556009
+493,Ward -4,Myadam Pramila,Krishna,42,F,NIQ2555696
+494,Ward -4,Mangali Sathyanarayan,Lingamaiah,46,M,NIQ2555928
+495,Ward -4,Mangali Pramila,Sathyanarayan,44,F,FBD3805082
+496,Ward -4,Nirmala Mangali,Veeresham,41,F,NIQ1164615
+497,Ward -4,Mangali Veeresam,Lingamaiah,37,M,FBD5289566
+498,Ward -4,Kurma Srinivas,Komaraiah,38,M,FBD3802543
+499,Ward -4,Koorma Lavanya,Koorma,36,F,FBD5289574
+500,Ward -4,Kurma Durgaiah,Komuraiah,49,M,FBD3803855
+501,Ward -4,Kurma Lakshmi,Durgaiah,43,F,FBD3803905
+502,Ward -4,Arun Kumar Kurma,Durgaiah,28,M,NIQ1180157
+503,Ward -4,Kurma Anusha,Kurma Durgaiah,25,F,NIQ1937325
+504,Ward -4,RAJASRI GOLLA,ARUN KUMAR,20,F,NIQ2917839
+505,Ward -4,Sakinala Shivshankar,Pandaraiah,64,M,NIQ2555522
+506,Ward -4,Sakinala Annapoorna,Shivshankar,59,F,NIQ2557148
+507,Ward -4,Mallaiah Vadde,Lakshmaiah,71,M,NIQ2412971
+508,Ward -4,Vadde Yadaiah,Vadde Mallaiah,44,M,FBD3803541
+509,Ward -4,Vadde Aruna,Yadaiah,40,F,FBD3804309
+510,Ward -4,Vadde Lakshmaiah,Vadde Mallaih,37,M,FBD3804358
+511,Ward -4,Vadde Sai Baba Vadde,Mallaiah,36,M,NIQ0989998
+512,Ward -4,Andalu Vadde,Laxmaiah,32,F,NIQ0990169
+513,Ward -4,Umarani Vadde,Sai Baba,31,F,NIQ0990029
+514,Ward -4,Vadde Venkatesham,V Mallaiah,31,M,NIQ1769413
+515,Ward -4,Vadde Laxmikala,Vadde Venkatesham,29,F,NIQ1831528
+516,Ward -4,Vadde Muthaiah,Raajaiah,60,M,FBD3804697
+517,Ward -4,Vadde Anitha,Muthaiah,50,F,FBD3804689
+518,Ward -4,Vadde Mallamma,Gangaiah,41,F,FBD3802832
+519,Ward -4,Vadde Yadamma,Lingamaiah,43,F,FBD3802659
+520,Ward -4,Vadde Lingamaiah,Raajaiah,41,M,FBD3802808
+521,Ward -4,CHAKALI SAI KUMAR,CHAKALI NARSIMLU,20,M,NIQ2841872
+522,Ward -4,LAVANYA BOMMALA,NARSIMLU,21,F,NIQ3228756
+523,Ward -4,BOMMALA LAXMI,BOMMALA SAINATH,23,F,NIQ3009297
+524,Ward -4,MOHAMMAD MALANG,KHAJA MIYA LATE,60,M,NIQ2884161
+525,Ward -4,Bommala Bhavani,Bommala Ramakrishna,23,F,NIQ2959161
+526,Ward -4,Vadde Narahari,Vadde Yadaiah,22,M,NIQ3163789
+527,Ward -4,Vadde Shivaprasad,Vadde Yadaiah,21,M,NIQ3164407
+528,Ward -4,VADDE NAVEEN,VADDE MUTTAIAH,20,M,NIQ2884294
+529,Ward -4,BOMMALA SHAILAJA,BOMMALA SHARATHKUMAR,23,F,NIQ2914885
+530,Ward -4,SAMREEN,MAHAMMAD BABUMIYA,22,F,NIQ2842144
+531,Ward -4,Bommala Shiva,Ramdas,23,M,NIQ2959492
+532,Ward -4,Gaddam Sukkamma,Gaddam Shankaraiah,43,F,NIQ2417145
+533,Ward -4,Gulam Dastagir,Nannesab,67,M,FBD3804507
+534,Ward -4,Mohammed Babu Miya,Nannesab,56,M,FBD3803947
+535,Ward -4,BOMMALA RENUKA,BOMMALA RAVI,28,F,NIQ3367448
+536,Ward -5,Vadla Lavaiah,Shrihari,36,M,FBD3802790
+537,Ward -5,Vadla Sharadha,Vadla Kushalaiah Chary,27,F,NIQ1799493
+538,Ward -5,Vadla Madhuveena,Vadla Lavaiah Chary,26,F,NIQ1799501
+539,Ward -5,Kummari Shirisha,Kummari Krishna,31,F,NIQ1799030
+540,Ward -5,Kummari Praveen Kumar,Kummari Narsimulu,25,M,NIQ1799667
+541,Ward -5,CHANDRA SHEKAR KUMMARI,ESHWARAIAH,21,M,NIQ2863876
+542,Ward -5,NAVEEN VADDE,MALLESHA,24,M,NIQ2864650
+543,Ward -5,Vadde Lavanya,Vadde Mallesham,20,F,NIQ3354503
+544,Ward -5,MAHESH VADDE,SAMAIAH,20,M,NIQ2861508
+545,Ward -5,PREMEELA KURMA,MANOHAR,21,F,NIQ2860716
+546,Ward -5,POOJITHA KUMMARI,RAMESH,21,F,NIQ2860559
+547,Ward -5,Kurma Manoj Kumar Kurma,Kurma Lalitha,20,M,NIQ3063377
+548,Ward -5,Dore Jyoti,Dore Narsimlu,22,F,NIQ3351434
+549,Ward -5,TARUN ETIKYALA,YADAIAH,20,M,NIQ2864957
+550,Ward -5,BALAJI DARSHANAM,RAMULU,24,M,NIQ2864866
+551,Ward -5,MADHU DARSHANAM,RAMULU,22,M,NIQ2865822
+552,Ward -5,Darshanam Sharath,Darshanam Ramulu,19,M,NIQ3350295
+553,Ward -5,ARCHANA VADDEPALLY,MAHESH GOUD,29,F,NIQ2915635
+554,Ward -5,KUMMARI CHANDRA SHEKARKUMMARI,KUMMARIEASHWARAIAH,21,M,NIQ2954618
+555,Ward -5,Vadla Kushlaiah,Shrihari,40,M,FBD3802782
+556,Ward -5,Vadde Kamalamma,Malesham,42,F,NIQ2557098
+557,Ward -5,Vadde Anjaiah,Ellaiah,73,M,NIQ2555639
+558,Ward -5,Vadde Pochamma,Anjaiah,65,F,NIQ2558336
+559,Ward -5,Vadde Shrishailam,Vadde,35,M,FBD5289608
+560,Ward -5,Mounika Vadde,Srishailam,26,F,NIQ1769454
+561,Ward -5,Vadde Malesh,Anjaiah,47,M,FBD3802261
+562,Ward -5,Vadde Mogulamma,Malesh,43,F,FBD3802675
+563,Ward -5,Vadde Narsimlu,Anjaiah,36,M,FBD5289582
+564,Ward -5,Vadde Sathyanarayan,Anjaiah,37,M,FBD5289590
+565,Ward -5,Vadde Manjula,Satyanarayana,34,F,NIQ0700989
+566,Ward -5,Vadde Yadaiah,Ellaiah,54,M,NIQ0356691
+567,Ward -5,Vadde Rukkamma,Yadaiah,46,F,NIQ2555712
+568,Ward -5,Vadde Sarika,Vadde Yadaiah,27,F,NIQ1799196
+569,Ward -5,VADDE MAHESH,VADDE SAMAIAH,20,M,NIQ2884286
+570,Ward -5,Vadde Pocaiah,Mallaiah,64,M,NIQ2556033
+571,Ward -5,Vadde Lakshmi,Pocaiah,61,F,NIQ2556058
+572,Ward -5,Vadde Eeraiah,Allaiah,56,M,NIQ2556041
+573,Ward -5,Vadde Ellamma,Eeraiah,54,F,NIQ2556066
+574,Ward -5,Vadde Samaiah,Mallaiah,53,M,NIQ2556421
+575,Ward -5,Vadde Onmma,Samaiah,46,F,NIQ2556074
+576,Ward -5,Vadde Venkatamma,Ramulu,65,F,NIQ2556942
+577,Ward -5,Vadde Shankar,Vadde Ramulu,31,M,NIQ1799881
+578,Ward -5,Vadde Bagyalaxmi,Vadde Shankar,26,F,NIQ1719814
+579,Ward -5,Vadde Krishna,Ramulu,43,M,FBD3802279
+580,Ward -5,Vadde Parvathi,Krishan,37,F,FBD5289632
+581,Ward -5,Vadde Anjaneyulu,Vadde Ramulu,38,M,NIQ1799709
+582,Ward -5,Vadde Lavanya,Anjaneyulu,33,F,NIQ0034850
+583,Ward -5,Vadde Sathyamma,Ellamma,59,F,NIQ2556744
+584,Ward -5,Srinu Vadde,Yellaiah,34,M,NIQ0989956
+585,Ward -5,Manjula Vadde,Srinu,31,F,NIQ0989915
+586,Ward -5,P Sathyanarayan,Durgaiah,54,M,NIQ2557106
+587,Ward -5,P Vanamma,Sathyanarayan,49,F,NIQ2693877
+588,Ward -5,Kummari Chinna Mallaiah,Ramanna,66,M,NIQ2556025
+589,Ward -5,Kummari Eashwaraiah,Mallaiah,43,M,FBD3802881
+590,Ward -5,Kummari Manjula,Eashwaraiah,36,F,FBD3802915
+591,Ward -5,Kummari Srinivas,Mallaiah,41,M,FBD3802022
+592,Ward -5,Kummari Manjula,K Mallaiah,40,F,NIQ0701037
+593,Ward -5,Kummari Archan,Srinivas,33,F,FBD5290242
+594,Ward -5,Vadla Shrihari,Govindu,70,M,NIQ2556157
+595,Ward -5,Vadla Svaruapa,Shrihari,63,F,NIQ2556140
+596,Ward -5,Vadla Srinivas,Shrihari,47,M,NIQ2556272
+597,Ward -5,Vadla Sailaja,Srinivas,45,F,FBD5288899
+598,Ward -5,Vadla Pandu,Shrihari,42,M,FBD3803475
+599,Ward -5,Vadla Padma,Pandu,40,F,FBD5288907
+600,Ward -5,Kummari Santosha,Narayana,48,F,NIQ2558351
+601,Ward -5,Kummari Krishna,Narayana,34,M,NIQ0701060
+602,Ward -5,Kummari Ganesh,Kummari Narayana,30,M,NIQ0989717
+603,Ward -5,Kurma Gopal,Naraayana,49,M,NIQ2556512
+604,Ward -5,Kurma Manemma,Gopal,44,F,NIQ2555373
+605,Ward -5,Kurma Manohar,Kurma Gopal,29,M,NIQ1799634
+606,Ward -5,Kummari Padmamma,Pocaiah,41,F,NIQ2556611
+607,Ward -5,Kummari Ramesh,Kummari Pochaiah,27,M,NIQ1799113
+608,Ward -5,Kummari Praveen Kumar,Kummari Pochaiah,25,M,NIQ1799311
+609,Ward -5,Kurma Anasuja,Ramulu,66,F,NIQ2555365
+610,Ward -5,Kurma Lalitha,Buchaiah,38,F,FBD3802139
+611,Ward -5,Kurma Thirupathi,Ramulu,36,M,FBD5289665
+612,Ward -5,Kurma Maneela,Kurma Malesham,35,F,FBD5289673
+613,Ward -5,Kurma Lavanya,Kurma Thirupathi,34,F,NIQ1814904
+614,Ward -5,Kurma Shrinivas,Naraayana,37,M,FBD3803103
+615,Ward -5,Kurma Amrutha,Shrinivas,36,F,FBD5289681
+616,Ward -5,Bharathamma Kurma,Anjaiah,46,F,NIQ2301729
+617,Ward -5,M Balamani,Dasaradha,53,F,NIQ2555605
+618,Ward -5,M Anitha,Yadagiri,36,F,NIQ0701102
+619,Ward -5,M Yadagiri,Dashrat,36,M,FBD5289699
+620,Ward -5,Dore Narsimlu,Dore Dasharatham,30,M,NIQ1164771
+621,Ward -5,Kurma Lakshmi,Narsimulu,49,F,NIQ2556702
+622,Ward -5,Kurma Narsimlu,Kurma Narayana,49,M,NIQ1815216
+623,Ward -5,Itkayala Narsimulu,Ramakishtaiah,63,M,NIQ0356840
+624,Ward -5,Itkayala Puspamma,Narsimulu,59,F,NIQ0403352
+625,Ward -5,Etikyala Yadaiah,Etikyala Narsimulu,40,M,NIQ2094522
+626,Ward -5,I Andalu,Narsimulu,39,F,NIQ0034876
+627,Ward -5,Etikala Anjaneyulu,Etikala Narsimlu,37,M,NIQ0034884
+628,Ward -5,Etikyala Nagamani,Etikyala Yadaiah,35,F,NIQ2094563
+629,Ward -5,Surekha Itikala,Anjaneyulu,35,F,NIQ2301737
+630,Ward -5,Darshanam Lakshmi,Chandraiah,69,F,NIQ2555316
+631,Ward -5,Buddula Ram Chandraiah,Buddula Rayappa,40,M,NIQ1597996
+632,Ward -5,Buddula Vimalamma,Buddula Ramchendraiah,37,F,NIQ1601673
+633,Ward -5,Darshnam Anjaneyulu,Lalaiah,34,M,FBD5292503
+634,Ward -5,DHARSHANAM SOUNDARYUA,DHARSHANAMANJANEYULU,34,F,NIQ2796837
+635,Ward -5,Darshanam Narsimulu,Darshanam Chinarajaya,60,F,NIQ2098853
+636,Ward -5,Darshanam Ramulama,Darshanam Narsimulu,48,F,NIQ2094506
+637,Ward -5,DARSHANAM VARALAXMI,DARSHANAM RAMESH,32,F,NIQ2801579
+638,Ward -5,Ramesh Darshanam,Narsimulu,31,M,NIQ0964040
+639,Ward -5,Dharshanam Prabhakar,Dharshanam Narsimulu,29,M,NIQ1954544
+640,Ward -5,Darshanam Roja,Venkatesham,40,F,NIQ0701193
+641,Ward -5,Darshanam Venkatesham,Kishtaiah,38,M,NIQ0701110
+642,Ward -5,Darshana Samul,Darshana Kistaiah,38,M,FBD5289624
+643,Ward -5,Darshanam Kalapna,Darshanam Samul,36,F,FBD5289616
+644,Ward -5,Dharshanam Praveen,Kishtaiah,31,M,NIQ1231646
+645,Ward -5,Darshanam Chemantha,Praveen,30,F,NIQ1231638
+646,Ward -5,mallishwari kurma,manemma,23,F,NIQ3182375
+647,Ward -5,Darshanam Ettamma,DHARSHANAMRAMULU,45,F,NIQ2556215
+648,Ward -5,Darshanam Ramulu,DARSHANAMCHANDRAIAH,52,M,NIQ2555282
+649,Ward -5,Darshanam Kamalamma,DARSHANAM RAMULU,41,F,FBD3803095
+650,Ward -5,KURMA PRAMILA,KURMA MANOHAR,23,F,NIQ2842094
+651,Ward -5,Vaddepally Veeramani,Raja Goud,44,F,FBD3802469
+652,Ward -5,V Mahesh Goud,Raja Goud,33,M,NIQ1180140
+653,Ward -5,Raghavendra Buddula,Ramchandraiah,19,M,NIQ3245412
+654,Ward -5,sampath chari vadla,srinivas chari,19,M,NIQ3354487
+655,Ward -5,Vadde Malesham,Malaiah,43,M,NIQ2556934
+656,Ward -5,KUMMARI NAVEEN KUMAR,KUMMARI POCHAIAH,23,M,NIQ2893097
+657,Ward -5,Dharshanam Sravani Dharshanam,Dharshanam Balaji,22,F,NIQ3369162
+658,Ward -5,Vade Sanjeevulu Vade,Vade Krishna,19,M,NIQ3369170
+659,Ward -5,Kuruma Gopal Kuruma,Kurma Srinivas,18,M,NIQ3379013
+660,Ward -6,PARVEEN,Ibrahim,29,F,NIQ2865830
+661,Ward -6,NAVEEN ETIKYALA,KANTHAIAH,22,M,NIQ2865707
+662,Ward -6,GOPAL KRISHNA DARSHANAM,MALLAIAH,25,M,NIQ2868453
+663,Ward -6,SADANA DARSHANAM,GOPAL KRIAHAN,23,F,NIQ2860344
+664,Ward -6,PRABHAKAR DARSHANAM,MALLAIAH,27,M,NIQ2864890
+665,Ward -6,MANISHA DARSHANAM,PRABHAKAR,25,F,NIQ2860914
+666,Ward -6,Darshanam Roja,Darshanam Krishana,23,F,NIQ3305208
+667,Ward -6,SHEKAR DARSHANAM,NARSIMLU,22,M,NIQ2868404
+668,Ward -6,VIJAYA DARSHANAM,RANGAIAH,22,F,NIQ2860476
+669,Ward -6,Sana,Mohammed Aslam,25,F,NIQ2786192
+670,Ward -6,SHOBHANA BANDA,PRAVEEN KUMAR,24,F,NIQ2861573
+671,Ward -6,ARUN KUMAR BACHUGUDEM,POCHAIAH,23,M,NIQ2860633
+672,Ward -6,KISHORE KUMAR BACHUGUDAM,POCHAIAH,20,M,NIQ2893584
+673,Ward -6,Kurma Anusha Kurma,Kurma Laxmaiah,23,F,NIQ3145927
+674,Ward -6,Farzana Beguam,Mohammad Allahbhaksh,57,F,NIQ2780385
+675,Ward -6,ADIBA AHMED,SHABBAR,23,F,NIQ2860526
+676,Ward -6,Md Azam Mohammed,Yakhub Miya,23,M,NIQ3247236
+677,Ward -6,Itikayala Adivaiah,Lalaiah,74,M,NIQ2555795
+678,Ward -6,Itikayala Ellamma,Kantaiah,44,F,NIQ2555746
+679,Ward -6,Etikala Jyothi,Etikala Emmanuel,39,F,NIQ1799840
+680,Ward -6,Etikala Emmanuel,Etikala Kantaiah,35,M,NIQ1799832
+681,Ward -6,Gousiya Bee,Vazeer Yousuf Sab,69,F,NIQ1937523
+682,Ward -6,Itikyala Laxmi,Narsimulu,41,F,NIQ1420777
+683,Ward -6,E Lalaiah,E Narsimlu,39,M,NIQ1576547
+684,Ward -6,Etikala Mallika,E Lalaiah,28,F,NIQ1769421
+685,Ward -6,Etikala Aruna,Etikala Narsimulu,28,F,NIQ1799873
+686,Ward -6,Dharshanam Prabhakar,Dharshanam Mallaiah,26,M,NIQ1854207
+687,Ward -6,Darshanam Palguna,Mallaiah,39,F,NIQ2301844
+688,Ward -6,I Tikyala Sanjeevlu,Baskar,37,M,FBD5292669
+689,Ward -6,ETIKALA PUSHPA,ETIKALASANJEEVULU,32,F,NIQ0701318
+690,Ward -6,Darshanam Padmamma,Narsimulu,49,F,FBD3804911
+691,Ward -6,Darshanam Mahesh,D Narsimlu,32,M,NIQ1236042
+692,Ward -6,Dharmanam Krishna,D Narsimlu,31,M,NIQ1231612
+693,Ward -6,Darshanam Mounika,Darshanam Mahesh,27,F,NIQ1769405
+694,Ward -6,Darshanam Ashok,Narsimlu,27,M,NIQ2301810
+695,Ward -6,ADIBA AHMED,MD SHABBAR,23,F,NIQ2884385
+696,Ward -6,Darshanam Rangaiah,Samaiah,48,M,FBD5289756
+697,Ward -6,Darshanam Lakshmi,Rangaiah,45,F,FBD3804929
+698,Ward -6,Vajir Khajamiya,Maibusab,59,M,NIQ2555399
+699,Ward -6,Julekha Begum,Khajamiya,53,F,FBD3802667
+700,Ward -6,Shaker Vajir,Khajamiya,36,M,FBD5289798
+701,Ward -6,Saleema,Vajeer Shakeer,31,F,NIQ0805119
+702,Ward -6,Ibrahim Mohammed,Khajamiya,30,M,NIQ0989618
+703,Ward -6,Parwiz,Md. Ibrahim,30,F,NIQ2210698
+704,Ward -6,Md Kuthubuddin Vajir,Vajir Khajamiya,27,M,NIQ1601681
+705,Ward -6,Sana Begum,MohammedKhuthubuddin,24,F,NIQ2958981
+706,Ward -6,SANA BEGUM,KUTHUBUDDIN,24,F,NIQ3128329
+707,Ward -6,M D Yousuf,Murtaz,59,M,NIQ2556116
+708,Ward -6,Mohmmed Mujafar,Mohmmaed Yousuf,36,M,NIQ1799774
+709,Ward -6,Sameena Begum,M D Mujafar,31,F,NIQ0966848
+710,Ward -6,Mohammed Ghouse,Khairat Ali,59,M,NIQ2555647
+711,Ward -6,Hanifa Begum,Ghouse,49,F,NIQ2555720
+712,Ward -6,Mohammed Dastagir,Ghouse,37,M,FBD5289806
+713,Ward -6,Mohammed Haji Pasha,Mahmad Ghous,36,M,FBD3802683
+714,Ward -6,Shabana Begum,Md Dastagir,32,F,NIQ1334184
+715,Ward -6,Mohammed Aslam,Md Ghouse,32,M,NIQ0890988
+716,Ward -6,Batchugudem Biramma,Pocaiah,48,F,FBD3804432
+717,Ward -6,Kurma Navanitha,Kurma Mallesham,36,F,NIQ1799741
+718,Ward -6,Malesham K,Pochaiah,34,M,NIQ0966871
+719,Ward -6,Bachugudem Kumar,Pocaiah,36,M,FBD5290424
+720,Ward -6,Bachugudim Vijaya,Kumar,34,F,NIQ0035030
+721,Ward -6,Pentamma Kurma,Chandraiah,54,F,NIQ2556389
+722,Ward -6,Kurma Shekhar,Kurma Chandraiah,31,M,NIQ0989451
+723,Ward -6,Kurma Latha,Kurma Shekar,26,F,NIQ1799469
+724,Ward -6,Batchugudem Lakshmi,N,46,F,FBD3803574
+725,Ward -6,Batchugudem N,Chithari,43,M,FBD5289814
+726,Ward -6,Batchugudem Jiyoti,Pandu,41,F,FBD3803566
+727,Ward -6,Buchagudem Raju,Nagaiah,34,M,NIQ0700971
+728,Ward -6,Patlolla Swapna,Kurma Raju,33,F,NIQ1799337
+729,Ward -6,B Praveen,B Nagaiah,25,M,NIQ1937341
+730,Ward -6,Kurma Mallamma,Nagaiah,62,F,NIQ2556371
+731,Ward -6,Kurma Mallesham,Nagaiah,51,M,NIQ0701797
+732,Ward -6,Kurma Lakshmi,Mallesh,48,F,NIQ0701789
+733,Ward -6,Kurma Bachugudem Pochaiah,Nagaiah,43,M,FBD3802956
+734,Ward -6,Kurma Bachugudem Lalita,Pocaiah,42,F,FBD3802964
+735,Ward -6,Bachu Gudem Srinivas,Bachugudem Pochaiah,34,M,NIQ0989394
+736,Ward -6,Bachugudam Praveen Kumar,Pochaiah,31,M,NIQ0989386
+737,Ward -6,Bachugudem Rajitha,Srinivas,27,F,NIQ2301885
+738,Ward -6,Batchugudem Aruna,Pochaiah,44,F,FBD3803582
+739,Ward -6,Kurma Narsimlu,Kurma Pochaiah,36,M,NIQ1799659
+740,Ward -6,Kurma Lakshmaiah,Kurma Pochaiah,34,M,NIQ1799519
+741,Ward -6,Kurma Suvarna,Kurma Narsimulu,33,F,NIQ1799733
+742,Ward -6,Bachu Gudem Renuka,Lakshmaiah,30,F,NIQ0890970
+743,Ward -6,Kurma Mallesham,Pochaiah,64,M,NIQ2555357
+744,Ward -6,Kurma Mallamma,Mallesham,59,F,NIQ2555340
+745,Ward -6,Kurma Lakshmaiah,Mallesham,33,M,NIQ0989352
+746,Ward -6,K Narsimhulu,Mallesham,31,M,NIQ0989378
+747,Ward -6,Kurma Yadagiri,Pochaiah,59,M,NIQ2556991
+748,Ward -6,Kurma Lakshmamma,Yadagiri,53,F,NIQ2556538
+749,Ward -6,Kurma Shobh,Srinu,33,F,FBD5289822
+750,Ward -6,Bachu Gudem Srinivas,Yadagiri,33,M,NIQ0989345
+751,Ward -6,Jaggareddy Gari Aruna,Srinivas Reddy,43,F,FBD3803939
+752,Ward -6,Jaggareddygari Abhijit Reddy,Srinivas Reddy,23,M,NIQ2959146
+753,Ward -6,Jaggareddygari Akhila,Srinivas Reddy,21,F,NIQ2959153
+754,Ward -6,K Sattaiah,Pochaiah,74,M,FBD3804838
+755,Ward -6,Kummari Balmani,Sattaiah,64,F,FBD3804424
+756,Ward -6,Kummari Srinivas,Sattaiah,46,M,NIQ2556736
+757,Ward -6,Kummari Suvarn,Srinivas,41,F,FBD3802923
+758,Ward -6,Kummari Mallesham,Sattaiah,37,M,FBD5289848
+759,Ward -6,Kummari Navaneetha,Kummari Mallesham,34,F,NIQ1937333
+760,Ward -6,Kummari Anusha,Kummari Srinivas,26,F,NIQ1831510
+761,Ward -6,Kummari Saikumar,Kummari Srinivas,24,M,NIQ2412955
+762,Ward -6,Kummari Ramulu,Balakistaiah,64,M,NIQ2556397
+763,Ward -6,Kummari Lakshmamma,Ramulu,57,F,NIQ2556777
+764,Ward -6,Kummari Shekar,Ramulu,39,M,FBD3802873
+765,Ward -6,Kummari Sujatha,Shekhar,36,F,FBD5289855
+766,Ward -6,Kummari Manasa,Kummari Shekar,19,F,NIQ3245057
+767,Ward -6,Kummari Rajitha,Kumar,36,F,FBD3802915
+768,Ward -6,Kummari Kumar,Pentaiah,34,M,FBD5289863
+769,Ward -6,Kummari Krishna,Pentaiah,32,M,NIQ0989683
+770,Ward -6,Kummari Rajamani,Krishna,30,F,NIQ2094621
+771,Ward -6,Kumari Mahesh,Kumari Pentayya,29,M,NIQ1769447
+772,Ward -6,Kummari Shirisha,Kummari Mahesh,24,F,NIQ3034600
+773,Ward -6,Kummari Laxmi,Samaiah,51,F,NIQ2555308
+774,Ward -6,Kummari Ramesh,Samaiah,33,M,NIQ0890913
+775,Ward -6,Kummari Srividya,Ramesh,29,F,NIQ2301802
+776,Ward -6,M D Shabar,Mahmad Khasim,49,M,FBD3803624
+777,Ward -6,M D Rasida Begam,Shabbar,44,F,FBD3804242
+778,Ward -6,Shaik Sameer,Shaik Shabbar,26,M,NIQ1922046
+779,Ward -6,Yakub Miya,Md Khasim,54,M,NIQ2556926
+780,Ward -6,Shahajan Begam,Yakubmiya,46,F,NIQ2556918
+781,Ward -6,Sana Begum,Md Yakub,33,F,NIQ0989675
+782,Ward -6,Abdul Raheman,Md Yakub,29,M,NIQ1799790
+783,Ward -6,Kummari Kavitha,Kummari Krishna,31,F,NIQ1799048
+784,Ward -6,Gulam Jelani,Gulam Rasool,49,M,NIQ1222843
+785,Ward -6,SAYYAD SAMEER,SAYYAD SHAKEER,23,M,NIQ3033891
+786,Ward -6,ETIKYALA KALYANI,ETIKYALA LALAIAH,22,F,NIQ3368289
+787,Ward -6,Kurma Arun Kumar,Kurma Durgaiah,28,M,NIQ3388279
+788,Ward -7,Mohammed Pasha,Sharfoddin,54,M,NIQ2556983
+789,Ward -7,Rehana,Pashamaiya,44,F,NIQ2555688
+790,Ward -7,MOHAMMED IMRAN,GULAM RASUL,22,M,NIQ2868362
+791,Ward -7,SAMREEN BEGUM,HAFEEZ,22,F,NIQ2861110
+792,Ward -7,MAHESH BORRA,KRISHNA,23,M,NIQ2869766
+793,Ward -7,Sana Sultana Md,Gulam Rasul,22,F,NIQ3305000
+794,Ward -7,SANA SULTHANA,GULAM RASUL,21,F,NIQ2860906
+795,Ward -7,FEROZE UNNISA,AFZAL,22,F,NIQ2860732
+796,Ward -7,Kurma Manasa,Borra Praveen,20,F,NIQ3013604
+797,Ward -7,FIRDOUS MD,KHAMRUDDIN,21,M,NIQ2864858
+798,Ward -7,Mohammed Nizam,Yosuf,37,M,NIQ3245065
+799,Ward -7,IRFAN MOHAMMED,IBRAHEEM,20,M,NIQ2865749
+800,Ward -7,IMRAN MOHAMMED,IBRAHEEM,21,M,NIQ2868321
+801,Ward -7,SABA BEGUM,SHABBEER MIYA,22,F,NIQ2861656
+802,Ward -7,Shelaja Patnam,Anjaiah,25,F,NIQ3222247
+803,Ward -7,Poola Pravalika Poola,Borra Mahipal,21,F,NIQ3265717
+804,Ward -7,Borra Mounika Borra,Borra Rajesh,24,F,NIQ3287935
+805,Ward -7,ANUSHA KURMA,MALLESHAM,21,F,NIQ2861623
+806,Ward -7,Mohammed Rahmath Ali,Mahbusab,56,M,FBD5289921
+807,Ward -7,Jugun Pasha,Rahmat Alee,49,F,FBD3804176
+808,Ward -7,Mohammed Hafeez Miya Md,Rahamath Ali,30,M,NIQ1180132
+809,Ward -7,Mohammed Habeeb Miya,Mohammed Rahmath Ali,28,M,NIQ1477802
+810,Ward -7,Mubeena Mohammad,Rahmath Ali,26,F,NIQ2412955
+811,Ward -7,Vazeer Khajamainoddin,Saber Miah,37,M,FBD3802386
+812,Ward -7,Sajeeda Begam,Khaja Moinuddin,35,F,NIQ0701094
+813,Ward -7,BORROLLA SUSHMITHA,BORROLLA SRIPAL,24,F,NIQ3247285
+814,Ward -7,AFSHA UNISA,MOHAMMAD AFZAL,21,F,NIQ2884377
+815,Ward -7,SABA BEGUM,MOHAMMEDSHABBEER MIYA,22,F,NIQ2848570
+816,Ward -7,Jagadishwar Kummari,Saidappa,24,M,NIQ2787679
+817,Ward -7,sravan kumar Borra,Ramulu,20,M,NIQ3182227
+818,Ward -7,SAMREEN BEGUM,HAFEEZ,22,F,NIQ2848588
+819,Ward -7,Chakali Ramesh,Chakali Mallesham,31,M,NIQ1799543
+820,Ward -7,CHAKALI MADHAVI,Chakali Ramesh,25,F,NIQ1854231
+821,Ward -7,Srinivas Chakali,Yadaiah,24,M,NIQ2412922
+822,Ward -7,Chakali Mallesham,Ramaiah,58,M,FBD3803822
+823,Ward -7,Chakali Lingamma,Chakali Mallesham,46,F,NIQ1815562
+824,Ward -7,Bharathamma Borra,Krishna,43,F,NIQ2301703
+825,Ward -7,BORRA MAHESH,BORRA KRISHNA,23,M,NIQ2841864
+826,Ward -7,Nasreen Begum,Vajir Gulam Rasul,42,F,FBD3803640
+827,Ward -7,Vazeer Rafiq,Babu Miya,36,M,NIQ0477729
+828,Ward -7,M D Nazeer,Babu Miya,35,M,NIQ0036723
+829,Ward -7,Nasreen Begum Nasirbegum,Rafiq,34,F,NIQ0477760
+830,Ward -7,Parveen Begam,Nazeer,32,F,NIQ0701185
+831,Ward -7,Kammari Naga Bhooshanam,Ratnam,64,M,FBD5289905
+832,Ward -7,Borra Satyaiah,Borra Pentaiah,59,M,NIQ1799782
+833,Ward -7,Kammari Manemma,Bhooshanam,56,F,FBD5289913
+834,Ward -7,Mohammed Afzal,Hussensab,50,M,NIQ2563781
+835,Ward -7,Borra Sushila,Satyaiah,49,F,FBD3804663
+836,Ward -7,Afsar Begum,Mohammad Afzal,44,F,FBD5290028
+837,Ward -7,Sripal Borra,Sataiah,31,M,NIQ0964073
+838,Ward -7,Praveen Yadav Borra,Sathaiah,28,M,NIQ1164433
+839,Ward -7,Afroz Unnisa,Mohmmed Afjal,26,F,NIQ1799360
+840,Ward -7,Mohmmed Althaf Hussain,Mohmmed Afjal,25,M,NIQ1799923
+841,Ward -7,FEROZE UNNISA,MOHAMMAD AFZAL,22,F,NIQ2841914
+842,Ward -7,Chand Miya,Janee Miya,68,M,FBD3802840
+843,Ward -7,Banu Bee,Chand Miah,63,F,FBD3802816
+844,Ward -7,Azar Miya,Chand Miya,49,M,NIQ2301794
+845,Ward -7,Asma Sulthan,Ajgar Miya,40,F,NIQ2094449
+846,Ward -7,Bismilla,Chand Miah,37,M,FBD5289947
+847,Ward -7,ALI AKBAR,CHAND MIYAN,37,M,FBD5289939
+848,Ward -7,Khajabee Mohammed,Chand Miya,31,F,NIQ1222744
+849,Ward -7,Anwar Vazeer,Chand Miya,31,M,NIQ1197806
+850,Ward -7,TABASSUM,AZGAR MIYA,19,F,NIQ3201787
+851,Ward -7,Kammari Sugunamma,Venkata Amulu,70,F,NIQ2556777
+852,Ward -7,M D Siraj,Yusuf Miya,49,M,NIQ2555464
+853,Ward -7,Jahangir Begum,M D Siraj,44,F,NIQ2555589
+854,Ward -7,Mohmmed Shaikel Pasha,Mohmmed Shiraj,28,M,NIQ1798958
+855,Ward -7,Shabana Begum,Md Siraj,26,F,NIQ1937549
+856,Ward -7,Md Khamruddin,Md Nasheeruddin,46,M,NIQ1831486
+857,Ward -7,Md Meharunnissa,Md Nasheeruddin,43,F,NIQ1831494
+858,Ward -7,Khamar Begum,M D Yousuf Sab,39,F,NIQ2556363
+859,Ward -7,Md Inayath Pasha,Md Wazeer Yousuf Sab,37,M,NIQ1815331
+860,Ward -7,Parvin Begam,Inayath Pasha,27,F,NIQ1799170
+861,Ward -7,Vajir Abedha Begum,M D Yusuf Sab,65,F,FBD5289970
+862,Ward -7,Samina Begum Mohd,Yousuf Miya,32,F,NIQ1222850
+863,Ward -7,Sabera Begum Mohd,Yousuf Miya,31,F,NIQ1222801
+864,Ward -7,SHAHEEN BEGUM,MD YOUSUF,30,F,NIQ1799386
+865,Ward -7,Asia Begam,Mohmmed Yousuf,28,F,NIQ1799915
+866,Ward -7,Jahangir,Yusuf Miya,54,M,FBD5289988
+867,Ward -7,Julekha Begam,Mahmad Pasha,37,F,FBD3802410
+868,Ward -7,M D Molana,Mahammad Sab,37,M,FBD3802295
+869,Ward -7,Ruksana Begum,Maulana,34,F,NIQ0356824
+870,Ward -7,Halema Bee,Mahammad Sab,61,F,FBD3804572
+871,Ward -7,Mohammed Ibraheem,Mahammad Sab,43,M,FBD3804838
+872,Ward -7,Fatheema Begam,Ibrahim,38,F,FBD3802493
+873,Ward -7,Yusuf Bee,M D Jani Mitya,64,F,NIQ2556249
+874,Ward -7,Mohmmed Jakiya Begam,Mohmmed Jaffer Miya,46,F,NIQ1799121
+875,Ward -7,Mohammed Jafar Miya,M D Jani Miya,43,M,NIQ2556660
+876,Ward -7,Md Zakeer Miya,Md Jani Miya,40,M,FBD3803962
+877,Ward -7,Shahanaz Sulthana,Md Zakeer Miya,36,F,NIQ0879932
+878,Ward -7,Vazeer Rasheed,Vazeer Janemiya,35,M,NIQ1937309
+879,Ward -7,M D Shabbeer Miya,Mohammed Janimiya,32,M,NIQ0879924
+880,Ward -7,Beebe Begum,Vazeer Rasheed,29,F,NIQ1532689
+881,Ward -7,Patnam Anjaiah,Narsimulu,43,M,NIQ2556397
+882,Ward -7,Patnam Anitha,Patnam Anjaiah,41,F,NIQ1815307
+883,Ward -7,Besta Anuradha,Besta Ramulu,37,F,NIQ1799816
+884,Ward -7,Patnam Saikiran,Patnam Anjaiah,28,M,NIQ1532663
+885,Ward -7,Patnam Sai Kumar,Patnam Anjaneyulu,26,M,NIQ1799162
+886,Ward -7,Md Bipasha,Mahammed MahammadMiya,51,F,NIQ2555597
+887,Ward -7,M D Ghouse Pasha,Mahammed Miya,36,M,FBD5290036
+888,Ward -7,Md Mahaboob Pasha,M Mahamood,34,M,FBD5290044
+889,Ward -7,Hajira Sulthana,Gouse Pasha,30,F,NIQ1799733
+890,Ward -7,Mohammad Jareena,Mohammad Haji Pasha,56,F,NIQ2301745
+891,Ward -7,Kapu Ramulamma,Prabhakar Areddy,50,F,NIQ2556876
+892,Ward -7,Raji Reddy Gari Nagaraju Reddy,Raji Reddy GariPrabhakar Redd,28,M,NIQ1799071
+893,Ward -7,Sar Shankar Bai,Balram,64,F,NIQ2556892
+894,Ward -7,Sar Haribai,Balram,49,F,NIQ2556884
+895,Ward -7,Raajareddygari Vishnuwardan Re,Naraayana Areddy,59,M,NIQ2556736
+896,Ward -7,Reddygari Eshwaramma,Reddygari VishnuvardhanReddy,58,F,NIQ1815513
+897,Ward -7,Rajireddy Gari Balreddy,Veeshnu Vardhan Reddi,35,M,NIQ0036939
+898,Ward -7,R Veena,R Balreddy,35,F,NIQ1940774
+899,Ward -7,Kummari Sailu Sailu,Kummari,49,M,FBD5289251
+900,Ward -7,Kummari Veeramani,Kummari,46,F,FBD5289269
+901,Ward -7,Rajireddigari Ramchandar Redd,Naraayana Areddy,44,M,NIQ2556355
+902,Ward -7,Rajireddy Gari Prathyusha RajireddyGari,Ramchandra Reddy,29,F,NIQ1214741
+903,Ward -7,Rajireddy Gari Narsimha ReddyNarashimha Reddi,Narayanareddy,55,M,NIQ0356857
+904,Ward -7,Rajireddy Gari Lalitha Lalita,Narashimha Reddi,50,F,NIQ0356865
+905,Ward -7,Kemshetty N,Yadagiri,59,F,NIQ2556785
+906,Ward -7,Kemshetti Veeresam,Yadagiri,36,M,FBD3802485
+907,Ward -7,Kemishetty Sravanthi K,Veeresham,34,F,NIQ0963976
+908,Ward -7,Chakali Narsimlu,Chakali Mallesham,35,M,NIQ1854256
+909,Ward -7,Chakali Madhuri,Chakali Narsimlu,27,F,NIQ1854249
+910,Ward -7,Borra Mallesham,Jangaiah,48,M,FBD3804069
+911,Ward -7,Borra Indhramma,Mallesham,43,F,FBD3804242
+912,Ward -7,Borra Mahipal,Borra Malesham,26,M,NIQ1799790
+913,Ward -7,Borra Ramulu,Pentaiah,42,M,NIQ0701748
+914,Ward -7,Borra Rajitha,Ramulu,39,F,FBD3802154
+915,Ward -7,Mangali Shayamamma,Mallaiah,67,F,NIQ2555340
+916,Ward -7,Magali Papaiah,Mallaiah,48,M,NIQ2555498
+917,Ward -7,Mangli Swrrupa,Papaaiah,43,F,NIQ2555506
+918,Ward -7,Mangali Naveen,Mangali Papaiah,26,M,NIQ1815026
+919,Ward -7,Sugunamma Banja,Mallappa,83,F,NIQ2301919
+920,Ward -7,Kurma Mallamma,Raajaiah,80,F,FBD3803871
+921,Ward -7,Kurma Shayamamma,Dasharadham,47,F,FBD5290119
+922,Ward -7,Kurma Malesham,Raajaiah,42,M,FBD3802709
+923,Ward -7,Kurma Laxmi,Kurma Mallesham,37,F,NIQ1327882
+924,Ward -7,Borra Rajesh,Borra Darsharaja,27,M,NIQ1799717
+925,Ward -7,HASEENA BEGUM,AZAR MIYA,21,F,NIQ3280369
+926,Ward -7,MOHAMMED IRFAN,MOHAMMADIDRAHEEM,20,M,NIQ2884393
+927,Ward -7,Fathima Begum,M Mahaboob Pasha,25,F,NIQ2814424
+928,Ward -7,KURMA ANUSHA,KURMA MALLESHAM,21,F,NIQ2842060
+929,Ward -7,VAJIR GULAM RASUL,Babu Miya,47,M,FBD3803665
+930,Ward -7,Raajareddygari Umarani,Ramachander Areddy,42,F,FBD3805249
+931,Ward -7,Samreen Begum Mohammed,Mohammed Anwar,26,F,NIQ3372026
+932,Ward -8,Cheruduppa Balamani Chiduruppa Others :Cheduruppa Mallesham,,67,F,NIQ3033875
+933,Ward -8,Chedurupa Mallesham Chiduruppa Others :Chiduruppa Chandraiah,,50,M,NIQ3033834
+934,Ward -8,Dandu Pavani,Dandu Buchi Ramulu,27,F,NIQ3318482
+935,Ward -8,Kurma Shirisha,kurma Sattaiah,22,F,NIQ3178746
+936,Ward -8,Kurma Shiva Kumar,Kurma Laxmi,20,M,NIQ3011582
+937,Ward -8,SUSHMITHA KOMIRI SETTY,VENKATESHAM,32,F,NIQ2860807
+938,Ward -8,Kurma Vijayalaxmi Kurma,Kurma Veeresham,23,F,NIQ3247293
+939,Ward -8,SRILATHA CHIDURUPPA,SRINIVAS,25,F,NIQ2861680
+940,Ward -8,PRAVEENA DANDU,SRINIVAS,22,F,NIQ2893600
+941,Ward -8,KEERTHI CHIDRUPPA,VENKATESHAM,30,F,NIQ2861524
+942,Ward -8,CHANDRASHEKAR CHAKALI,PENTAIAH,20,M,NIQ2861516
+943,Ward -8,BHAVANI CHAKALI,RAMESH,20,F,NIQ2971596
+944,Ward -8,VADDEPALLY NARENDRA,VADDEPALLY NAVAZGOUD,23,M,NIQ2841997
+945,Ward -8,NARENDRA GOUD VADDEPALLY,NAVAJ GOUD,23,M,NIQ2865632
+946,Ward -8,RAMCHANDAR ERUKALA,SRINIVAS,23,M,NIQ2864619
+947,Ward -8,Manik Prabhu Erukali,Srinivas,21,M,NIQ3146081
+948,Ward -8,SAI KRISHNA ERUKALA,SATHYANARAYANA,22,M,NIQ2890135
+949,Ward -8,RAMYA ERUKALA,HARIKRISHNA,20,F,NIQ2864692
+950,Ward -8,VENKATESHAM ERUKALA,MALLESHAM,22,M,NIQ2847150
+951,Ward -8,LAXMAN BAGARI,RAMCHANDRAIAH,20,M,NIQ2865665
+952,Ward -8,Premalatha Bagari,Venktamma,23,F,NIQ3221199
+953,Ward -8,Praveen Kumar Beagari,Venktamma,21,M,NIQ3221397
+954,Ward -8,Baygari Paramesh Baygari,Baygari Anjaya,19,M,NIQ2973659
+955,Ward -8,NARENDRA BEGARI,ELLAIAH,20,M,NIQ2847168
+956,Ward -8,MURALI BYAGARI,RAMULU,20,M,NIQ2853570
+957,Ward -8,KOMIRI SETTY SUSHMITHA,PEDDAGOLLAVENKATESHAM,32,F,NIQ2842045
+958,Ward -8,Fathima Begum Erukala,Mahender,29,F,NIQ3191517
+959,Ward -8,Buchi Ramulu Dandu,Balaiah,27,M,NIQ1769389
+960,Ward -8,DHANDU SRIKANTH,DANDU BALALIAH,24,M,NIQ2884096
+961,Ward -8,DHARSHANAM SRIHARI,D SURDARSHAN,39,M,NIQ3328499
+962,Ward -8,Borra Lakshmi,Anjaiah,51,F,FBD3803301
+963,Ward -8,Borra Madhu,Anjaiah,36,M,NIQ0036806
+964,Ward -8,Borra Saritha,Madhu,33,F,NIQ0036855
+965,Ward -8,KURMA SATTAIAH,SHANKARAIAH,54,M,FBD3803376
+966,Ward -8,Kurma Kistaiah,Sankaraiah,50,M,FBD5290432
+967,Ward -8,Kurma Nagamani,Satyaiah,44,F,FBD3803509
+968,Ward -8,Kurmalakshmi,Kishtaiah,43,F,FBD3802600
+969,Ward -8,Kurma Lakshmamma,Chandhraiah,59,F,NIQ2556801
+970,Ward -8,Kurma Amarata,Srishailam,42,F,NIQ2556793
+971,Ward -8,Kurma Mallesh,Kurma Srishailam,30,M,NIQ0989824
+972,Ward -8,Jonnada Poojitha,Mallesh,25,F,NIQ2303386
+973,Ward -8,K KUMARAIAH,K MANAIAH,45,M,FBD3802287
+974,Ward -8,Pedda Golla Harita,Komuraiah,34,F,NIQ0356899
+975,Ward -8,Kuruma Ramesh,Kuruma Maneyya,34,M,NIQ1815406
+976,Ward -8,Pedda Golla Venkatesham,Manayya,33,M,NIQ0403345
+977,Ward -8,Sujatha Kurma,Ramesh,30,F,NIQ2301679
+978,Ward -8,Kurma Veeresham,Kurma Beerappa,28,M,NIQ1799014
+979,Ward -8,Chidruppa Laxmayya,Chidruppa Ramaiah,73,M,NIQ1815232
+980,Ward -8,Kurma Bucchamma,Maneiah,62,F,FBD3803111
+981,Ward -8,Chidruppa Shrinivas,Laxmaiah,31,M,NIQ0883439
+982,Ward -8,Kammari Pushpamma,Sudarshanam,75,F,NIQ2556868
+983,Ward -8,Kammari Srinivas,Sudarshanam,50,M,NIQ2556827
+984,Ward -8,Kammari Neelamma,Sudharshanam,42,F,FBD3802246
+985,Ward -8,Kammari Uma,Srinivas,40,F,FBD3802238
+986,Ward -8,Kammari Karunkar,Sudharshanam,37,M,FBD3802923
+987,Ward -8,Kummari Anitha,Karunakar,34,F,NIQ0701243
+988,Ward -8,DANDU PRAVEENA,DANDU SRINIVAS,25,F,NIQ2842011
+989,Ward -8,Chidruppa Lakshmi,Lakshmaiah,56,F,FBD5290135
+990,Ward -8,Chidruppa Venkatesham,Chidruppa Laxmaiah,36,M,NIQ1327841
+991,Ward -8,CHIDRUPPA KEERTHI,CHIDRUPPAVENKATESHAM,30,F,NIQ2848596
+992,Ward -8,Chakali Laxmi,Chakali Manaiah,55,F,NIQ1327890
+993,Ward -8,Chakali Ramesh,Manayya,35,M,NIQ0037168
+994,Ward -8,Chakali Srinivas,Manayya,33,M,NIQ0037184
+995,Ward -8,Chakali Sravanthi,Chakali Srinivas,28,F,NIQ1799576
+996,Ward -8,Chakali Pramodha,Chakali Ramesh,27,F,NIQ1799568
+997,Ward -8,Bhavani Mallepally,Dayan,26,F,NIQ2462950
+998,Ward -8,Chakali Bal Ram,Bucchaiah,59,M,NIQ2556017
+999,Ward -8,Chakali Anjamma,Balram,49,F,NIQ2555902
+1000,Ward -8,Chakali Pentaiah,Chakali Bhuchayya,49,M,NIQ1815109
+1001,Ward -8,Chakali Indiramma,Pentaiah,40,F,FBD5288881
+1002,Ward -8,Chakalee Narsimulu,Chakalee,36,M,FBD5290150
+1003,Ward -8,Ramesh Chakali,Balaram,32,M,NIQ0990128
+1004,Ward -8,Chakali Srilatha,Chakali Narsimlu,26,F,NIQ1799865
+1005,Ward -8,CHAKALI CHANDRASHEKAR,CHAKALI PENTAIAH,20,M,NIQ2884138
+1006,Ward -8,Chidruppa Pocaiah,Ramulu,59,M,FBD3802980
+1007,Ward -8,Chidruppa Rukkamma,Pocaiah,53,F,FBD3802964
+1008,Ward -8,Chidruppa Mallesham,Pochaiah,33,M,NIQ0701342
+1009,Ward -8,Chidruppa Swathi,Chidruppa Mallesham,31,F,NIQ1769447
+1010,Ward -8,Gayidi Parushram,Pentayya,36,M,NIQ0037267
+1011,Ward -8,Gaidhi Sujatha,Gaidhi Parshu Ramulu,34,F,NIQ1799659
+1012,Ward -8,Dandu Srinivas,Kishtaiah,50,M,FBD3803178
+1013,Ward -8,Dandu Pramila,Srinivas,47,F,FBD3803913
+1014,Ward -8,Dandu Padma,Baiyulu,54,F,FBD3803897
+1015,Ward -8,Manne Suresh,Manne Chandhrayya,43,M,NIQ1814862
+1016,Ward -8,Manne Sumalatha,Suresh,35,F,NIQ0868836
+1017,Ward -8,Vadde Palli Navaj Goud,Kista Goud,46,M,FBD5289426
+1018,Ward -8,Vadepalli Veeramani,Navj Goud,40,F,FBD5289400
+1019,Ward -8,Vaddepalli Aruna,Srinivas Goud,38,F,FBD5289392
+1020,Ward -8,Yerukla Saujanya,Shrinivas,37,F,NIQ0356790
+1021,Ward -8,Erukala Sailu,Pocaiah,70,M,NIQ2555308
+1022,Ward -8,Erukala Sathyanarayan,Sailu,44,M,NIQ2555407
+1023,Ward -8,Erukala Rajeshvari,Sathyanarayan,39,F,FBD3802113
+1024,Ward -8,Erukala Srinivas,Sailu,38,M,FBD3802949
+1025,Ward -8,Erukala Harikrishna,Erukala Sathyanarayana,25,M,NIQ1799824
+1026,Ward -8,Erukala Malesham,Sailu,49,M,NIQ2555357
+1027,Ward -8,Erukala Lakshmi,Malesham,38,F,NIQ2555381
+1028,Ward -8,Mahendar Erukala,Mallesham,31,M,NIQ1164730
+1029,Ward -8,Darshanam Parvatamma,Sudarshanam,42,F,FBD3807054
+1030,Ward -8,Darshanam Srihari,Sudarshan,35,M,FBD5292453
+1031,Ward -8,Darshanam Lavanya,Srihri,34,F,FBD5292461
+1032,Ward -8,Ramchandraiah Begari,Mallaiah,50,M,NIQ2303360
+1033,Ward -8,Laxmi Begari,Ramchandraiah,44,F,NIQ2303378
+1034,Ward -8,Byagri Venkatamma,Durgaiah,43,F,FBD3805025
+1035,Ward -8,Byagri Anjaiah,Papaaiah,41,M,FBD3804770
+1036,Ward -8,Byagri Pravina,Anjaiah,38,F,FBD3803921
+1037,Ward -8,Byagari Praveen Kumar,Byagari Anjaiah,33,M,NIQ1799105
+1038,Ward -8,Prashanth Begari,Durgaiah,28,M,NIQ1487967
+1039,Ward -8,Byagri Ramulu,Narsaiah,49,M,NIQ2557031
+1040,Ward -8,Byagri Chandhrakala,Ramulu,44,F,NIQ2557080
+1041,Ward -8,Begari Suneetha,Ellaiah,42,F,NIQ0701425
+1042,Ward -8,Byagri Ellaiah,Narsaiah,37,M,FBD3802733
+1043,Ward -8,Alluri Anita,Prabhakar,36,F,FBD5290192
+1044,Ward -8,Alluri Yadamma,Alluri Sangaiah,53,F,NIQ1327833
+1045,Ward -8,Alluri Santa,Kumar,36,F,FBD5290218
+1046,Ward -8,Alluri Kumar,Sangaiah,36,M,FBD3802345
+1047,Ward -8,Shekar Alluri,Nagaiah,35,M,NIQ1214683
+1048,Ward -8,Dhandu Krishnaveni,Shekar,29,F,NIQ1214675
+1049,Ward -8,Begari Aparana Begari,Begari Prashanth,22,F,NIQ3370632
+1050,Ward -9,SANDHYA POLIMERA,MALLIKARJUN,23,F,NIQ2864585
+1051,Ward -9,Polimera Anusha,Polimera Shivakumar,22,F,NIQ3350733
+1052,Ward -9,POLIMERA PRAVANEELA,JANGAIAH,24,F,NIQ2860872
+1053,Ward -9,ANURADHA POLIMERA,MAHIPAL,23,F,NIQ2861649
+1054,Ward -9,MANASA POLIMERA,SRINIVAS,24,F,NIQ2860856
+1055,Ward -9,Himabindu Polimera,Shiva,19,F,NIQ3221082
+1056,Ward -9,VENKATESHAM KUNDRA,SHYAMAIAH,30,M,NIQ2868115
+1057,Ward -9,PAVAN KUMAR POLIMERA,SAILU,21,M,NIQ2890481
+1058,Ward -9,Bollaram Manimuthyam Bollaram,Bollaram Renuka,19,M,NIQ3250727
+1059,Ward -9,Mahesh Polimera,Polimera Narsamma,20,M,NIQ3092210
+1060,Ward -9,Solkamapali Pirbhu,Gopala,34,M,FBD5290572
+1061,Ward -9,Polimera Narsama,Anjaiah,44,F,NIQ2555993
+1062,Ward -9,Polimera Mallesh,Polimera Adivayya,58,M,NIQ1815117
+1063,Ward -9,Polimera Laxmi,Polimera Mallesh,47,F,NIQ1815133
+1064,Ward -9,Polimera Nagamani,Mallesham,42,F,NIQ2556454
+1065,Ward -9,Polimera Jangamma,Balaiah,64,F,NIQ2555910
+1066,Ward -9,Polimera Chandhraiah,Balaiah,51,M,NIQ2555944
+1067,Ward -9,Polimera Rutamma,Chandhraiah,44,F,NIQ2556553
+1068,Ward -9,Polimera Shiva Kumar,Polimera Malaiah,25,M,NIQ1799485
+1069,Ward -9,Polimera Pedda Yellaih,Venkaiah,52,M,NIQ2555480
+1070,Ward -9,Polimera Pedda Manemma,Ellaiah,49,F,NIQ2555563
+1071,Ward -9,Ploimera Ganesh,Ploimera Yellaiah,26,M,NIQ1799261
+1072,Ward -9,Polimera Maneesha,Polimera Ganesh,25,F,NIQ1799154
+1073,Ward -9,Polimera Mallaiah,Pocaiah,57,M,NIQ2558054
+1074,Ward -9,Polimera Shantamma,Allaiah,56,F,NIQ2558062
+1075,Ward -9,Polimera Bucchamma,Pocaiah,58,F,FBD5290465
+1076,Ward -9,Polimera Rajamma,Polimera Narasaiah,61,F,NIQ2098341
+1077,Ward -9,Polimera Srinivas,Polimera Narsaiah,34,M,NIQ1327973
+1078,Ward -9,Polimera Jangamma,Shiivaiah,63,F,NIQ2557551
+1079,Ward -9,Polimera Amulu,Yelaiah,62,M,FBD3807476
+1080,Ward -9,Kondra Venkata Lakshmi,Narsimlu,36,F,FBD5290515
+1081,Ward -9,Kondra Shvamaiah,Venkaiah,46,M,FBD5290531
+1082,Ward -9,Kondra Lakshmi,Shyamaiah,42,F,FBD5290549
+1083,Ward -9,Bollaram Yadaiah,Ellaiah,45,M,FBD3807500
+1084,Ward -9,Bollaram Anjamma,Yadaiah,41,F,FBD3808144
+1085,Ward -9,Bollaram Renuka,Kishtaiah,40,F,FBD3808375
+1086,Ward -9,POLIMERA PAVANILA,POLIMERA JANGAIAH,24,F,NIQ2842193
+1087,Ward -9,Kundra Vinoda,kundra Venkatesham,20,F,NIQ3311966
+1088,Ward -9,ETIKALA PRAVEEN KUMAR,ITIKALA SAILU,21,M,NIQ2884112
+1089,Ward -9,POLIMERA KUMAR,POLIMERA POCHAIAH,37,M,NIQ3348927
+1090,Ward -9,Gayidi Indira,Sundaraiah,40,F,NIQ1141233
+1091,Ward -9,Gaihidi Ramulu,Davood,39,M,FBD5290226
+1092,Ward -9,Gayedhi Lalitha,Ramulu,38,F,NIQ0701250
+1093,Ward -9,Gayidi Sayamma,Allaiah,73,F,FBD3804796
+1094,Ward -9,Gayidi Ashok,Allaiah,44,M,FBD3804218
+1095,Ward -9,Gayidi Ramulamma,Ashok,41,F,FBD3804127
+1096,Ward -9,Gaidhi Madhusudan,Gaidhi Ashok,26,M,NIQ1799295
+1097,Ward -9,Gayidi Vinodh,Yadaiah,49,F,FBD3803699
+1098,Ward -9,Gaidi Laxmaiah,Gaidi Yadaiah,28,M,NIQ1798974
+1099,Ward -9,Polimera Jangaiah,Pedda Malaiah,35,M,NIQ0701375
+1100,Ward -9,Polimera Chinna Sukkamma,Mallaiah,44,F,NIQ2555787
+1101,Ward -9,P Chinna Mallaiah,Venkaiah,44,M,NIQ2558369
+1102,Ward -9,Polimera Mallikarjun,Polimera Mallaiah,29,M,NIQ1324169
+1103,Ward -9,Polimera Mallaiah,Ellaiah,52,M,NIQ2556561
+1104,Ward -9,Polimera Durgamma,Mallaiah,49,F,NIQ2558344
+1105,Ward -9,Polimera Prasanna,Polimera Shiva Kumar,26,F,NIQ1799675
+1106,Ward -9,Polimera Mallaiah,Enkamma,59,M,NIQ2555860
+1107,Ward -9,Polimera Lalitha,Polimera Mallaiah,37,F,NIQ1327932
+1108,Ward -9,Polimera Mahipal,Polimera Mallaiah,30,M,NIQ1327940
+1109,Ward -9,POLIMERA ANURADHA,POLIMERA MAHIPAL,23,F,NIQ2842219
+1110,Ward -9,Polimera Srinivas,Mallaiah,42,M,NIQ2301851
+1111,Ward -9,Polimera Laxmi,Srinivas,38,F,NIQ2301836
+1112,Ward -9,Polimera Ravindar,Mallaiah,35,M,NIQ0701391
+1113,Ward -9,POLIMERA MANASA,POLIMERA SRINIVAS,24,F,NIQ2842151
+1114,Ward -9,Polemera Balamni,Narsimulu,39,F,NIQ0701086
+1115,Ward -9,Polimer Narsingh Rao,Polimer Venkatayya,36,M,NIQ1815455
+1116,Ward -9,Polimera Chinna Poshamma,Balaiah,49,F,NIQ2555779
+1117,Ward -9,Malaiah Polimera,Venkaiah,49,M,NIQ1214691
+1118,Ward -9,Polimera Chinna Lakshmi,Mallaiah,46,F,NIQ2561306
+1119,Ward -9,Polimrea Pandaraiah,Polimera Baalaiah,41,M,NIQ2462869
+1120,Ward -9,Polimera Chinna Ramulu,Baiyulu,39,M,FBD3804168
+1121,Ward -9,Pollemra Vinoda,Narayana,36,F,NIQ0701151
+1122,Ward -9,Polimera Chinna Lakshmi,Amulu,36,F,FBD3804150
+1123,Ward -9,Kommu Pramila,Polimera Pandaraiah,31,F,NIQ2462851
+1124,Ward -9,Polimera Shiva Kumar,Mallaiah,32,M,NIQ0805234
+1125,Ward -9,Kundra Shyamaiah,Venkaiah,59,M,NIQ2556769
+1126,Ward -9,Kundra Laxmamma,Shyamaiah,54,F,NIQ2556835
+1127,Ward -9,Kundra Venkatesham,Shyamaiah,39,M,FBD3802378
+1128,Ward -9,Kundara Anjamma,Venkatesam,36,F,FBD5290507
+1129,Ward -9,Kundara Narsimulu,Samaiah,36,M,FBD5290523
+1130,Ward -9,Kundra Aruna,Kundra Narsimlu,31,F,NIQ1799725
+1131,Ward -9,Gayidi Padma,Kishan,36,F,NIQ0701235
+1132,Ward -9,Gaydi Kisan,Saylu,36,M,FBD5290291
+1133,Ward -9,Gaidhi Mounika,Gaidhi Krishna,26,F,NIQ1799147
+1134,Ward -9,Gaydi Mallesh,Saylu,39,M,FBD5290309
+1135,Ward -9,Gaidhi Shobha,Gaidhi Mallesham,34,F,NIQ1799329
+1136,Ward -9,Etikala Laxmi,Kistaiah,49,F,NIQ2555761
+1137,Ward -9,Etikela Sailu,Kistaiah,47,M,FBD3803608
+1138,Ward -9,Etikela Manemma,Sailu,43,F,FBD3803616
+1139,Ward -9,Polimera Pocaiah,Amulu,44,M,FBD5290564
+1140,Ward -9,Polimera Lavanya,Pochaiah,34,F,NIQ0701128
+1141,Ward -9,Bollaram Kishtaiah,Yadaiah,44,M,FBD3807492
+1142,Ward -9,Bollaram Ramesh,Kistaiah,27,M,NIQ1799006
+1143,Ward -9,Thota Sathaiah,Pochaiah,39,M,FBD5290358
+1144,Ward -9,Tota Sujatha,Sathaiah,36,F,FBD5290333
+1145,Ward -9,Gaidhi Anitha,Gaidhi Narsimlu,27,F,NIQ1799758
+1146,Ward -9,Solkampalli Gopala,Pentaiah,64,M,NIQ2556207
+1147,Ward -9,Solkamapali Ramulamma,Gopala,59,F,FBD3803384
+1148,Ward -9,Sulkampally Narsimlu,Gopal,31,M,NIQ0868851
+1149,Ward -9,Sulkampally Renuka,Sulkampally Narsimlu,26,F,NIQ1799253
+1150,Ward -9,Sulkampally Anitha,Sulkampally Prabhu,25,F,NIQ1815042
+1151,Ward -9,Polimera Naresh,Polimera Narsimulu,26,M,NIQ1799022
+1152,Ward -9,Kudra Ramesh,Sayamma,31,M,NIQ0989360
+1153,Ward -9,Kundra Lakshmi,Ramesh,29,F,NIQ1587304
+1154,Ward -9,Polimera Venkatamma,Chandraiah,64,F,NIQ2555811
+1155,Ward -9,Polimera Narsimulu,Chandraiah,47,M,FBD3803459
+1156,Ward -9,Polimera Anita,Narasimhulu,39,F,FBD3803467
+1157,Ward -9,Polimera Shekar,Polimera Narsimulu,25,M,NIQ1854223
+1158,Ward -9,Kundra Balmani,Venkaiah,53,F,FBD3803996
+1159,Ward -9,Kundra Sailu,Venkaiah,37,M,FBD3802220
+1160,Ward -9,Kundra Balamani,Sailu,32,F,NIQ0989436
+1161,Ward -9,Bollaram Ramesh,Kistaiah,27,M,NIQ3033883
+1162,Ward -9,Polimera Narsaiah,Amulu,33,M,NIQ0989337
+1163,Ward -9,Polimera Nithisha,Polimera Mallesh,19,F,NIQ3172152
+1164,Ward -9,Kundra Venkatesh,Kundra Shyamaiah,23,M,NIQ2959120
+1165,Ward -9,POLIMERA NAVANEETHA,POLIMERA PANDARI,21,F,NIQ3245032
+1166,Ward -9,Polimera Anitha Polimera,Polimera Narsaiah,23,F,NIQ3368263
+1167,Ward -9,Polimera Mounika,Polimera Ravindar,30,F,NIQ3368305
+1168,Ward -9,Kundra Anusha,Kundra Shyamaiah,19,F,NIQ3370640
+1169,Ward -9,KUNDRA MANIKYAM,KUNDRA SHAMAIAH,22,M,NIQ2848521
+1170,Ward -9,KUNDRA LATHA,KUNDRA VENKATESHAM,23,F,NIQ2864601
+1171,Ward -9,Polimera Shirisha,Polimera Shekar,21,F,NIQ3388139
+1172,Ward -9,Bollaram Manimuthyam,Bollaram Renuka,19,M,NIQ3388238
+1173,Ward -9,POLIMERA RAVI,POLIMERA BALAIAH,39,M,NIQ3388154
+1174,Ward -9,Polimera Ramya,Polimera Ravi,30,F,NIQ3388162
+1175,Ward -9,POLIMERA SHIRISHA,POLIMERA SHEKAR,21,F,NIQ3388139
+1176,Ward -10,Etikala Yadhagiri,Etikala Narsaiah,41,M,NIQ2303337
+1177,Ward -10,Hamsamma Mushti,Yadagiri,36,F,NIQ2301943
+1178,Ward -10,MAMATHA MASTI,SRINIVAS,21,F,NIQ2862753
+1179,Ward -10,DHANALAKSHMI YEMULA,RAJA RAO,50,F,NIQ3319191
+1180,Ward -10,DHANANJAY ETIKYALA,DURGAIAH,23,M,NIQ2861607
+1181,Ward -10,KARUNAKAR ETIKYALA,KISHTAIAH,21,M,NIQ2847143
+1182,Ward -10,Darshanam Prashant Kumar,Darshanam Hamsamaa,20,M,NIQ3091477
+1183,Ward -10,ETIKYALA SAI CHARAN,ETIKYALA NARSIMLU,20,M,NIQ2841849
+1184,Ward -10,ARUN EDULAKANTI,RAMESH,21,M,NIQ2847192
+1185,Ward -10,GANESH DARSHANAM,MURALI,22,M,NIQ2864635
+1186,Ward -10,Darshanam Aravind Darshanam,Dharashanam Jyothi,20,M,NIQ3064565
+1187,Ward -10,Darshanam Hari Krishna,Darshanam Ramulu,19,M,NIQ3091956
+1188,Ward -10,ASHWINI ETIKYALA,BIKSHAPATHI,21,F,NIQ2862787
+1189,Ward -10,PRATHYUSHA ETIKYALA,MAHESH KUMAR,24,F,NIQ2847267
+1190,Ward -10,SHEKAR ETIKYALA,YADAIAH,22,M,NIQ2864825
+1191,Ward -10,SUMANASRI ETIKYALA,SHEKAR,20,F,NIQ2860989
+1192,Ward -10,Etikala Kumar Etikala,Etikala Salamma,27,M,NIQ3064789
+1193,Ward -10,Etikala Kumar,Etikala Salama,27,M,NIQ3071552
+1194,Ward -10,KRISHNA PRASAD ETIKYALA,SANJEEVA,20,M,NIQ2853588
+1195,Ward -10,ESTHER ETIKYALA,DAVED,20,F,NIQ2893659
+1196,Ward -10,SHAILAJA ETIKYALA,KONDAIAH,20,F,NIQ2870301
+1197,Ward -10,RAKESH ETIKYALA,GOPAL,21,M,NIQ2890408
+1198,Ward -10,DARSHANAM ESTHER,DEVED,21,F,NIQ2842201
+1199,Ward -10,ETIKYALA RAKESH,LATE ETIKYALAGOPAL LATE,21,M,NIQ2884252
+1200,Ward -10,RAJESH NUNSAVATH,AMAR SINGH,21,M,NIQ2894756
+1201,Ward -10,Dhanalaxmi Yemula,Raja Rao,50,F,SWD5834346
+1202,Ward -10,Raja Rao Yemula,Venkateswara Rao,73,M,SWD5834288
+1203,Ward -10,ETIKALA JYOTHI,ETIKALA SAMAIAH,19,F,NIQ3354420
+1204,Ward -10,Mushti Pentamma,Ramdas,75,F,NIQ2301802
+1205,Ward -10,Itikala Galamma,Pentaiah,69,F,NIQ2557312
+1206,Ward -10,Itikayala Damodar,Pentaiah,37,M,FBD3810652
+1207,Ward -10,Itikyala Samaiah,Pentaiah,37,M,FBD3810645
+1208,Ward -10,Itikala Uma,Samaiah,36,F,FBD5290481
+1209,Ward -10,Etikala Hamsamma,Etikala Dhamodhar,30,F,NIQ1178046
+1210,Ward -10,ETIKYALA DHANUNJAY,ETIKYALA DURGESH,23,M,NIQ2884120
+1211,Ward -10,ETIKYALA PRAVEEN,ETIKYALA KRISHNA,24,M,NIQ3273349
+1212,Ward -10,ETIKALA PRASAD,ETIKALA KRISHNA,23,M,NIQ3056389
+1213,Ward -10,Itikala Yadaiah,Ramkishtaiah,68,M,NIQ2557353
+1214,Ward -10,Itikala Sugunamma,Yadaiah,63,F,NIQ2557346
+1215,Ward -10,Venkataiah,Yadaiah,40,M,FBD3807013
+1216,Ward -10,Itikyala Narsimlu,Yadaiah,39,M,FBD3807609
+1217,Ward -10,Yitikayala Lakshmi,Narsimlu,38,F,FBD3803368
+1218,Ward -10,Itikala Punnamma,Ramulu,58,F,FBD5290580
+1219,Ward -10,Itikyala Shrinu,Ramulu,37,M,FBD3810488
+1220,Ward -10,Itikayala Chandramma,Durgaiah,36,F,FBD5290606
+1221,Ward -10,Itikyala Chandramma,Shrinu,35,F,NIQ0037424
+1222,Ward -10,Etikala Aruna,Etikala Babu,31,F,NIQ1769397
+1223,Ward -10,E Mahipal,E Kistaiah,30,M,NIQ1799725
+1224,Ward -10,Etikala Madhavi,Etikala Mahipal,27,F,NIQ1799618
+1225,Ward -10,Itikala Chinnamallaiah,Pedda Allaiah,55,M,NIQ2557247
+1226,Ward -10,Shoba Itikala,Yadaiah,39,F,NIQ2345692
+1227,Ward -10,Yadaiah Itikala,Mallaiah,39,M,NIQ2351187
+1228,Ward -10,Itikala Jiyoti,Yadaiah,46,F,FBD5290689
+1229,Ward -10,Etikyala Dhasharath,Etikyala Chinna Rajayya,38,M,NIQ1815364
+1230,Ward -10,Etikala Raju,Hanumanth,33,M,NIQ1257006
+1231,Ward -10,Darshnem Hamsamma,Samaiah,35,F,FBD5290739
+1232,Ward -10,Etikyala Raju,Itikyala Ramchandraiah,34,M,NIQ1771138
+1233,Ward -10,Etikyala Vasantha,Etikyala Raju,30,F,NIQ1771120
+1234,Ward -10,Itikala Agamaiah,Sailu,46,M,FBD5290697
+1235,Ward -10,Itikala Shamanta,Agmaiah,42,F,FBD5290705
+1236,Ward -10,Etikyala Latha,Ashok,31,F,NIQ1937689
+1237,Ward -10,Itikyala Krishna,E Agamaiah,29,M,NIQ1236117
+1238,Ward -10,ETIKALA SONY,Etikala Krishna,30,F,NIQ1799584
+1239,Ward -10,Idulkanti Ramesh,Naraayana,39,M,FBD3809605
+1240,Ward -10,Idulkanti Manjula,Ramesh,37,F,FBD3807252
+1241,Ward -10,Sreeramulu Edulakanti,Naraayana,37,M,FBD3807047
+1242,Ward -10,Idula Kanti Manasa,Shriramulu,34,F,FBD5292578
+1243,Ward -10,Darshanam Shantamma,Sailu,64,F,NIQ2555324
+1244,Ward -10,Darshanam Murali,Lalaiah,46,M,NIQ2556199
+1245,Ward -10,Darshanam Narasma,Murali,42,F,NIQ2556207
+1246,Ward -10,Darshanam Venkatesham,Darshanam Sailu,28,M,NIQ2094548
+1247,Ward -10,Darshanam Premathalatha,Darshanam Venkatesham,26,F,NIQ2094696
+1248,Ward -10,Itikala Agmma,Narsimlu,43,F,NIQ2558229
+1249,Ward -10,Di Jiyoti,Amulu,36,F,FBD3807039
+1250,Ward -10,Darshnam Raju,Bhikshapati,35,M,FBD5292479
+1251,Ward -10,Darshanam Shamala,Raju,33,F,FBD5292487
+1252,Ward -10,Itikala Ellamma,Amulu,72,F,NIQ2558112
+1253,Ward -10,Itikala Bhikshapathi,Amulu,43,M,NIQ2557361
+1254,Ward -10,Itikala Anthamma,Bikshapathi,42,F,NIQ2557411
+1255,Ward -10,Etikyala Vishnu,Bikshapathi,32,M,NIQ1601723
+1256,Ward -10,Etikala Saroja,Etikala Vishnu,28,F,NIQ1799642
+1257,Ward -10,ETUKALA ESHWAR,Etakala Bikshapathi,28,M,NIQ1799691
+1258,Ward -10,E. Pravalika,Etikala Eshwar,26,F,NIQ2213478
+1259,Ward -10,Yadaiah Itikala,Govind,56,M,NIQ2301927
+1260,Ward -10,Itikala Shankaramma,Kishtaiah,51,F,NIQ2557999
+1261,Ward -10,Itikyala Babu,Kishtaiah,37,M,FBD5292594
+1262,Ward -10,Etikala Mahesh Kumar,Etikala Yadaiah,29,M,NIQ1799477
+1263,Ward -10,Etikala Srinivas,Etikala Yadaiah,36,M,NIQ1799683
+1264,Ward -10,LAXMI ETIKYALA,Shreenivas,36,F,NIQ0477802
+1265,Ward -10,Itikala Rangaiah,Raajaiah,48,M,NIQ2563849
+1266,Ward -10,Itikala Salamma,Rangaiah,43,F,NIQ2566768
+1267,Ward -10,Etikela Bharathamma,Ramchendar,41,F,NIQ2515021
+1268,Ward -10,Itikala Venkatamma,Shrinivas,34,F,FBD5290663
+1269,Ward -10,Itikala Kavita,Dhashrath,33,F,FBD5292495
+1270,Ward -10,Etikyala Durghayya,Etikyala Ramulu,28,M,NIQ1814888
+1271,Ward -10,Itikala Sanjeevulu,Raajaiah,41,M,NIQ2557189
+1272,Ward -10,Etikyala Amrutha,Etikyala Mallaiah,26,F,NIQ2301968
+1273,Ward -10,Itikala Sankaraiah,Sailu,63,M,NIQ2557205
+1274,Ward -10,Itikala Anasuya,Sankaraiah,58,F,NIQ2557213
+1275,Ward -10,Itikayala Yadaiah,Sankaraiah,52,M,FBD5290648
+1276,Ward -10,Budhula Ramulamma,Budhula Ramaiah,49,F,NIQ1798990
+1277,Ward -10,Etikyala Urmila,Etikyala Maadhayya,39,F,NIQ1815547
+1278,Ward -10,Budhula Venkataiah,Budhula Ramaiah,39,M,NIQ1799006
+1279,Ward -10,Etikyala Navaneetha,Etikyala Yadagiri,37,F,NIQ1937572
+1280,Ward -10,Itikyala Yadagiri,Sankaraiah,36,M,FBD5290184
+1281,Ward -10,Budhula Narsimulu,Budhula Ramaiah,33,M,NIQ1799022
+1282,Ward -10,Anil Kumar Itikala,Shankaraiah,32,M,NIQ0964008
+1283,Ward -10,Etikala Devid,Etikala Yadhaiah,31,M,NIQ1799048
+1284,Ward -10,Etikyala Darma Biksham,Etikyala Mallaiah,31,M,NIQ1922103
+1285,Ward -10,Etikala Aksa,Etikala Yadhaiah,28,F,NIQ1799147
+1286,Ward -10,Etikala Anusha,Etikala Darmabiksham,27,F,NIQ2210433
+1287,Ward -10,Itikala Shekar,Venkataiah,40,M,NIQ1831452
+1288,Ward -10,Itikala Venkatamma,Itikala Shekhar,36,F,NIQ1831460
+1289,Ward -10,Adivamma,Bheemaiah,80,F,NIQ2557510
+1290,Ward -10,Itikala Pentamma,Allaiah,77,F,NIQ0403329
+1291,Ward -10,Itikala Mallaiah,Bheemaiah,51,M,FBD5290713
+1292,Ward -10,Itikala Narasma,Allaiah,44,F,FBD5290721
+1293,Ward -10,Itikayala Hanmanthu,Bheemaiah,36,M,FBD3807427
+1294,Ward -10,Itikyala Swapna,Hanumantu,34,F,FBD5290630
+1295,Ward -10,Itikala Kondaiah,Sailu,68,M,NIQ0356956
+1296,Ward -10,Itikala Narasma,Kondaiah,50,F,FBD3808334
+1297,Ward -10,Itikala Chendramma,Sailu,73,F,NIQ2557320
+1298,Ward -10,Itikala Renuka,Gopal,42,F,NIQ2560845
+1299,Ward -10,Etikyala Ramesh,Etikyla Gopal,33,M,NIQ1853605
+1300,Ward -10,Etikyala Bal Raj,Etikyala Gopal,29,M,NIQ1854165
+1301,Ward -10,Etikyala Renuka,Etikyala Ramesh,25,F,NIQ1854181
+1302,Ward -10,Darshanam Kotamma,Darshanam Venkataiah,25,F,NIQ2301950
+1303,Ward -10,Annapurna Samgem,Anil Kumar,27,F,NIQ2301893
+1304,Ward -10,Manish Singh,Mahesh,39,M,NIQ3305174
+1305,Ward -10,Bodapatla Srinivas,Bodapatla Ramulu,30,M,NIQ1140763
+1306,Ward -10,ITIKYALA PRASHANTH KUMAR,ITIKYALA NARSIMLU,28,M,NIQ3366648
+1307,Ward -10,Thalari Surya Vamshi Thalari,Thalari Srinivas,25,M,NIQ3371648
+1308,Ward -10,Etikala Laxmi,Etikala Sanjiva,37,F,NIQ3386992
+1309,Ward -10,ETIKYALA MAHA DEVI,ETIKYALA MALLAIH,20,F,NIQ3388147
+1310,Ward -10,ETIKYALA MADHAVI,ETIKYALA MALLAIAH,24,F,NIQ3388055
+1311,Ward -10,ATLA AYYAPPA,ATLA RAMANA REDDY,26,M,NIQ3388212
