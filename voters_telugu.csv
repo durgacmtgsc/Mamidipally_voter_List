@@ -1,0 +1,1312 @@
+﻿S.No,Ward,Name,Father/Husband Name,Age,Sex,EPIC,Name_Tel,Father_Tel,Ward_Tel
+1,Ward -1,Vadla Sandeep Kumar,Vadla Sangameshwar,25,M,NIQ2463040,వడిల్ సందీప్ కుమార్,వడ్ల సంగమేశ్వర్,వార్డు -1
+2,Ward -1,SHIVA KUMAR VADLA,SANGAMESHWAR,20,M,NIQ2896017,శివ కుమార్ వడ్ల,సంగమేశ్వరుడు,వార్డు -1
+3,Ward -1,Vadla Jagan,Vadla Govindhu,46,M,NIQ1815679,వాద్ ది హంట్,Vadla Govindhu,వార్డు -1
+4,Ward -1,Vadla Sangameshwar,Govindu,42,M,NIQ2555829,వడ్ల సంగమేశ్వర్,గోవిందు,వార్డు -1
+5,Ward -1,Vadla Devendhar Chari,Sudhakar,36,M,FBD5288923,Vadla Devendhar Chari,సుధాకర్,వార్డు -1
+6,Ward -1,Vadla Srikanth,Vadla Jagam,25,M,NIQ1799220,Vadla Srikanth,వడ్ల జగం,వార్డు -1
+7,Ward -1,MANIKANTA VADLA,JAGAM,25,M,NIQ2868198,MANIKANTA VADLA,జగమ్,వార్డు -1
+8,Ward -1,Vadla Prashanth,Vadla Jangam,24,M,NIQ2414597,వడ్ల ప్రశాంత్,వడ్ల జంగం,వార్డు -1
+9,Ward -1,Vadla Vasavi,Vadla Prashanth,21,F,NIQ3250750,Vadla Vasavi,వడ్ల ప్రశాంత్,వార్డు -1
+10,Ward -1,Vadla Anjaneyulu,Veeranna,55,M,NIQ2556256,Vadla Anjaneyulu,పావు వంతు,వార్డు -1
+11,Ward -1,Vadla Shamamma,Anjaneyulu,51,F,NIQ2556165,వడ్ల శామమ్మ,Anjaneyulu,వార్డు -1
+12,Ward -1,Vadla Srinivas,Anjaiah,34,M,FBD5288949,వడ్ల శ్రీనివాస్,అంజయ్య,వార్డు -1
+13,Ward -1,Vadla Lakshmamma,Narsimulu,65,F,NIQ2556132,Vadla Lakshmamma,నర్సిములు,వార్డు -1
+14,Ward -1,Vi Lakshmana Chari,Narsimulu,36,M,FBD5288956,వీ లక్ష్మణ చారి,నర్సిములు,వార్డు -1
+15,Ward -1,Vadla Sharanya,Vadla Laxman Chary,31,F,NIQ1798933,వడ్ల శరణ్య,వాద్ లక్ష్మణ్ చారి,వార్డు -1
+16,Ward -1,Vadla Karthik Vadla,Vadla Brahmachary,21,M,NIQ2970739,Vadla Karthik Vadla,వడ్ల బ్రహ్మచర్యం,వార్డు -1
+17,Ward -1,Vadla Ramulu,Narsimulu,54,M,NIQ2556819,Vadla Ramulu,నర్సిములు,వార్డు -1
+18,Ward -1,Vadla Meghamala,Ramulu,49,F,NIQ2556959,Vadla Meghamala,Ramulu,వార్డు -1
+19,Ward -1,Vadla Vimala,Vadla Santhosh Kumar,35,F,NIQ3071339,Vadla Vimala,Vadla Santhosh Kumar,వార్డు -1
+20,Ward -1,Vadla Santhosh Kumar,Vadla Ramulu,29,M,NIQ1197780,Vadla Santhosh Kumar,Vadla Ramulu,వార్డు -1
+21,Ward -1,Vadla Ravi,Narsimulu,48,M,NIQ2556264,Vadla Ravi,నర్సిములు,వార్డు -1
+22,Ward -1,Vadla Lalita,Ravi,44,F,NIQ2556280,దాన్ని తిరగండి,రవి,వార్డు -1
+23,Ward -1,Vadla Raju,Vadla Ravi,26,M,NIQ1815000,వడ్ల రాజు,Vadla Ravi,వార్డు -1
+24,Ward -1,Vadla Ramya Vadla,Vadla Ravi,22,F,NIQ3285665,Vadla Ramya Vadla,Vadla Ravi,వార్డు -1
+25,Ward -1,Vadla Brahmachari,Narsimulu,44,M,NIQ2556405,వడ్ల బ్రహ్మచారి,నర్సిములు,వార్డు -1
+26,Ward -1,Vadla Vishwaroopa,Vadla Brahma Chary,43,F,NIQ1327866,Vadla Vishwaroopa,వడ్ల బ్రహ్మ చార,వార్డు -1
+27,Ward -1,Vadla Anusha,Vadla Srinivas,30,F,NIQ3250743,Vadla Anusha,వడ్ల శ్రీనివాస్,వార్డు -1
+28,Ward -1,Kasala Ramulu,Kasala Narayana,78,M,NIQ2094654,Kasala Ramulu,కాసాల నారాయణ,వార్డు -1
+29,Ward -1,Kasala Lingamaiah,Naraayana,63,M,FBD3804812,సృష్టి,నారాయణ,వార్డు -1
+30,Ward -1,Kasala Vimalamma,Lingamaiah,59,F,NIQ2555811,Kasala Vimalamma,లింగమయ్య,వార్డు -1
+31,Ward -1,Vadla Manisha,Vadla Srikanth,22,F,NIQ3250735,వారు మనీషాను తింటారు,Vadla Srikanth,వార్డు -1
+32,Ward -1,Pandurangarao Kasala,Lingamaiah,43,M,FBD3802303,పాండురంగారావు కాసాల,లింగమయ్య,వార్డు -1
+33,Ward -1,Mahalaxmi Alle,Pandu Ranga Rao,29,F,NIQ2301935,మహాలక్ష్మి అల్లె,పాండు రంగారావు,వార్డు -1
+34,Ward -1,Arjun Chaupal,Mahender Chaupal,32,M,NIQ1799592,అర్జున్ చౌపాల్,మహేంద్ర చౌపాల్,వార్డు -1
+35,Ward -1,Priyanka Chapal,Arjun Chaupal,30,F,NIQ1799626,ప్రియాంక చాపాల్,అర్జున్ చౌపాల్,వార్డు -1
+36,Ward -1,Niradi Ramulu,Eeraiah,65,M,FBD3803012,Niradi Ramulu,హిమేతాండః,వార్డు -1
+37,Ward -1,Neeradi Shusheela,Ramulu,58,F,FBD3803772,నీరది శుశేల,Ramulu,వార్డు -1
+38,Ward -1,Talari Sujata,Narsimlu,40,F,FBD3802055,తలారి సుజాత,నర్సింలు,వార్డు -1
+39,Ward -1,N Anjaneyulu Anjaneyulu,Ramulu,35,M,FBD5288964,N Anjaneyulu Anjaneyulu,Ramulu,వార్డు -1
+40,Ward -1,Lavanya Nirudi,Anjaneyulu,29,F,NIQ1214725,లావణ్య కమ్ బ్యాక్,Anjaneyulu,వార్డు -1
+41,Ward -1,Neerudi Anuradha Neerudi,Sujatha,27,F,NIQ3247251,Neerudi Anuradha Neerudi,Sujatha,వార్డు -1
+42,Ward -1,Vadla Shusheela,Sudhakar,60,F,FBD5288915,వడ్ల శుశీల,సుధాకర్,వార్డు -1
+43,Ward -1,Neerudi Anusha Neerudi,Sujatha,25,F,NIQ3247244,Neerudi Anusha Neerudi,Sujatha,వార్డు -1
+44,Ward -1,Talari Vittal,Talari Eraiah,59,M,NIQ1327874,తలారి విట్టల్,తలారి ఎర్రయ్య,వార్డు -1
+45,Ward -1,Talari Ranemma,Vithal,43,F,FBD3804374,తలారి రాణెమ్మ,ప్రాణాధారమైన,వార్డు -1
+46,Ward -1,Vadla Parmdas Chari,Sudhakar,36,M,FBD5288931,Vadla Parmdas Chari,సుధాకర్,వార్డు -1
+47,Ward -1,V Anil Kumar,Sudhaker,35,M,NIQ1467134,వి అనిల్ కుమార్,సుధాకర్,వార్డు -1
+48,Ward -1,Vadla Kalpana Vadla,Devendra Chary,32,F,NIQ0963992,Vadla Kalpana Vadla,దేవేంద్ర చారి,వార్డు -1
+49,Ward -1,Vadla Madhavi,Vadla Parandas Chary,30,F,NIQ2265007,Vadla Madhavi,వడ్ల చారి సరిదిద్దారు,వార్డు -1
+50,Ward -1,Talari Raju,Vitoba,31,M,NIQ0890947,కాంతి పారిపో,విటోబా,వార్డు -1
+51,Ward -1,Talari Rajendra Prasad,Talari Vittalaiah,28,M,NIQ1532671,తలారి రాజేంద్ర ప్రసాద్,తలారి విట్టలయ్య,Ward -1
+52,Ward -1,Talari Vasundhara,Talari Raju,28,F,NIQ1954510,తలారి వసుంధర,కాంతి పారిపో,వార్డు -1
+53,Ward -1,Talari Veeresham,Talari Vittalaiah,28,M,NIQ1815059,తలారి వీరశం,తలారి విట్టలయ్య,వార్డు -1
+54,Ward -1,Tuntan Chupal,Tuntan Mahgindar,39,M,NIQ1815638,తుంటన్ చుపాల్,మహ్గీందర్ డిమాండ్ చేశారు,వార్డు -1
+55,Ward -1,Sigashum Choupal,Tuntun Choupal,38,F,NIQ1197871,సిగషుమ్ చౌపాల్,కొత్త చౌపాల్,వార్డు -1
+56,Ward -1,BABLU CHOUPAL,TUNTUN,22,M,NIQ2864916,బబ్లూ చౌపాల్,కొత్త,వార్డు -1
+57,Ward -1,Kasala Ramulu,Venkaiah,49,M,NIQ2558328,Kasala Ramulu,వెంకయ్య,వార్డు -1
+58,Ward -1,Kasala Suvarna,Ramulu,44,F,NIQ2556603,కాసాల సువర్ణ,Ramulu,వార్డు -1
+59,Ward -1,Kasaala Mallikarjun,Kasaala Ramulu,27,M,NIQ1854215,కాస్సాలా మల్లికానన్,Kasaala Ramulu,వార్డు -1
+60,Ward -1,Kasala Shravani Kasala,Kasala Mallikarjun,21,F,NIQ3337060,కసల శ్రావణి కసల,కాసాల మల్లికార్జున్,వార్డు -1
+61,Ward -1,Kasala Durgaprasad,Ramulu,19,M,NIQ3245073,కాసాల దుర్గా ప్రసాద్,Ramulu,వార్డు -1
+62,Ward -1,Kale Jagdish,Pandit,50,M,NIQ2556348,కాలే జగదీష్,పండిట్,వార్డు -1
+63,Ward -1,Kale Vinod Kale,Jagdeesh,36,M,NIQ1332287,కాలే వినోద్ కాలే,జగదీష్,వార్డు -1
+64,Ward -1,Gaikwad Arthi,Jagadish,33,F,NIQ1420751,గైక్వాడ్ ఆర్తి,Jagadish,వార్డు -1
+65,Ward -1,Gaikwad Anand,Jagadish,33,M,NIQ0879940,గైక్వాడ్ ఆనంద్,Jagadish,వార్డు -1
+66,Ward -1,Kale Saritha,Kale Vinod,29,F,NIQ1327916,కాలే సరిత,నల్ల వినోద్,వార్డు -1
+67,Ward -1,Patnam Nandam,Pocaiah,80,M,NIQ2555290,పట్నం నందం,పోకయ్య,వార్డు -1
+68,Ward -1,Patnam Pushmmamma,Patnam Nandam,66,F,NIQ1798941,Patnam Pushmmamma,పట్నం నందం,వార్డు -1
+69,Ward -1,Patnam Srkanth,Patnam Sathyanarayana,34,M,NIQ1798966,పట్నం శ్రీకాంత్,Patnam Sathyanarayana,వార్డు -1
+70,Ward -1,Patnam Manjula,Patnam Srikanth,31,F,NIQ1799303,పట్నం మంజుల,పట్నం శ్రీకాంత్,వార్డు -1
+71,Ward -1,Vimala Kurma,Laxmaiah,31,F,NIQ1214733,విమల కూర్మ,లక్ష్మయ్య,వార్డు -1
+72,Ward -1,Kasala Narsimulu,Naraayana,71,M,FBD3804580,కాసాల నర్సిములు,నారాయణ,వార్డు -1
+73,Ward -1,Kasala Lakshmamma,Narsimulu,66,F,FBD3804598,కాసాల లక్ష్మమ్మ,నర్సిములు,వార్డు -1
+74,Ward -1,Kasala Naraayana,Narsimulu,44,M,FBD3804960,కాసాల నారాయణ,నర్సిములు,వార్డు -1
+75,Ward -1,Kasala Venkatesham,Narsimlu,41,M,FBD5288980,కాసాల వెంకటేశం,నర్సింలు,వార్డు -1
+76,Ward -1,Kasala Jyothi,Venkatesh,38,F,NIQ0805127,కాసాల జ్యోతి,వెంకటేష్,వార్డు -1
+77,Ward -1,Kasala Santosha,Naraayana,37,F,FBD3802063,కాసాల సంతోష,నారాయణ,వార్డు -1
+78,Ward -1,Chintha Balaih,Chandhraiah,56,M,NIQ2555431,చింతా బలైః,చంద్రయ్య,వార్డు -1
+79,Ward -1,Vendikolu Manaiah,Vendikolu Lakshmaiah,56,M,FBD5288998,ప్రతీకార మాణయ్య,ప్రతీకారం తీర్చుకునేవాడు లక్ష్మయ్య,వార్డు -1
+80,Ward -1,Vendikola Svaruapa,Vendikola Manaiah,51,F,FBD5289004,వెండికోల స్వరూప,మాణయ్యను సమర్థించండి,వార్డు -1
+81,Ward -1,Chintha Anjamma,Baiyulu,49,F,NIQ2555852,Chintha Anjamma,బైయులు,వార్డు -1
+82,Ward -1,Chintha Durga Prasad,Chintha Balaiah,31,M,NIQ0890954,చింతా దుర్గా ప్రసాద్,చింతా బాలయ్య,వార్డు -1
+83,Ward -1,Sai Chandra Chintha,Balaiah,30,M,NIQ1214709,సాయి చంద్ర చింత,Balaiah,వార్డు -1
+84,Ward -1,Parvathi Chintha,Durga Prasad,25,F,NIQ2301661,పార్వతి చింత,దుర్గా ప్రసాద్,వార్డు -1
+85,Ward -1,MANJULA CHINTHA,SAI CHANDRA,23,F,NIQ2869600,మంజుల చింత,సాయి చంద్ర,వార్డు -1
+86,Ward -1,Kiran Janardhan More,Janardhan More,37,M,NIQ1922368,కిరణ్ జనార్దన్ మోర్,జనార్ధన్ మోర్,వార్డు -1
+87,Ward -1,Preethi Kiran More,Kiran Janardhan More,34,F,NIQ1922343,ప్రీతి కిరణ్ మోర్,కిరణ్ జనార్ధన్ మోర్,వార్డు -1
+88,Ward -1,Chint Lakshmamma,Naraayana,65,F,NIQ2555894,చింత లక్ష్మమ్మ,నారాయణ,వార్డు -1
+89,Ward -1,Kale Aadi Sakthi,Pandit,63,F,FBD3804077,కాలే ఆది శక్తి,పండిట్,వార్డు -1
+90,Ward -1,Kale Sanju Nelapati,Kale Pandith,52,M,NIQ1332295,కాలే సంజు నేలపాటి,కాలే పండిత్,వార్డు -1
+91,Ward -1,Chintha Narsimlu,Naraayana,38,M,FBD3804945,చింత నర్సింలు,నారాయణ,వార్డు -1
+92,Ward -1,Chintha Manjula,Narsimlu,37,F,FBD3802014,చింతా మంజుల,నర్సింలు,వార్డు -1
+93,Ward -1,Kale Vijay,Ravi,37,M,FBD3804515,కాలే విజయ్,రవి,వార్డు -1
+94,Ward -1,Kale Ashtshila,Kale Vijay,36,F,NIQ1922376,ఇతర అష్టశిల,కాలే విజయ్,వార్డు -1
+95,Ward -1,Kale Ashwini,Kale Sanju,25,F,NIQ1922392,డైరెక్ట్,కాలే సంజు,వార్డు -1
+96,Ward -1,BHAVANI CHINTHA,NARSIMLU,21,F,NIQ2860963,భవానీ చింతా,నర్సింలు,వార్డు -1
+97,Ward -1,Chintha Bargavi Chintha,Narsimulu,19,F,NIQ3244985,చింతా బార్గవి చింతా,నర్సిములు,వార్డు -1
+98,Ward -1,Kale Shobh,Jagdish,50,F,NIQ2556330,కాలే శోభ్,జగదీష్,వార్డు -1
+99,Ward -1,Venkatesham Talari,Mallaiah,43,M,FBD3804820,వెంకటేశం తలారి,మల్లయ్య,వార్డు -1
+100,Ward -1,Padma Talari,Venkatesham,37,F,NIQ1089185,పద్మ తలారి,వెంకటేశం,వార్డు -1
+101,Ward -1,Kummari Shayamamma,Pandari,52,F,NIQ2561280,కుమారి శాయమ్మ,పండరి,వార్డు -1
+102,Ward -1,Kummari Sathyanarayana,Lingaiah,43,M,FBD3802048,Kummari Sathyanarayana,లింగయ్య,వార్డు -1
+103,Ward -1,Kummari Sunitha,Sathyanarayan,36,F,FBD5290234,Kummari Sunitha,సత్యనారాయణ,వార్డు -1
+104,Ward -1,Kummari Pentamma,Balaiah,80,F,NIQ2556496,Kummari Pentamma,Balaiah,వార్డు -1
+105,Ward -1,Kummari Narsimulu,Kammari Balaiah,56,M,NIQ2556751,Kummari Narsimulu,బాలయ్య లాగా,వార్డు -1
+106,Ward -1,Kummari Lakshmi,Narsimulu,49,F,NIQ2557114,Kummari Lakshmi,నర్సిములు,వార్డు -1
+107,Ward -1,Kummari Sriramulu,Balaiah,46,M,NIQ2557023,Kummari Sriramulu,Balaiah,వార్డు -1
+108,Ward -1,Kummari Sujata,Shriramulu,45,F,NIQ2556686,కుమారి సుజాత,Shriramulu,వార్డు -1
+109,Ward -1,Kummari Mallesham,Balaiah,43,M,NIQ2557072,Kummari Mallesham,Balaiah,వార్డు -1
+110,Ward -1,Kummari Anjaneyulu,Balaiah,41,M,FBD3803020,Kummari Anjaneyulu,Balaiah,వార్డు -1
+111,Ward -1,Kummari Ramulamma,Malesham,39,F,FBD3802451,Kummari Ramulamma,మలేశం,వార్డు -1
+112,Ward -1,Kummari Latha,Aanjaneyulu,36,F,NIQ0356600,Kummari Latha,ఆంజనేయులు,వార్డు -1
+113,Ward -1,Kummari Venkatesh,Baiyulu,35,M,NIQ0701730,Kummari Venkatesh,బైయులు,వార్డు -1
+114,Ward -1,K Gowthami,K Venkatesh,31,F,NIQ1101609,మూడు,కె వెంకటేష్,వార్డు -1
+115,Ward -1,Kummari Paraveen Kumar,Kummari Narsimlu,30,M,NIQ0989790,Kummari Paraveen Kumar,Kummari Narsimlu,వార్డు -1
+116,Ward -1,Kummari Vinod Kumar,Kummari Sri Ramulu,28,M,NIQ1799550,Kummari Vinod Kumar,Kummari Sri Ramulu,వార్డు -1
+117,Ward -1,Kummari Sudha,Kummari Praveen Kumar,28,F,NIQ3011467,కుమారి సుధ,Kummari Praveen Kumar,వార్డు -1
+118,Ward -1,Kummari Ganesh,Kummari,28,M,NIQ3245081,కుమారి గణేష్,Kummari,వార్డు -1
+119,Ward -1,KUMMARI SHRAVANI,KUMMARIMALLESHAM,20,F,NIQ3119369,KUMMARI SHRAVANI,కుమ్మరిమల్లేశం,వార్డు -1
+120,Ward -1,Kasala Chinna Yadamma,Ramulu,63,F,NIQ2555803,Kasala Chinna Yadamma,Ramulu,వార్డు -1
+121,Ward -1,Pavan Kale,Sanju,23,M,NIQ3191509,పవన్ కాలే,సంజు,వార్డు -1
+122,Ward -1,Vadla Souwya,Vadla Anil Kumar,29,F,NIQ3091972,వడ్ల సౌవ్య,వాద్ అనిల్ కుమార్,వార్డు -1
+123,Ward -1,MANJULA CHINTHA,CHINTA SAI CHANDRA,23,F,NIQ2842003,మంజుల చింత,చింత సాయి చంద్ర,వార్డు -1
+124,Ward -1,Vinoda Kummari,Pandaraiah,24,F,NIQ3329885,Vinoda Kummari,పండరయ్య,వార్డు -1
+125,Ward -1,V JHANSI RANI,V KRISHNA,30,F,NIQ3328382,వి ఝాన్సీ రాణి,వి కృష్ణ,వార్డు -1
+126,Ward -1,V TEJASHWINI,V KRISHNA,23,F,NIQ3328515,వి తేషోహద్,వి కృష్ణ,వార్డు -1
+127,Ward -1,CHINTHA BHAVANI,CHINTHA NARSIMLU,21,F,NIQ2848745,చింతా భవాని,చింత నర్సిములు,వార్డు -1
+128,Ward -1,Vadla Padma,Lakshminarayana,54,F,NIQ0701011,వాద్ పద్మ,Lakshminarayana,వార్డు -1
+129,Ward -1,Chandrakala V,Krishna,52,F,ZUC2803526,చంద్రకళ వి,కృష్ణుడు,వార్డు -1
+130,Ward -1,Krishna,Vadla,46,M,ZUC2803534,కృష్ణుడు,వాద్,వార్డు -1
+131,Ward -1,Vadla Venkatesh,Lakshmi Narayana,37,M,NIQ0701029,వడ్ల వెంకటేష్,లక్ష్మీ నారాయణ,వార్డు -1
+132,Ward -1,Vadla Saritha,Venkatesh,35,F,NIQ1420769,వడ్ల సరిత,వెంకటేష్,వార్డు -1
+133,Ward -1,Harish Kurma,Manaiah,24,M,NIQ2412948,హరీష్ కుర్మ,మాణయ్య,వార్డు -1
+134,Ward -1,KUMMARI PRANAY,KUMMARIANJANEYULU,19,F,NIQ3001807,KUMMARI PRANAY,కుమ్మరియాంజనేయ పాటలు,వార్డు -1
+135,Ward -1,Vadla Anuradha,Vadla Sangameshwar,34,F,NIQ2959054,వడ్ల అనురాధ,వడ్ల సంగమేశ్వర్,వార్డు -1
+136,Ward -1,Kurma Rukkamma,Venkaiah,80,F,FBD3802402,చెవిటి రుక్కమ్మ,వెంకయ్య,వార్డు -1
+137,Ward -1,Kurma Anjamma,Venkaiah,48,F,FBD3803137,మలుపులు,వెంకయ్య,వార్డు -1
+138,Ward -1,Kurma Lakshmaiah,Kurma Venkaiah,37,M,FBD5288972,కూర్మ లక్ష్మయ్య,వెంకయ్య తేదీలు,వార్డు -1
+139,Ward -1,Kasala Narayana,Kasala Narsimlu,49,M,NIQ2840890,కాసాల నారాయణ,కాసాల నర్సింలు,వార్డు -1
+140,Ward -2,Kummari Mallamma,Kammari Mallaiah,66,F,NIQ2556769,కుమారి మల్లమ్మ,ఛాంబర్ మల్లయ్య,వార్డు -2
+141,Ward -2,Kummari Mogulaiah,Kammari Mallaiah,42,M,NIQ2556678,కుమ్మరి మొగులయ్య,ఛాంబర్ మల్లయ్య,వార్డు -2
+142,Ward -2,Kummari Anitha,Mogulaiah,40,F,FBD3803335,Kummari Anitha,మొగులయ్య,వార్డు -2
+143,Ward -2,Kummari Narsimulu,Kummari Mallaiah,54,M,NIQ1799808,Kummari Narsimulu,కుమారి మల్లయ్య,వార్డు -2
+144,Ward -2,Kummari Pushpamma,Narsimulu,44,F,NIQ2556850,Kummari Pushpamma,నర్సిములు,వార్డు -2
+145,Ward -2,Kummari Balakrishna,Mallaiah,54,M,NIQ2556082,Kummari Balakrishna,మల్లయ్య,వార్డు -2
+146,Ward -2,Kummari Navaneetha,Kummari Rajendhar,34,F,NIQ1814946,Kummari Navaneetha,కుమారి రాజేంధర్,వార్డు -2
+147,Ward -2,Kummari Jeeta Rao,Bala Krishna,34,M,NIQ0701144,Kummari Jeeta Rao,బాలకృష్ణ,వార్డు -2
+148,Ward -2,Kummari Rajender,Bala Krishna,32,M,NIQ0891002,కుమారి రాజేందర్,బాలకృష్ణ,వార్డు -2
+149,Ward -2,RAJESHWARI KUMMARI,SAIDAPPA,22,F,NIQ2864833,రాజేశ్వరి కుమారి,సైదప్ప,వార్డు -2
+150,Ward -2,Kummari Jyothi,Kummari Jeetharao,34,F,NIQ1814979,Kummari Jyothi,Kummari Jeetharao,వార్డు -2
+151,Ward -2,Kasala Sashikala,Pandari,49,F,NIQ2556595,కాసాల శశికళ,పండరి,వార్డు -2
+152,Ward -2,Kasala Venkatesham,Kasala Pandari,36,M,NIQ0034710,కాసాల వెంకటేశం,పండరి తప్పు,వార్డు -2
+153,Ward -2,Kasala Sandhyarani,Kasala Venkatesham,29,F,NIQ1582809,Kasala Sandhyarani,కాసాల వెంకటేశం,వార్డు -2
+154,Ward -2,Neerudi Lakshmamma,Kishtaiah,74,F,NIQ2556322,Neerudi Lakshmamma,కిష్టయ్య,వార్డు -2
+155,Ward -2,Neerudi Srishailam,Kistaiah,36,M,FBD5289095,నీరుడి శ్రీశైలం,కిష్టయ్య,వార్డు -2
+156,Ward -2,Nirudi Shankar,Kishtaiah,34,M,NIQ0036665,నీరుడి శంకర్,కిష్టయ్య,వార్డు -2
+157,Ward -2,Neerudi Mallamma,Yadagiri,49,F,NIQ2555555,Neerudi Mallamma,యాదగిరి,వార్డు -2
+158,Ward -2,Swathi Neerudu,Nagaraju,30,F,NIQ1214758,Swathi Neerudu,Nagaraju,వార్డు -2
+159,Ward -2,Neerudi Eashwaraiah,Kishtaiah,48,M,NIQ2555613,నీరుడి ఈశ్వరయ్య,కిష్టయ్య,వార్డు -2
+160,Ward -2,Chilaka Marri Lakshmi,Malla Areddy,81,F,FBD5289129,Chilaka Marri Lakshmi,ఆరెడ్డి ర మేష్,వార్డు -2
+161,Ward -2,Chilaka Marri Satish,Malla Areddy,48,M,FBD5289137,Chilaka Marri Satish,ఆరెడ్డి ర మేష్,వార్డు -2
+162,Ward -2,Chilaka Marri Santosh,Malla Areddy,46,M,FBD5289061,Chilaka Marri Santosh,ఆరెడ్డి ర మేష్,వార్డు -2
+163,Ward -2,Jyothsna Chilakamari,Satish Reddy,44,F,NIQ1313634,జ్యోత్స్న చిలకమర్రి,సతీష్ రెడ్డి,వార్డు -2
+164,Ward -2,Neerudi Sandhya,Neerudi Eshwaraiah,39,F,NIQ1815265,Neerudi Sandhya,నీరుడి ఈశ్వరయ్య,వార్డు -2
+165,Ward -2,Talari Anasuya,Lakshmaiah,54,F,FBD3805207,తలారి అనసూయ,లక్ష్మయ్య,వార్డు -2
+166,Ward -2,Thalari Ishwarya,Sudakar,32,F,NIQ0805168,తలారి ఐశ్వర్య,సుదాకర్,వార్డు -2
+167,Ward -2,SIDHARTHA REDDY KATTUMULLA,NARSI REDDY,22,M,NIQ3165495,సిద్ధార్థ రెడ్డి కట్టుముల్ల,నర్సి రెడ్డి,వార్డు -2
+168,Ward -2,Talari Mallesham,Nagaiah,49,M,FBD5289145,తలారి మల్లేశం,నాగయ్య,వార్డు -2
+169,Ward -2,Talari Chandhrakala,Mallesham,44,F,NIQ2556629,తలారి చంద్రకళ,Mallesham,వార్డు -2
+170,Ward -2,SAI KUMAR TALARI,MALLESHAM,21,M,NIQ2869709,సాయి కుమార్ తలారి,MALLESHAM,వార్డు -2
+171,Ward -2,Kattumulla Narsireddy,Lingareddy,50,M,FBD3804275,కట్టుముళ్ల నర్సిరెడ్డి,లింగారెడ్డి,వార్డు -2
+172,Ward -2,Kay Jiyoti,Narsi Areddy,43,F,FBD3804325,కే జ్యోతి,నర్సి ఆరెడ్డి,వార్డు -2
+173,Ward -2,Talari Malesham,Naraayana,43,M,FBD3803194,తలారి మలేశం,నారాయణ,వార్డు -2
+174,Ward -2,Talari Lalita,Mallesha,39,F,FBD5289152,తలారి లలిత,మల్లేషా,వార్డు -2
+175,Ward -2,Talari Srinivas,Satyaiah,47,M,NIQ2557163,తలారి శ్రీనివాస్,సత్యయ్య,వార్డు -2
+176,Ward -2,Talri Neelamma,Srinivas,37,F,FBD3802337,ప్లేట్ నీలమ్మ,శ్రీనివాస్,వార్డు -2
+177,Ward -2,SRIKANTH TALARI,SRINIVAS,23,M,NIQ2893907,శ్రీకాంత్ తలారి,శ్రీనివాస్,వార్డు -2
+178,Ward -2,SRIDHAR TALARI,SRINIVAS,20,M,NIQ2869881,శ్రీధర్ తలారి,శ్రీనివాస్,వార్డు -2
+179,Ward -2,Neerudi Raju,Sathaiah,41,M,FBD3802329,Neerudi Raju,సత్తయ్య,వార్డు -2
+180,Ward -2,Neerudi Surakha,Raju,37,F,NIQ0037218,Neerudi Surakha,రాజు,వార్డు -2
+181,Ward -2,Talari Ravi,Talari Sathaiah,38,M,FBD5289160,తలారి రవి,తలారి సత్తయ్య,వార్డు -2
+182,Ward -2,Thalari Saritha,Ravi,33,F,NIQ0805143,తలారి సరిత,రవి,వార్డు -2
+183,Ward -2,Talari Shrishailam,Anjaiah,49,M,NIQ2555571,తలారి శ్రీశైలం,అంజయ్య,వార్డు -2
+184,Ward -2,Kurma Srinivas,Komuraiah,48,M,FBD3803269,కూర్మ శ్రీనివాస్,కొమురయ్య,వార్డు -2
+185,Ward -2,Kurma Lalita,Srinivas,43,F,FBD3803228,లలితా తేదీలు,శ్రీనివాస్,వార్డు -2
+186,Ward -2,Talari Lakshmi,Shrishailam,40,F,FBD3803889,తలారి లక్ష్మి,శ్రీశైలం,వార్డు -2
+187,Ward -2,Thalari Lalitha,Thalari Prabhu,39,F,NIQ1921550,తలారి లలిత,తలారి ప్రభు,వార్డు -2
+188,Ward -2,Kurma Yadhagiri,Kurma Srinivas,30,M,NIQ1799857,కూర్మ యాదగిరి,కూర్మ శ్రీనివాస్,వార్డు -2
+189,Ward -2,Kurma Vinoda,Yadagiri,28,F,NIQ2301877,కూర్మ వినోద్,యాదగిరి,వార్డు -2
+190,Ward -2,Talari Shiva,Talari Srisailam,24,M,NIQ2418788,తలారి శివ,తలారి శ్రీశైలం,వార్డు -2
+191,Ward -2,Talari Balakrishna,Talari Srishailam,20,M,NIQ2959534,తలారి బాలకృష్ణ,తలారి శ్రీశైలం,వార్డు -2
+192,Ward -2,Talari Ellaiah,Balaiah,78,M,FBD3804234,తలారి ఎల్లయ్య,Balaiah,వార్డు -2
+193,Ward -2,Talari Narsimulu,Ellaiah,43,M,FBD3804978,తలారి నర్సిములు,ఎల్లయ్య,వార్డు -2
+194,Ward -2,Talari Urmilla,Narsimlu,37,F,FBD3802196,తలారి ఊర్మిళ,నర్సింలు,వార్డు -2
+195,Ward -2,ARUN TALARI,NARSIMLU,24,M,NIQ2869824,అరుణ్ తలారి,నర్సింలు,వార్డు -2
+196,Ward -2,Talari Shamamma,Talari Lachami Naree,39,F,FBD5289194,తలారి శామమ్మ,తలారి లచ్చమీ నారీ,వార్డు -2
+197,Ward -2,Talari Lakshmamma,Raamulu,64,F,NIQ2556546,తలారి లక్ష్మమ్మ,రాములు,వార్డు -2
+198,Ward -2,Talari Srinivas,Amulu,43,M,FBD3802774,తలారి శ్రీనివాస్,అములు,వార్డు -2
+199,Ward -2,Talari Balmani,Srinivas,37,F,FBD3802188,తలారి బాలమణి,శ్రీనివాస్,వార్డు -2
+200,Ward -2,Talari Venkatesham,Ramulu,37,M,FBD3802394,తలారి వెంకటేశం,Ramulu,వార్డు -2
+201,Ward -2,Thalari Padma,Talari Venkatesham,34,F,NIQ0868844,తలారి పద్మ,తలారి వెంకటేశం,వార్డు -2
+202,Ward -2,Thalari Madhavi,Thalari Mallesham,29,F,NIQ1799287,తలారి మాధవి,తలారి మల్లేశం,వార్డు -2
+203,Ward -2,MADHURI TALARI,TALARI SRINU,23,F,NIQ2842078,మాధురి తలారి,తలారి శ్రీను,వార్డు -2
+204,Ward -2,BHARATH TALARI,SRINIVAS,22,M,NIQ2869667,భరత్ తలారి,శ్రీనివాస్,వార్డు -2
+205,Ward -2,Kasala Lakshmaiah,Chittari,60,M,NIQ2555886,కాసాల లక్ష్మయ్య,చిత్తారి,వార్డు -2
+206,Ward -2,Kasala Vittal,Kasala Chithari,55,M,NIQ1815240,కాసాలా విట్టల్,కాసాల చితారి,వార్డు -2
+207,Ward -2,Kasala Balmani,Vithal,48,F,NIQ2556314,కాసాలా బాలమణి,ప్రాణాధారమైన,వార్డు -2
+208,Ward -2,Kasala Swathi,Kasala Vittal,31,F,NIQ1236083,Kasala Swathi,కాసాలా విట్టల్,వార్డు -2
+209,Ward -2,MADHAVI KASALA,VITTAL,24,F,NIQ2847127,మాధవి కసల,VITAL,వార్డు -2
+210,Ward -2,SRAVAN KUMAR KASALA,VITTAL,22,M,NIQ2868057,శ్రావణ్ కుమార్ కాసాల,VITAL,వార్డు -2
+211,Ward -2,Kasala Rukkamma,Gopal,54,F,NIQ2556652,సోమరితనం రుక్కమ్మ,గోపాల్,వార్డు -2
+212,Ward -2,Khasala Sathish Kumar,Khasala Gopal,34,M,NIQ1799279,ఖాసాల సతీష్ కుమార్,ఖాసాల గోపాల్,వార్డు -2
+213,Ward -2,Khasal Jyothi,Khasal Sathish Kumar,27,F,NIQ1799246,ఖాసల్ జ్యోతి,ఖాసల్ సతీష్ కుమార్,వార్డు -2
+214,Ward -2,Kasala Lakshmi,Lakshmaiah,52,F,NIQ2556306,కాసాల లక్ష్మి,లక్ష్మయ్య,వార్డు -2
+215,Ward -2,K Pavan Kumar,Lakshmaiah,34,M,NIQ0627307,కె పవన్ కుమార్,లక్ష్మయ్య,వార్డు -2
+216,Ward -2,Kasala Prashanth,Laxmaiah,31,M,NIQ0890996,కాసాల ప్రశాంత్,లక్ష్మయ్య,వార్డు -2
+217,Ward -2,Kasala Narasma,Kasala Aagaiah,65,F,NIQ2556470,సోమరి నరస్మా,సోమరి ఆగయ్య,వార్డు -2
+218,Ward -2,Kasala Agamaiah,Chithari,59,M,NIQ2555530,బంధువులు,చితారి,వార్డు -2
+219,Ward -2,Sara Anitha,Naraayana,54,F,NIQ2557015,సారా అనిత,నారాయణ,వార్డు -2
+220,Ward -2,Sar Jankiram,Lakshman,54,M,FBD5289236,సార్ జాంకీరామ్,లక్ష్మణ్,వార్డు -2
+221,Ward -2,Sar Padma Bai,Jankiram,49,F,FBD5289244,సార్ పద్మా బాయి,జాంకిరామ్,వార్డు -2
+222,Ward -2,Rajireddygari Gowardan Areddy,Manik Areddy,58,M,FBD3804754,రాజిరెడ్డిగారి గోవర్దన్ ఆరెడ్డి,మాణిక్ ఆరెడ్డి,వార్డు -2
+223,Ward -2,Rajireddygari Madhuraveni,Gowardan Areddy,49,F,NIQ2556637,రాజిరెడ్డిగారి మధురవేణి,గోవర్దన్ ఆరెడ్డి,వార్డు -2
+224,Ward -2,R Ramesh Reddy,Govardan Reddy,34,M,NIQ0805176,ఆర్ రమేష్ రెడ్డి,గోవర్ధన్ రెడ్డి,వార్డు -2
+225,Ward -2,Nikhitha Reddy Aakula,R Ramesh Reddy,27,F,NIQ2301901,Nikhitha Reddy Aakula,ఆర్ రమేష్ రెడ్డి,వార్డు -2
+226,Ward -2,RAJIREDDYGARI NAVYA,Rajireddygari RakeshReddy,25,F,NIQ2992493,రాజిరెడ్డిగారి నవ్య,రాజిరెడ్డిగారి రాకేష్‌రెడ్డి,వార్డు -2
+227,Ward -2,R Padma,Srinivas Reddy,46,F,NIQ2557130,ఆర్ పద్మ,శ్రీనివాస్ రెడ్డి,వార్డు -2
+228,Ward -2,RAJIREDDY GARI RAKESH REDDY,RAJIREDDY GARISRINIVAS REDDY,34,M,NIQ0701045,రాజిరెడ్డి గారి రాకేష్ రెడ్డి,రాజిరెడ్డి గారిశ్రీనివాస్ రెడ్డి,వార్డు -2
+229,Ward -2,Rajireddy Rohith Reddy,Rajireddy Gaari SrinivasReddy,30,M,NIQ0990268,రాజిరెడ్డి రోహిత్ రెడ్డి,రాజిరెడ్డి గారి శ్రీనివాసరెడ్డి,వార్డు -2
+230,Ward -2,Jaggareddygari Venkatamma,Pratas Areddy,67,F,NIQ2555738,జగ్గారెడ్డిగారి వెంకటమ్మ,ఆరెడ్డి మాట్లాడండి,వార్డు -2
+231,Ward -2,Jaggareddygari Rai Reddy,Pratap Reddy,34,M,FBD5290366,జగ్గారెడ్డిగారి రాయ్ రెడ్డి,ప్రతాప్ రెడ్డి,వార్డు -2
+232,Ward -2,SWATHI JAGGAREDDYGARI,RAIREDDY,22,F,NIQ3165487,SWATHI JAGGAREDDYGARI,రాయిరెడ్డి,వార్డు -2
+233,Ward -2,Jaggareddy Gari Ram Reddy,Jaggareddy GariVitalreddy,53,M,NIQ1815356,జగ్గారెడ్డి గారి రామ్ రెడ్డి,జగ్గారెడ్డి గారివిటలరెడ్డి,వార్డు -2
+234,Ward -2,Jaggareddy Gari Sujatha,Ramreddy,43,F,FBD3804614,జగ్గారెడ్డి గారి సుజాత,రాంరెడ్డి,వార్డు -2
+235,Ward -2,Sunil Kumar Mishra,Thribhuvan Mishra,42,M,NIQ1236091,సునీల్ కుమార్ మిశ్రా,త్రిభువన్ మిశ్రా,వార్డు -2
+236,Ward -2,Kangan Mishra,Sunil Kumar Mishra,38,F,NIQ1236059,కంగన్ మిశ్రా,సునీల్ కుమార్ మిశ్రా,వార్డు -2
+237,Ward -2,Jaggareddy Gari Praveena,Jaggareddy GariRamreddy,28,F,NIQ1799204,జగ్గారెడ్డి గారి ప్రవీణ,జగ్గారెడ్డి గారి రాంరెడ్డి,వార్డు -2
+238,Ward -2,Jaggareddy Gari Prasanna Reddy,Jaggareddy Gari RamReddy,26,F,NIQ1799238,జగ్గారెడ్డి గారి ప్రసన్న రెడ్డి,జగ్గారెడ్డి గారి రాంరెడ్డి,వార్డు -2
+239,Ward -2,Jaggareddy Gari Madhavareddy,Vithal Reddy,45,M,FBD3805140,జగ్గారెడ్డి గారి మాధవరెడ్డి,విఠల్ రెడ్డి,వార్డు -2
+240,Ward -2,Jeprabhavathi,Madhava Reddy,40,F,FBD3802592,జెప్రభావతి,మాధవ రెడ్డి,వార్డు -2
+241,Ward -2,Jaggareddy Gari Vikram Reddy,Jaggareddy GariMadhavareddy,24,M,NIQ3011459,Jaggareddy Gari Vikram Reddy,జగ్గారెడ్డి గారిమాధవరెడ్డి,వార్డు -2
+242,Ward -2,Jaggareddy Gari Vaishnavi,Jaggareddy GariMadhavareddy,22,F,NIQ3011426,జగ్గారెడ్డి గారి వైష్ణవి,జగ్గారెడ్డి గారిమాధవరెడ్డి,వార్డు -2
+243,Ward -2,Jenavj Areddy,Vittala Areddy,45,M,FBD3802626,జెనవజ్ ఆరెడ్డి,విట్టల ఆరెడ్డి,వార్డు -2
+244,Ward -2,Jaggareddi Gari Lavanya,Navaj Reddi,39,F,NIQ0356873,Jaggareddi Gari Lavanya,నవాజ్ రెడ్డి,వార్డు -2
+245,Ward -2,Talari Krishna Talari,Talari Mallaiah,47,M,NIQ3318789,తలారి కృష్ణ తలారి,తలారి మల్లయ్య,వార్డు -2
+246,Ward -2,Talari Manjula,Talari Krishna,40,F,NIQ3318771,తలారి మంజుల,తలారి కృష్ణ,వార్డు -2
+247,Ward -2,Padamati Srinivas,Padamati Komuraiah,51,M,NIQ2786564,Padamati Srinivas,Padamati Komuraiah,వార్డు -2
+248,Ward -2,KUMMARI VIJAY KUMAR,KUMMARIMOGULAYYA,24,M,NIQ3314838,KUMMARI VIJAY KUMAR,కుమ్మరిమొగులయ్య,వార్డు -2
+249,Ward -2,TALARI SAI KUMAR,TALARI MALLESHAM,22,M,NIQ2841922,తలారి సాయి కుమార్,తలారి మల్లేశం,వార్డు -2
+250,Ward -2,TALARI SRIKANTH,TALARI SRINIVAS,23,M,NIQ2884237,తలారి శ్రీకాంత్,తలారి శ్రీనివాస్,వార్డు -2
+251,Ward -2,TALARI SRIDHAR,TALARI SRINIVAS,20,M,NIQ2884245,తలారి శ్రీధర్,తలారి శ్రీనివాస్,వార్డు -2
+252,Ward -2,PRAVEEN KURMA,SRINIVAS,25,M,NIQ2925170,ప్రవీణ్ కూర్మ,శ్రీనివాస్,వార్డు -2
+253,Ward -2,THALARI ANAND,THALARI NARSIMLU,20,M,NIQ3248903,తలారి ఆనంద్,తలారి నర్సిములు,వార్డు -2
+254,Ward -2,Anand Thalari,Narsimlu,20,M,NIQ3245404,ఆనంద్ తలారి,నర్సింలు,వార్డు -2
+255,Ward -2,TALARI ARUN,TALARI NARSIMLU,24,M,NIQ2884229,తలారి అరుణ్,తలారి నర్సింలు,వార్డు -2
+256,Ward -2,TALARI BHARATH,TALARI SRINIVAS,22,M,NIQ2884088,Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.,తలారి శ్రీనివాస్,వార్డు -2
+257,Ward -2,Shaik Mohinoddin,Shaik Ahmed,73,M,NIQ2301752,షేక్ మొహినోద్దీన్,షేక్ అహ్మద్,వార్డు -2
+258,Ward -2,Shaik Fathima,Mohinoddin,68,F,NIQ2301760,షేక్ ఫాతిమా,మొహినోద్దీన్,వార్డు -2
+259,Ward -2,Sanganamoni Lingamma,Srinu,41,F,NIQ2301828,ఉబ్బుతుంది,Srinu,వార్డు -2
+260,Ward -2,KUMMARI BHARATH KUMAR,KUMMARIMOGULAYYA,18,M,NIQ3367547,KUMMARI BHARATH KUMAR,కుమ్మరిమొగులయ్య,వార్డు -2
+261,Ward -3,J Venugopal Reddy,Bucchi Areddy,41,M,FBD3802758,జె వేణుగోపాల్ రెడ్డి,బుచ్చి ఆరెడ్డి,వార్డు -3
+262,Ward -3,Jaggareddy Gari Buchireddy,Lakshma Areddy,72,M,FBD3803251,జగ్గారెడ్డి టౌన్ బుచ్చిరెడ్డి,లక్ష్మా ఆరెడ్డి,వార్డు -3
+263,Ward -3,Jaggareddy Gari Snehalatha,Bucchi Areddy,58,F,FBD3803970,జగ్గారెడ్డి గారి స్నేహలత,బుచ్చి ఆరెడ్డి,వార్డు -3
+264,Ward -3,Jaggareddy Gari Sushma,Jeggareddy Venkat Reddy,32,F,NIQ0989865,జగ్గారెడ్డి గారి సుష్మ,జెగ్గారెడ్డి వెంకట్ రెడ్డి,వార్డు -3
+265,Ward -3,Jagareddy Gari Swathi,J.Venugopal Reddy,31,F,NIQ2210474,జగారెడ్డి గారి స్వాతి,జె.వేణుగోపాల్ రెడ్డి,వార్డు -3
+266,Ward -3,Rajireddygari Balram Reddy,Balkishta Reddy,64,M,NIQ2556579,Rajireddygari Balram Reddy,బల్కిష్ట రెడ్డి,వార్డు -3
+267,Ward -3,Rajireddygari Kamalamma,Bal Ram Areddy,63,F,NIQ2557122,రాజిరెడ్డిగారి కమలమ్మ,బల్ రామ్ ఆరెడ్డి,వార్డు -3
+268,Ward -3,Rajireddygari Saireddy,Balaram Areddy,46,M,FBD3802691,రాజిరెడ్డిగారి సాయిరెడ్డి,బలరాం ఆరెడ్డి,వార్డు -3
+269,Ward -3,Rajireddygari Sudhaakar Reddy,Rajireddygari BalramReddy,44,M,NIQ2264968,రాజిరెడ్డిగారి సుధాకర్ రెడ్డి,రాజిరెడ్డిగారి బలరాంరెడ్డి,వార్డు -3
+270,Ward -3,Rajireddygari Jyothi,Rajireddygari SudhakarReddy,44,F,NIQ2264976,రాజిరెడ్డిగారి జ్యోతి,రాజిరెడ్డిగారి సుధాకర్ రెడ్డి,వార్డు -3
+271,Ward -3,Kummari Durgamma,Balaiah,83,F,FBD3804846,Kummari Durgamma,Balaiah,వార్డు -3
+272,Ward -3,Kummari Parvatamma,Venkataiah,48,F,FBD3803707,Kummari Parvatamma,వెంకటయ్య,వార్డు -3
+273,Ward -3,Kummari Venkataiah,Balaiah,48,M,FBD3803806,Kummari Venkataiah,Balaiah,వార్డు -3
+274,Ward -3,Kummari Anjaneyulu,Venkataiah,35,M,FBD5289277,Kummari Anjaneyulu,వెంకటయ్య,వార్డు -3
+275,Ward -3,Kummari Hemalatha,Kummari Anjaneilu,26,F,NIQ1922038,Kummari Hemalatha,Kummari Anjaneilu,వార్డు -3
+276,Ward -3,Kummari Pooja,Kummari Anjaneyulu,25,F,NIQ2959096,Kummari Pooja,Kummari Anjaneyulu,వార్డు -3
+277,Ward -3,Beerappala Bucchamma,Narayana,59,F,NIQ2556462,బీరప్పల బుచ్చమ్మ,నారాయణ,వార్డు -3
+278,Ward -3,Beerapala N,Berapala Naraayana,37,M,FBD5289228,బీరపాల ఎన్,బేరాల నారాయణ,వార్డు -3
+279,Ward -3,Birappala Manjula,N,33,F,FBD5290325,బీరప్పల మంజుల,ఎన్,వార్డు -3
+280,Ward -3,Beerappala Laxmaiah,Naraayana,60,M,FBD3803723,బీరప్పల లక్ష్మయ్య,నారాయణ,వార్డు -3
+281,Ward -3,Beerappala Chandrakala,Lakshmaiah,49,F,FBD3803756,బీరప్పల చంద్రకళ,లక్ష్మయ్య,వార్డు -3
+282,Ward -3,Beerappala Venkatesh Beerappagari,Laxmaiah,30,M,NIQ0990227,బీరప్పల వెంకటేష్ బీరప్పగారి,లక్ష్మయ్య,వార్డు -3
+283,Ward -3,Beerappla Manjula,Beerappla Venkatesham,28,F,NIQ1799089,బీరప్పల మంజుల,బీరప్పల వెంకటేశం,వార్డు -3
+284,Ward -3,Beerapala Viswanadham,Narayana,50,M,FBD3804762,Beerapala Viswanadham,నారాయణ,వార్డు -3
+285,Ward -3,Beerappala Balamani,Viswanadham,45,F,FBD3803749,బీరప్పల బాలమణి,విశ్వనాధం,వార్డు -3
+286,Ward -3,NARENDAR BERAPPALA,VISHWANATHAM,22,M,NIQ2865558,నరేంద్ర బేరప్పల,విశ్వనాథం,వార్డు -3
+287,Ward -3,Beerappagari Penraiah,Kurma Gopal,55,M,NIQ2556488,బీరప్పగారి పెనరయ్య,కూర్మ గోపాల్,వార్డు -3
+288,Ward -3,Beerappagari Lalitha,Pentaiah,50,F,NIQ2555753,బీరప్పగారి లలిత,పెంటయ్య,వార్డు -3
+289,Ward -3,Beerappagari Gopal,Beerappagari Pentaiah,31,M,NIQ1089193,బీరప్పగారి గోపాల్,బీరప్పగారి పెంటయ్య,వార్డు -3
+290,Ward -3,Habeeb Ahmad,Fate Mohamed,58,M,NIQ2555332,హబీబ్ అహ్మద్,ఫేట్ మొహమ్మద్,వార్డు -3
+291,Ward -3,Asiabegam,Abib Hammad,52,F,FBD5289285,ఆసియాబేగం,అబీబ్ హమ్మద్,వార్డు -3
+292,Ward -3,Nawaz Amed Mohd,Habeeb Ahmed,29,M,NIQ1222827,నవాజ్ అమెద్ మొహమ్మద్,హబీబ్ అహ్మద్,వార్డు -3
+293,Ward -3,Fathima Begum Md,Habeeb,26,F,NIQ3315900,ఫాతిమా బేగం ఎండీ,హబీబ్,వార్డు -3
+294,Ward -3,Raheela Ruqsar,Md Nawaz Ahmed,19,F,NIQ3354362,రహీలా రుక్సార్,ఎండీ నవాజ్ అహ్మద్,వార్డు -3
+295,Ward -3,Amina Bee,Daval Sab,58,F,FBD3804564,అమీనా బీ,దావల్ సాబ్,వార్డు -3
+296,Ward -3,Parveen Sulthana,Md Nazeer Ahmed,34,F,NIQ1799907,Parveen Sulthana,ఎండీ నజీర్ అహ్మద్,వార్డు -3
+297,Ward -3,M D Nazeer Ahmed,Mahammad,34,M,NIQ0701755,ఎండీ నజీర్ అహ్మద్,మహమ్మద్,వార్డు -3
+298,Ward -3,Arthiya Begam,Mohmmed Shabber,33,F,NIQ1799352,ఆర్థియా బేగం,మహ్మద్ షబ్బర్,వార్డు -3
+299,Ward -3,Md Shabbir,Md Dawal Sab,31,M,NIQ0890939,ఎండీ షబ్బీర్,ఎండి దావల్ సాబ్,వార్డు -3
+300,Ward -3,Hajira Begam,Mohmmed Ahmed,26,F,NIQ1799345,హజీరా బేగం,మహ్మద్ అహ్మద్,వార్డు -3
+301,Ward -3,SHAIK MAHMOOD MIYA,SHAIK IMAM SAB,55,M,FBD5289301,షేక్ మహమూద్ మియా,షేక్ ఇమామ్ SAB,వార్డు -3
+302,Ward -3,Salma Begum,M D Ahmed,39,F,FBD5290275,సల్మా బేగం,ఎమ్ డి అహ్మద్,వార్డు -3
+303,Ward -3,Md Ghouse Pasha,Babu Miya,36,M,FBD5289293,ఎండీ గౌస్ పాషా,సూప్ లేదు,వార్డు -3
+304,Ward -3,Mohammed Jilani,Babumiya,33,M,NIQ1937622,మహమ్మద్ జిలానీ,అవి అతని నుండి వచ్చాయి,వార్డు -3
+305,Ward -3,Asfiya Begum,Mohammad GhousePasha,24,F,NIQ2412914,అస్ఫియా బేగం,మహ్మద్ గౌస్ పాషా,వార్డు -3
+306,Ward -3,RAHMATH MOHAMMED,AHMED,23,M,NIQ2868503,రహమత్ మహమ్మద్,అహ్మద్,వార్డు -3
+307,Ward -3,KATHIJA BEGUM,JILANI,23,F,NIQ2860849,కతీజా బేగం,ఇరుగుపొరుగు,వార్డు -3
+308,Ward -3,Mahaboob Ali Md,Imam Sab,50,M,NIQ2557171,మహబూబ్ అలీ Md,ఇమామ్ సాబ్,వార్డు -3
+309,Ward -3,Gausiya Begam,M D Maibali,43,F,FBD3804556,గౌసియా బేగం,M D మైబాలి,వార్డు -3
+310,Ward -3,ADIL MOHAMMED,MOHABOOB ALI,22,M,NIQ2870327,ఆదిల్ మొహమ్మద్,మొహబూబ్ అలీ,వార్డు -3
+311,Ward -3,AMAN MD,MOHABOOB ALI,21,M,NIQ2890457,అమన్ MD,మొహబూబ్ అలీ,వార్డు -3
+312,Ward -3,Rajiya,Malang,70,F,NIQ2555449,రాజయ్య,మలంగ్,వార్డు -3
+313,Ward -3,Nizam Mohammd,Malang,31,M,NIQ0964081,నిజాం మొహమ్మద్,మలంగ్,వార్డు -3
+314,Ward -3,Saba Begum,Pakkiri Nizam,26,F,NIQ1799394,సబా బేగం,పక్కిరి నిజాం,వార్డు -3
+315,Ward -3,NASREEN BEGUM,NIZAM,22,F,NIQ2860302,బేగం కాదు,నిజాం,వార్డు -3
+316,Ward -3,Khaja Bee,Hussain Sab,76,F,NIQ1186205,ఖాజా బీ,హుస్సేన్ సాబ్,వార్డు -3
+317,Ward -3,Mahmad Ali Sab,Shek Hussen,59,M,FBD3804952,మహ్మద్ అలీ సాబ్,షేక్ హుస్సేన్,వార్డు -3
+318,Ward -3,Mohmmed Shafiuddin,Mohmmed Ali,29,M,NIQ1799758,మహ్మద్ షఫీయుద్దీన్,మహ్మద్ అలీ,వార్డు -3
+319,Ward -3,Thalari Anitha,Shri Ramulu,35,F,FBD5290408,తలారి అనిత,Shri Ramulu,వార్డు -3
+320,Ward -3,SUMERA FATHIMA SHAIK,MAMOOD MIYA,23,F,NIQ2861011,సుమేరా ఫాతిమా షేక్,అతను మనస్సులో ఉంటాడు,వార్డు -3
+321,Ward -3,Mohammed Shafee,Pasha,24,M,NIQ3350253,మహమ్మద్ షఫీ,పాషా,వార్డు -3
+322,Ward -3,Neha Begum Md,Md Imthiaz,22,F,NIQ3247269,నేహా బేగం Md,ఎండీ ఇంతియాజ్,వార్డు -3
+323,Ward -3,Neha Begum Md,Md Imthiyaz,22,F,NIQ3318185,నేహా బేగం Md,ఎండీ ఇంతియాజ్,వార్డు -3
+324,Ward -3,Neha Begum,Md Shakeer,21,F,NIQ3351780,నేహా బేగం,ఎండీ షకీర్,వార్డు -3
+325,Ward -3,Mohammaed Sameer Mohammed,Mohammad Ali Sab,21,M,NIQ3064110,మహ్మద్ సమీర్ మహమ్మద్,మహ్మద్ అలీ సాబ్,వార్డు -3
+326,Ward -3,BEERAPPAGARI MOUNIKA,BEERAPPAGARIGOPAL,23,F,NIQ3247277,BEERAPPAGARI MOUNIKA,బీరప్పగారిగోపాల్,వార్డు -3
+327,Ward -3,PAKEER KATHIJA BEGUM,MD JALANI,23,F,NIQ2848497,పాకీర్ కతీజా బేగం,MD ప్రత్యక్ష ప్రసారం,వార్డు -3
+328,Ward -3,MD AMAN,MD MAHBOOB ALI,21,M,NIQ2884104,MD అమన్,MD మహబూబ్ అలీ,వార్డు -3
+329,Ward -3,Nirudi Jangaiah,Bagaiah,59,M,NIQ2556975,జంగయ్యకి తిరిగి వెళ్ళు,చూడండి,వార్డు -3
+330,Ward -3,Talari Shushila,Jangaiah,54,F,NIQ2556967,తలారి శుశీల,జంగయ్య,వార్డు -3
+331,Ward -3,N Prasad,Jangaiah,33,M,NIQ0627323,ఎన్ ప్రసాద్,జంగయ్య,వార్డు -3
+332,Ward -3,Nirudi Vijaya Laxmi,Nirudi Jangaiah,28,F,NIQ1854199,విజయ లక్ష్మికి తిరిగి రండి,జంగయ్యకి తిరిగి వెళ్ళు,వార్డు -3
+333,Ward -3,Jahingar Begam,Mahmad Maimud,38,F,FBD5289319,జహింగర్ బేగం,మహ్మద్ మైముద్,వార్డు -3
+334,Ward -3,Chakali Ellamma,Balaiah,59,F,NIQ2555704,ఇప్పటికీ ఎల్లమ్మ,Balaiah,వార్డు -3
+335,Ward -3,Chakali Devender,Balaiah,36,M,FBD5289335,చాకలి దేవేందర్,Balaiah,వార్డు -3
+336,Ward -3,Sakali Yamini,Devendar,33,F,NIQ0805135,సకలి యామిని,Devendar,వార్డు -3
+337,Ward -3,Chakali Sreedhar,Chakali Balaiah,31,M,NIQ0989493,చాకలి శ్రీధర్,చాకలి బాలయ్య,వార్డు -3
+338,Ward -3,Venna Haritha Reddy,Chakali Sridhar,27,F,NIQ2213619,వెన్న హరిత రెడ్డి,చాకలి శ్రీధర్,వార్డు -3
+339,Ward -3,Mohammed Fayaz Pasha,Yusuf,32,M,FBD5290317,మహ్మద్ ఫయాజ్ పాషా,యూసుఫ్,వార్డు -3
+340,Ward -3,Farzana Begum Mohd,Fayaz,30,F,NIQ1222835,ఫర్జానా బేగం మొహమ్మద్,ఫయాజ్,వార్డు -3
+341,Ward -3,Begam Bee,Yusuf,52,F,NIQ2555662,బేగం బీ,యూసుఫ్,వార్డు -3
+342,Ward -3,Mohammed Ali,Mohammed Kajamiya,54,M,NIQ1921576,మహమ్మద్ అలీ,మహమ్మద్ కజామియా,వార్డు -3
+343,Ward -3,Gousiya Begum,M.D Ali,46,F,NIQ1921568,గౌసియా బేగం,M.D అలీ,వార్డు -3
+344,Ward -3,Mahbub Bee,Khajamiah,85,F,FBD3805108,మహబూబ్ బీ,ఖాజామియా,వార్డు -3
+345,Ward -3,Mahaboob Ali,Khajamiah,49,M,FBD3804986,మహబూబ్ అలీ,ఖాజామియా,వార్డు -3
+346,Ward -3,Mahboob Bee,Mahboob Alee,47,F,FBD3804028,మహబూబ్ బీ,మహబూబ్ అలీ,వార్డు -3
+347,Ward -3,Chand Pasha,Khajamiya,47,M,FBD3804994,చాంద్ పాషా,ఖజామియా,వార్డు -3
+348,Ward -3,Chand Bee,Chand Pasha,40,F,FBD3802857,చాంద్ బీ,చాంద్ పాషా,వార్డు -3
+349,Ward -3,Nasima Begum,Mahaboob Ali,29,F,NIQ1719780,థెస్జే ఏలియామ్‌తో ఇలా అన్నాడు;,మహబూబ్ అలీ,వార్డు -3
+350,Ward -3,Mohammed Imthiyaz Mohammed,Mohammed Chand Pasha,27,M,NIQ1601707,మహమ్మద్ ఇంతియాజ్ మహమ్మద్,మహమ్మద్ చాంద్ పాషా,వార్డు -3
+351,Ward -3,Mohammed Shafi,Chandh Pasha,26,M,NIQ1921584,మహమ్మద్ షఫీ,చాంద్ పాషా,వార్డు -3
+352,Ward -3,RUKSANA BEGUM,CHAN PASHA,22,F,NIQ3245875,రుక్సానా బేగం,చాన్ పాషా,వార్డు -3
+353,Ward -3,Mohammed Ghouse,Mahaboob Ali,26,M,NIQ1719806,మహమ్మద్ గౌస్,మహబూబ్ అలీ,వార్డు -3
+354,Ward -3,Mahamood,Mahaboob Ali,25,M,NIQ1921600,మహమూద్,మహబూబ్ అలీ,వార్డు -3
+355,Ward -3,Sabera Begum,Mainoddin,59,F,NIQ2555621,సబేరా బేగం,మైనోద్దీన్,వార్డు -3
+356,Ward -3,Mohammed Ghouse,Mainoddin,40,M,FBD3802352,మహమ్మద్ గౌస్,మైనోద్దీన్,వార్డు -3
+357,Ward -3,Rihnabegam,Mahmad Bashir,37,F,FBD3802501,రిహ్నాబేగం,మహ్మద్ బషీర్,వార్డు -3
+358,Ward -3,Mohammad Fareed,Md Moinoddin,35,M,NIQ1815166,మహ్మద్ ఫరీద్,Md మొయినోద్ ద్వారా,వార్డు -3
+359,Ward -3,Md Shahanaz Begum,Mohammed Ghouse,34,F,NIQ0034959,ఎండీ షహనాజ్ బేగం,మహమ్మద్ గౌస్,వార్డు -3
+360,Ward -3,Asra Begum,Md Farid,28,F,NIQ1769371,అస్రా బేగం,ఎండీ ఫరీద్,వార్డు -3
+361,Ward -3,Chakali Srinivas,Chakali Balaiah,44,M,FBD5289343,చాకలి శ్రీనివాస్,చాకలి బాలయ్య,వార్డు -3
+362,Ward -3,Chakali Manjula,Srinivas,42,F,FBD5289350,అది ఇప్పటికీ మంజుల,శ్రీనివాస్,వార్డు -3
+363,Ward -3,Chakali Veeramani,Krishan,41,F,FBD3803350,చాకలి వీరమణి,క్రిషన్,వార్డు -3
+364,Ward -3,Chakali Krishan,Baiyulu,40,M,FBD3802998,చాకలి క్రిషన్,బైయులు,వార్డు -3
+365,Ward -3,Anuradha Chakali,Jithesh,32,F,NIQ2465417,అనురాధ చాకలి,జితేష్,వార్డు -3
+366,Ward -3,Chakali Shobh,Sadanandam,54,F,FBD3804721,చాకలి శోభ,సదానందం,వార్డు -3
+367,Ward -3,Chakali Malesh,Sadanandam,37,M,FBD3802147,చాకలి మలేష్,సదానందం,వార్డు -3
+368,Ward -3,Chakali Malleshwari,Mallesh,33,F,NIQ0701136,చాకలి మల్లేశ్వరి,Mallesh,వార్డు -3
+369,Ward -3,Chakali Jitesh,Chakali Sadanandam,32,M,NIQ0989410,చాకలి జితేష్,చాకలి సదానందం,వార్డు -3
+370,Ward -3,M D Rafiq,Mohammed Khasim Sab,41,M,FBD3802766,ఎమ్ డి రఫిక్,మహమ్మద్ ఖాసిం సత్,వార్డు -3
+371,Ward -3,Rijwana Begum,Mdrafik,35,F,FBD5290341,రిజ్వానా బేగం,డ్రాఫిక్,వార్డు -3
+372,Ward -3,Jubeda Begam,Maulana,57,F,NIQ2556439,భయంకరమైన బేగం,మౌలానా,వార్డు -3
+373,Ward -3,Mohammed Shafi,Kasimsab,51,M,NIQ2555985,మహమ్మద్ షఫీ,ఇది సులభం,వార్డు -3
+374,Ward -3,Fouziya Begum,Shaphi,43,F,NIQ2555977,ఫౌజియా బేగం,షఫీ,వార్డు -3
+375,Ward -3,Mohmmed Shakeer,Mohmmed Shafi,28,M,NIQ1799766,మహ్మద్ షకీర్,మహమ్మద్ షఫీ,వార్డు -3
+376,Ward -3,Mohmmed Imran,Mohmmed Shafi,26,M,NIQ1799931,మహ్మద్ ఇమ్రాన్,మహమ్మద్ షఫీ,వార్డు -3
+377,Ward -3,Jaggareddy Gari Venkat Reddy,Buchchireddy,42,M,FBD3803954,జగ్గారెడ్డి గారి వెంకట్ రెడ్డి,బుచ్చిరెడ్డి,వార్డు -3
+378,Ward -3,SHAIKSUMERA FATHIMA,SHAIKMAHAMOODMIYA,22,F,NIQ2848539,షేక్సుమేర ఫాతిమా,షేక్ మహమ్మద్మియా,వార్డు -3
+379,Ward -3,MOHAMMED IMAM,LATE MOHAMMEDBASHEER,21,M,NIQ2867083,మహమ్మద్ ఇమామ్,దివంగత మహమ్మద్‌బషీర్,వార్డు -3
+380,Ward -3,Md Shabir,Khasim Sab,56,M,NIQ0281857,ఎండీ షబీర్,ఖాసిం సత్,వార్డు -3
+381,Ward -3,Mazahari Begum,Md Shabir,45,F,NIQ0999005,మజహరి బేగం,ఎండీ షబీర్,వార్డు -3
+382,Ward -3,Md Shamshuddin,Md Shabbir Ahmed,29,M,NIQ0999401,ఎండీ షంషుద్దీన్,ఎండీ షబ్బీర్ అహ్మద్,వార్డు -3
+383,Ward -3,Jaggareddy Gari Srinivasreddy,Lakshma Reddy,53,M,FBD3804283,జగ్గారెడ్డి గారి శ్రీనివాసరెడ్డి,లక్ష్మా రెడ్డి,వార్డు -3
+384,Ward -3,NASREEN BEGUM,PAKEER NIZAM,22,F,NIQ2848794,బేగం కాదు,పాకీర్ నిజాం,వార్డు -3
+385,Ward -3,Himanbi,Khasimsab,70,F,NIQ2555670,హిమాన్బి,ఖాసింసాబ్,వార్డు -3
+386,Ward -3,Md Jilani,Baabumiya,33,M,NIQ0034926,మిస్టర్ జిలానీ,దానిని ప్రచురించండి,వార్డు -3
+387,Ward -3,Manjula Birapala,Narayana,32,F,NIQ1772144,మంజుల బిరపాల,నారాయణ,వార్డు -3
+388,Ward -3,TALARI GANESH,TALARI,19,M,NIQ3384021,తలారి గణేష్,సంప్రదాయం,వార్డు -3
+389,Ward -4,Vadde Anjamma,Allaiah,59,F,NIQ2555936,Vadde Anjamma,అల్లాయ్య,వార్డు -4
+390,Ward -4,Saba Fathima,Md Khaled,29,F,NIQ3351772,సబా ఫాతిమా,Md ఖలీద్,వార్డు -4
+391,Ward -4,AZEEM MOHAMMED,ANWAR MIYA,22,M,NIQ2853604,అజీమ్ మహమ్మద్,అన్వర్ మియా,వార్డు -4
+392,Ward -4,Sameena Bagum Mohammed,Gulam Dastagir,23,F,NIQ2971414,సమీనా బాగం మహమ్మద్,గులాం దస్తగిర్,వార్డు -4
+393,Ward -4,SAMREEN,BABU MIYA,22,F,NIQ2860625,సమరెన్,సూప్ లేదు,వార్డు -4
+394,Ward -4,SAI KUMAR CHAKALI,NARSIMLU,20,M,NIQ2869733,సాయి కుమార్ చాకలి,నర్సింలు,వార్డు -4
+395,Ward -4,CHAKALI RAVI,CHAKALI RAMESH,25,M,NIQ2843027,చాకలి రవి,చాకలి రమేష్,వార్డు -4
+396,Ward -4,SANDEEP KANEKAR,DIPAK,20,M,NIQ2853612,సందీప్ కనేకర్,దీపక్,వార్డు -4
+397,Ward -4,Nishad Begam,MD Nasiroddin,25,F,NIQ2958890,నిషాద్ బేగం,MD నసిరోద్దీన్,వార్డు -4
+398,Ward -4,MALANG MOHAMMED,KHAJA MIYA,60,M,NIQ2862696,మలంగ్ మహమ్మద్,ఖాజా మియా,వార్డు -4
+399,Ward -4,SAJEEDA BEGUM,MALANG,55,F,NIQ2860930,సజీదా బేగం,మలంగ్,వార్డు -4
+400,Ward -4,KRISHNA CHAKALI,ANJANEYULU,23,M,NIQ2868149,కృష్ణ చాకలి,ANJANEYULU,వార్డు -4
+401,Ward -4,Chakali Manasa,Chakali Krishna,19,F,NIQ3354586,ఇప్పటికీ మానసనే,చాకలి కృష్ణ,వార్డు -4
+402,Ward -4,Kode Venkatesham,Kode Srinivas,44,M,NIQ2782415,కోడె వెంకటేశం,కోడ్ శ్రీనివాస్,వార్డు -4
+403,Ward -4,Bommala Kavitha,Bommala Sai Kumar,26,F,NIQ3011483,Bommala Kavitha,Bommala Sai Kumar,వార్డు -4
+404,Ward -4,ARUNA MYADAM,SRINIVAS,54,F,NIQ3034253,అరుణ మయదం,శ్రీనివాస్,వార్డు -4
+405,Ward -4,ABHILASH MYADAM,KRISHNA,24,M,NIQ2868347,అభిలాష్ మైదం,కృష్ణుడు,వార్డు -4
+406,Ward -4,RAJESH KURMA,DURGAIAH,21,M,NIQ2822484,రాజేష్ కుమార్,దుర్గయ్య,వార్డు -4
+407,Ward -4,Vadde Naresh Vadde,Chandraiha,21,M,NIQ3056231,వడ్డే నరేష్ వడ్డే,చంద్రైహ,వార్డు -4
+408,Ward -4,NAVEEN VADDE,MUYTAIAH,20,M,NIQ2865525,NAVEEN VADDE,ముయతయ్య,వార్డు -4
+409,Ward -4,RAJESH VADDE,GANGAIAH,22,M,NIQ2847176,RAJESH VADDE,గంగయ్య,వార్డు -4
+410,Ward -4,PRAVEEN KUMAR VADDE,MALLESH,20,M,NIQ2847119,PRAVEEN KUMAR VADDE,MALLESH,వార్డు -4
+411,Ward -4,Vadde Lalitha Vadde,Vadde Narsimulu,26,F,NIQ3037421,Vadde Lalitha Vadde,Vadde Narsimulu,వార్డు -4
+412,Ward -4,SAJEEDA BEGUM,MOHAMMED MALANG,55,F,NIQ2842110,సజీదా బేగం,మహమ్మద్ మలాంగ్,వార్డు -4
+413,Ward -4,SHAHANAZ BEGUM,DAST,27,F,NIQ2860286,షహనాజ్ బేగం,DAST,వార్డు -4
+414,Ward -4,Yamdi Sharipha Bee,Yusuf,74,F,NIQ2557155,యమ్డి షరీఫా బీ,యూసుఫ్,వార్డు -4
+415,Ward -4,Yamdikhamrunnisa Bhegam,Ek Bal,46,F,NIQ2555845,యమ్దిఖమ్రున్నీసా భేగం,నేను బంతి,వార్డు -4
+416,Ward -4,Khaleed Mohammed,Khamarunnisa Begum,31,M,NIQ1197830,ఖలీద్ మహమ్మద్,ఖమరున్నీసా బేగం,వార్డు -4
+417,Ward -4,Mohmmed Wajid Pasha,Mohmmed Iqbal,26,M,NIQ1799139,మహ్మద్ వాజిద్ పాషా,మహ్మద్ ఇక్బాల్,వార్డు -4
+418,Ward -4,Shamshad Begum,Mahammad Iqbal,24,F,NIQ2417681,శంషాద్ బేగం,ముహమ్మద్ ఇక్బాల్,వార్డు -4
+419,Ward -4,Mohammedanuwar Miya,Yusuf,47,M,NIQ2555951,మహమ్మదనువార్ మియా,యూసుఫ్,వార్డు -4
+420,Ward -4,Sabera Begum,Anwar,36,F,NIQ2414381,సబేరా బేగం,అన్వర్,వార్డు -4
+421,Ward -4,Aziz Mohammad,Anwar,24,M,NIQ2414456,అజీజ్ మహ్మద్,అన్వర్,వార్డు -4
+422,Ward -4,Fateem Bee,Gulam Dastagir,51,F,FBD3804259,ఫతీమ్ బీ,గులాం దస్తగిర్,వార్డు -4
+423,Ward -4,Sameena Begum,Mohammad GulamDsthgir,28,M,NIQ1854173,Sameena Begum,మహ్మద్ గులాం దస్తగీర్,వార్డు -4
+424,Ward -4,Gausiya Begum,Mohammed Babu Miya,43,F,FBD3804044,గౌసియా బేగం,మహమ్మద్ బాబు మియా,వార్డు -4
+425,Ward -4,Chakali Lakshmi,Narsimlu,42,F,NIQ2556124,చాకలి లక్ష్మి,నర్సింలు,వార్డు -4
+426,Ward -4,CHAKALI SHIVA KUMAR,CHAKALI NARSIMLU,20,M,NIQ2969145,చాకలి శివ కుమార్,చాకలి నర్సిములు,వార్డు -4
+427,Ward -4,Chakali Pramila,Ramesh,52,F,FBD3804499,చాకలి ప్రమీల,రమేష్,వార్డు -4
+428,Ward -4,Kurma Laxmaiah,Shankaraiah,48,M,NIQ1771146,లక్ష్మయ్య తేదీలు,శంకరయ్య,వార్డు -4
+429,Ward -4,Kurma Pandu,Sankaraiah,36,M,FBD3802121,కూర్మ పాండు,శంకరయ్య,వార్డు -4
+430,Ward -4,Kurma Anitha,Lakshmaiah,34,F,NIQ0701292,కూర్మ అనిత,లక్ష్మయ్య,వార్డు -4
+431,Ward -4,Kurma Parvathi,Pandu,34,F,NIQ0701409,Kurma Parvathi,పాండు,వార్డు -4
+432,Ward -4,Bommala Rajamma,Bommala Saialu,75,F,NIQ1815075,Bommala Rajamma,Bommala Saialu,వార్డు -4
+433,Ward -4,Bommala Narsimlu,Sayulu,63,M,FBD3805132,Bommala Narsimlu,సాయులు,వార్డు -4
+434,Ward -4,Bommala Pentamma,Narsimlu,48,F,FBD3805124,Bommala Pentamma,నర్సింలు,వార్డు -4
+435,Ward -4,Bommala Kasturi,Bommala Shankarayya,29,F,NIQ2417582,Bommala Kasturi,బొమ్మల శంకరయ్య,వార్డు -4
+436,Ward -4,BOMMALA AKHILA,BOMMALA NARSIMLU,22,F,NIQ3254125,బొమ్మల అఖిల,BOMMALA NARSIMLU,వార్డు -4
+437,Ward -4,Bommala Venkatasvaami,Sailu,54,M,FBD5289376,Bommala Venkatasvaami,Sailu,వార్డు -4
+438,Ward -4,Bommala Sai Nath,Bommala Venkat Swami,29,M,NIQ1487959,Bommala Sai Nath,Bommala Venkat Swami,వార్డు -4
+439,Ward -4,B Sharath Kumar,B Venkat Swamy,27,M,NIQ1587296,బి శరత్ కుమార్,బి వెంకట్ స్వామి,వార్డు -4
+440,Ward -4,Kanerkar Gouthami,Kanerkar Dipak,26,F,NIQ1854124,కనేర్కర్ గౌతమి,కనేర్కర్ దీపక్,వార్డు -4
+441,Ward -4,Kanerkar Hemavathi,Kanerkar Dipak,26,F,NIQ1854140,కనేర్కర్ హేమావతి,కనేర్కర్ దీపక్,వార్డు -4
+442,Ward -4,Mohammed Jani Miya,Mohammed MoulanaSaab,59,M,NIQ1180173,మహమ్మద్ జానీ మియా,మహ్మద్ మౌలానా సాబ్,వార్డు -4
+443,Ward -4,Bhi Pasha,Janee Miah,40,F,FBD3802204,సోదరుడు పాషా,జానీ మియా,వార్డు -4
+444,Ward -4,Kanerakara Lakshmi,Deepak,40,F,FBD5289467,కనెరకర లక్ష్మి,దీపక్,వార్డు -4
+445,Ward -4,M D Nasiroddin,Md,37,M,NIQ0034835,ఎండీ నసిరోద్దీన్,Md,వార్డు -4
+446,Ward -4,Hazira Begum,Mohammed Mubarak,31,F,NIQ1799436,హజీరా బేగం,మహ్మద్ ముబారక్,వార్డు -4
+447,Ward -4,Mohmmed Dasthagir,Mohmmed Janimiya,27,M,NIQ1799378,మహ్మద్ దస్తగీర్,మహ్మద్ జానిమియా,వార్డు -4
+448,Ward -4,Mohammad Chandpasha,Nannesab,50,M,FBD5289483,మహ్మద్ చాంద్పాషా,నన్నెసాబ్,వార్డు -4
+449,Ward -4,Sharifa Begam,Chand Pasha,48,F,FBD5289491,షరీఫా బేగం,చాంద్ పాషా,వార్డు -4
+450,Ward -4,Md Yasin,Md Chand Pasha,31,M,NIQ0890921,ఎండీ యాసిన్,ఎండీ చాంద్ పాషా,వార్డు -4
+451,Ward -4,Wajeed Ali Mohammed,Chand Pasha,29,M,NIQ1197822,వాజీద్ అలీ మహ్మద్,చాంద్ పాషా,వార్డు -4
+452,Ward -4,Parveen,M D Chand Pasha,26,F,NIQ1719798,పర్వీన్,M D చాంద్ పాషా,వార్డు -4
+453,Ward -4,Naziya Begum,Md Yaseen,26,F,NIQ1937648,నాజియా బేగం,ఎండీ యాసీన్,వార్డు -4
+454,Ward -4,AYESHA EATIMA,M D WAJEED ALI,20,F,NIQ3200516,ఆయేషా ఈటిమా,M D వాజీద్ అలీ,వార్డు -4
+455,Ward -4,Chakali Anjaiah,Naraayana,52,M,FBD3803277,చాకలి అంజయ్య,నారాయణ,వార్డు -4
+456,Ward -4,Chakali Yadagiri Chakali,Anjaiah,31,M,NIQ1164425,చాకలి యాదగిరి చాకలి,అంజయ్య,వార్డు -4
+457,Ward -4,Chakali Bhumika,Yadagiri,24,F,NIQ2301869,అది ఇప్పటికీ భూమిక,యాదగిరి,వార్డు -4
+458,Ward -4,Kasala Sankaraiah,Kishtaiah,59,M,FBD3803079,సోమరి శంకరయ్య,కిష్టయ్య,వార్డు -4
+459,Ward -4,Kasala Laxmi,Shankaraiah,52,F,FBD3804861,క్షమించండి లక్ష్మి,శంకరయ్య,వార్డు -4
+460,Ward -4,Kasala Raju,Sankaraiah,37,M,NIQ0701771,కాసాల రాజా,శంకరయ్య,వార్డు -4
+461,Ward -4,Kasala Shekhar,Shankaraiah,32,M,NIQ0890962,కాసాల శేఖర్,శంకరయ్య,వార్డు -4
+462,Ward -4,Kasala Ramesh,Shankaraiah,31,M,NIQ1391325,కాసాల రమేష్,శంకరయ్య,వార్డు -4
+463,Ward -4,Kasala Sunitha,Kasala Raju,30,F,NIQ1799600,Kasala Sunitha,కాసాల రాజా,వార్డు -4
+464,Ward -4,Kasala Varshitha,Kasala Shekhar,22,F,NIQ2959138,Kasala Varshitha,కాసాల శేఖర్,వార్డు -4
+465,Ward -4,Kasal Sathyanarayan,Ramaiah,68,M,FBD3804523,కాసల్ సత్యనారాయణ,చాలా మంది,వార్డు -4
+466,Ward -4,Kasala Nagamma,Sathyanarayan,53,F,FBD3804853,Kasala Nagamma,సత్యనారాయణ,వార్డు -4
+467,Ward -4,Kasala Balaraju,Sathyanarayan,39,M,FBD3802931,Kasala Balaraju,సత్యనారాయణ,వార్డు -4
+468,Ward -4,Kasal Narsimlu,Sathyanarayan,37,M,FBD5289517,కాసల్ నర్సింలు,సత్యనారాయణ,వార్డు -4
+469,Ward -4,Bagyamma K,Balaraju,34,F,NIQ0964099,బిగ్మామ కె,Balaraju,వార్డు -4
+470,Ward -4,Kasala Latha,Kasala Narsimulu,30,F,NIQ1601699,Kasala Latha,కాసాల నర్సిములు,వార్డు -4
+471,Ward -4,Kode Srinivas,Ramaiah,64,M,FBD5289525,కోడ్ శ్రీనివాస్,చాలా మంది,వార్డు -4
+472,Ward -4,Kode Savitramma,Srinivas,61,F,FBD3804101,Kode Savitramma,శ్రీనివాస్,వార్డు -4
+473,Ward -4,KODELA JANGAIAH,Srinivas,42,M,FBD3802030,జంగయ్య కోడెల,శ్రీనివాస్,వార్డు -4
+474,Ward -4,Kode Venkatesham,Srinivas,40,M,FBD3802428,కోడె వెంకటేశం,శ్రీనివాస్,వార్డు -4
+475,Ward -4,K Santhosha,Venkatesham,34,F,NIQ0805101,కె సంతోష్,వెంకటేశం,వార్డు -4
+476,Ward -4,KODELA VIJAYALAXMI,Jangaiah,30,F,NIQ0805150,KODELA VIJAYALAXMI,జంగయ్య,వార్డు -4
+477,Ward -4,B Lakshmaiah,Venkaiah,69,M,NIQ0701078,బి లక్ష్మయ్య,వెంకయ్య,వార్డు -4
+478,Ward -4,Bommala Yadamma,Lakshmaiah,64,F,NIQ0701052,Bommala Yadamma,లక్ష్మయ్య,వార్డు -4
+479,Ward -4,Bommala Sayamma,Pentaiah,75,F,NIQ2556645,Bommala Sayamma,పెంటయ్య,వార్డు -4
+480,Ward -4,B Bala Krishna,B Babu,30,M,NIQ1180165,బి బాల కృష్ణ,బి బాబు,వార్డు -4
+481,Ward -4,Bommala Sridhar,Bommala Babu,29,M,NIQ1954627,శ్రీధర్,Bommala Babu,వార్డు -4
+482,Ward -4,Bommala Ramakrishna,Bommala Narsimlu,31,M,NIQ0989535,Bommala Ramakrishna,Bommala Narsimlu,వార్డు -4
+483,Ward -4,Bommala Sai Prasad,Bommala Narsimulu,26,M,NIQ1799329,Bommala Sai Prasad,Bommala Narsimulu,వార్డు -4
+484,Ward -4,Bommala Shardha,Bommala,41,F,FBD5289558,Bommala Shardha,Bommala,వార్డు -4
+485,Ward -4,Bommala Ravi,B Mallesham,29,M,NIQ1769439,Bommala Ravi,బి మల్లేశం,వార్డు -4
+486,Ward -4,BOMMALA SHIVA BOMMALA,SHARADHA,23,M,NIQ3172145,BOMMALA SHIVA BOMMALA,శారద,వార్డు -4
+487,Ward -4,SHIVA BOMMALA,SHARADHA,23,M,NIQ3174810,శివ బొమ్మల,శారద,వార్డు -4
+488,Ward -4,Myadam Srinivas,ANANTHAIAH,56,M,NIQ2556108,మైదం శ్రీనివాస్,అనంతయ్య,వార్డు -4
+489,Ward -4,Myadam Auruna,Srinivas,46,F,NIQ2556710,మ్యడం అరుణ,శ్రీనివాస్,వార్డు -4
+490,Ward -4,Myadam Sai Kumar,Shrinivas,32,M,NIQ0868810,మైదం సాయి కుమార్,శ్రీనివాస్,వార్డు -4
+491,Ward -4,RAJESHWARI MYADAM,SAI KUMAR,28,F,NIQ2917532,రాజేశ్వరి మైదం,సాయి కుమార్,వార్డు -4
+492,Ward -4,Myadam Krishan,Antaiah,46,M,NIQ2556009,మ్యదం కృష్ణ,అంతయ్య,వార్డు -4
+493,Ward -4,Myadam Pramila,Krishna,42,F,NIQ2555696,మ్యదం ప్రమీల,కృష్ణుడు,వార్డు -4
+494,Ward -4,Mangali Sathyanarayan,Lingamaiah,46,M,NIQ2555928,మంగలి సత్యనారాయణ,లింగమయ్య,వార్డు -4
+495,Ward -4,Mangali Pramila,Sathyanarayan,44,F,FBD3805082,మంగలి ప్రమీల,సత్యనారాయణ,వార్డు -4
+496,Ward -4,Nirmala Mangali,Veeresham,41,F,NIQ1164615,విలపిస్తున్నది,వీరేశం,వార్డు -4
+497,Ward -4,Mangali Veeresam,Lingamaiah,37,M,FBD5289566,మంగలి వీరేశం,లింగమయ్య,వార్డు -4
+498,Ward -4,Kurma Srinivas,Komaraiah,38,M,FBD3802543,కూర్మ శ్రీనివాస్,కొమరయ్య,వార్డు -4
+499,Ward -4,Koorma Lavanya,Koorma,36,F,FBD5289574,లోడ్ లావణ్య,లోడ్ చేయండి,వార్డు -4
+500,Ward -4,Kurma Durgaiah,Komuraiah,49,M,FBD3803855,దుర్గయ్య తేదీలు,కొమురయ్య,వార్డు -4
+501,Ward -4,Kurma Lakshmi,Durgaiah,43,F,FBD3803905,కూర్మ లక్ష్మి,దుర్గయ్య,వార్డు -4
+502,Ward -4,Arun Kumar Kurma,Durgaiah,28,M,NIQ1180157,అరుణ్ కుమార్ కుర్మ,దుర్గయ్య,వార్డు -4
+503,Ward -4,Kurma Anusha,Kurma Durgaiah,25,F,NIQ1937325,యుక్తవయస్సు,దుర్గయ్య తేదీలు,వార్డు -4
+504,Ward -4,RAJASRI GOLLA,ARUN KUMAR,20,F,NIQ2917839,రాజశ్రీ గొల్ల,అరుణ్ కుమార్,వార్డు -4
+505,Ward -4,Sakinala Shivshankar,Pandaraiah,64,M,NIQ2555522,సకినాల శివశంకర్,పండరయ్య,వార్డు -4
+506,Ward -4,Sakinala Annapoorna,Shivshankar,59,F,NIQ2557148,సకినాల అన్నపూర్ణ,శివ శంకర్,వార్డు -4
+507,Ward -4,Mallaiah Vadde,Lakshmaiah,71,M,NIQ2412971,మల్లయ్య వడ్డె,లక్ష్మయ్య,వార్డు -4
+508,Ward -4,Vadde Yadaiah,Vadde Mallaiah,44,M,FBD3803541,Vadde Yadaiah,వడ్డె మల్లయ్య,వార్డు -4
+509,Ward -4,Vadde Aruna,Yadaiah,40,F,FBD3804309,Vadde Aruna,యాదయ్య,వార్డు -4
+510,Ward -4,Vadde Lakshmaiah,Vadde Mallaih,37,M,FBD3804358,Vadde Lakshmaiah,వడ్డే మల్లైః,వార్డు -4
+511,Ward -4,Vadde Sai Baba Vadde,Mallaiah,36,M,NIQ0989998,Vadde Sai Baba Vadde,మల్లయ్య,వార్డు -4
+512,Ward -4,Andalu Vadde,Laxmaiah,32,F,NIQ0990169,Andalu Vadde,లక్ష్మయ్య,వార్డు -4
+513,Ward -4,Umarani Vadde,Sai Baba,31,F,NIQ0990029,Umarani Vadde,సాయిబాబా,వార్డు -4
+514,Ward -4,Vadde Venkatesham,V Mallaiah,31,M,NIQ1769413,Vadde Venkatesham,వి మల్లయ్య,వార్డు -4
+515,Ward -4,Vadde Laxmikala,Vadde Venkatesham,29,F,NIQ1831528,వడ్డె లక్ష్మీకళ,Vadde Venkatesham,వార్డు -4
+516,Ward -4,Vadde Muthaiah,Raajaiah,60,M,FBD3804697,Vadde Muthaiah,రాజయ్య,వార్డు -4
+517,Ward -4,Vadde Anitha,Muthaiah,50,F,FBD3804689,Vadde Anitha,ముత్తయ్య,వార్డు -4
+518,Ward -4,Vadde Mallamma,Gangaiah,41,F,FBD3802832,Vadde Mallamma,గంగయ్య,వార్డు -4
+519,Ward -4,Vadde Yadamma,Lingamaiah,43,F,FBD3802659,వడ్డె యాదమ్మ,లింగమయ్య,వార్డు -4
+520,Ward -4,Vadde Lingamaiah,Raajaiah,41,M,FBD3802808,Vadde Lingamaiah,రాజయ్య,వార్డు -4
+521,Ward -4,CHAKALI SAI KUMAR,CHAKALI NARSIMLU,20,M,NIQ2841872,చాకలి సాయి కుమార్,చాకలి నర్సిములు,వార్డు -4
+522,Ward -4,LAVANYA BOMMALA,NARSIMLU,21,F,NIQ3228756,LAVANYA BOMMALA,నర్సింలు,వార్డు -4
+523,Ward -4,BOMMALA LAXMI,BOMMALA SAINATH,23,F,NIQ3009297,BOMMALA LAXMI,BOMMALA SAINATH,వార్డు -4
+524,Ward -4,MOHAMMAD MALANG,KHAJA MIYA LATE,60,M,NIQ2884161,మహ్మద్ మలాంగ్,ఖాజా మియా లేట్,వార్డు -4
+525,Ward -4,Bommala Bhavani,Bommala Ramakrishna,23,F,NIQ2959161,Bommala Bhavani,Bommala Ramakrishna,వార్డు -4
+526,Ward -4,Vadde Narahari,Vadde Yadaiah,22,M,NIQ3163789,వడ్డే నరహరి,Vadde Yadaiah,వార్డు -4
+527,Ward -4,Vadde Shivaprasad,Vadde Yadaiah,21,M,NIQ3164407,వడ్డే శివప్రసాద్,Vadde Yadaiah,వార్డు -4
+528,Ward -4,VADDE NAVEEN,VADDE MUTTAIAH,20,M,NIQ2884294,VADDE NAVEEN,వడ్డే ముత్తయ్య,వార్డు -4
+529,Ward -4,BOMMALA SHAILAJA,BOMMALA SHARATHKUMAR,23,F,NIQ2914885,BOMMALA SHAILAJA,BOMMALA SHARATHKUMAR,వార్డు -4
+530,Ward -4,SAMREEN,MAHAMMAD BABUMIYA,22,F,NIQ2842144,సమరెన్,మహమ్మద్ బాబుమియా,వార్డు -4
+531,Ward -4,Bommala Shiva,Ramdas,23,M,NIQ2959492,బొమ్మల శివ,రాందాస్,వార్డు -4
+532,Ward -4,Gaddam Sukkamma,Gaddam Shankaraiah,43,F,NIQ2417145,Gaddam Sukkamma,Gaddam Shankaraiah,వార్డు -4
+533,Ward -4,Gulam Dastagir,Nannesab,67,M,FBD3804507,గులాం దస్తగిర్,నన్నెసాబ్,వార్డు -4
+534,Ward -4,Mohammed Babu Miya,Nannesab,56,M,FBD3803947,మహమ్మద్ బాబు మియా,నన్నెసాబ్,వార్డు -4
+535,Ward -4,BOMMALA RENUKA,BOMMALA RAVI,28,F,NIQ3367448,BOMMALA RENUKA,BOMMALA RAVI,వార్డు -4
+536,Ward -5,Vadla Lavaiah,Shrihari,36,M,FBD3802790,వడ్ల లావయ్య,శ్రీహరి,వార్డు -5
+537,Ward -5,Vadla Sharadha,Vadla Kushalaiah Chary,27,F,NIQ1799493,వడ్ల శారద,వడ్ల కుశలయ్య చారి,వార్డు -5
+538,Ward -5,Vadla Madhuveena,Vadla Lavaiah Chary,26,F,NIQ1799501,Vadla Madhuveena,Vadla Lavaiah Chary,వార్డు -5
+539,Ward -5,Kummari Shirisha,Kummari Krishna,31,F,NIQ1799030,కుమ్మరి శిరీష,కుమారి కృష్ణ,వార్డు -5
+540,Ward -5,Kummari Praveen Kumar,Kummari Narsimulu,25,M,NIQ1799667,Kummari Praveen Kumar,Kummari Narsimulu,వార్డు -5
+541,Ward -5,CHANDRA SHEKAR KUMMARI,ESHWARAIAH,21,M,NIQ2863876,చంద్ర శేఖర్ కుమారి,ఈశ్వరయ్య,వార్డు -5
+542,Ward -5,NAVEEN VADDE,MALLESHA,24,M,NIQ2864650,NAVEEN VADDE,మల్లేషా,వార్డు -5
+543,Ward -5,Vadde Lavanya,Vadde Mallesham,20,F,NIQ3354503,Vadde Lavanya,Vadde Mallesham,వార్డు -5
+544,Ward -5,MAHESH VADDE,SAMAIAH,20,M,NIQ2861508,MAHESH VADDE,సమైయా,వార్డు -5
+545,Ward -5,PREMEELA KURMA,MANOHAR,21,F,NIQ2860716,ప్రేమా కుర్మ,మనోహర్,వార్డు -5
+546,Ward -5,POOJITHA KUMMARI,RAMESH,21,F,NIQ2860559,POOJITHA KUMMARI,రమేష్,వార్డు -5
+547,Ward -5,Kurma Manoj Kumar Kurma,Kurma Lalitha,20,M,NIQ3063377,రాజు తల్లిదండ్రులు మెత్త్,కూర్మ లలిత,వార్డు -5
+548,Ward -5,Dore Jyoti,Dore Narsimlu,22,F,NIQ3351434,దోరే జ్యోతి,దొర నర్సింలు,వార్డు -5
+549,Ward -5,TARUN ETIKYALA,YADAIAH,20,M,NIQ2864957,తరుణ్ ఎటిక్యాల,యాదయ్య,వార్డు -5
+550,Ward -5,BALAJI DARSHANAM,RAMULU,24,M,NIQ2864866,BALAJI DARSHANAM,RAMULU,వార్డు -5
+551,Ward -5,MADHU DARSHANAM,RAMULU,22,M,NIQ2865822,MADHU DARSHANAM,RAMULU,వార్డు -5
+552,Ward -5,Darshanam Sharath,Darshanam Ramulu,19,M,NIQ3350295,దర్శనం శరత్,Darshanam Ramulu,వార్డు -5
+553,Ward -5,ARCHANA VADDEPALLY,MAHESH GOUD,29,F,NIQ2915635,అర్చన వడ్డేపల్లి,మహేశ్ గౌడ్,వార్డు -5
+554,Ward -5,KUMMARI CHANDRA SHEKARKUMMARI,KUMMARIEASHWARAIAH,21,M,NIQ2954618,కుమ్మరి చంద్ర శేఖర్‌కుమ్మరి,కుమ్మరీశ్వరయ్య,వార్డు -5
+555,Ward -5,Vadla Kushlaiah,Shrihari,40,M,FBD3802782,వడ్ల కుశలయ్య,శ్రీహరి,వార్డు -5
+556,Ward -5,Vadde Kamalamma,Malesham,42,F,NIQ2557098,Vadde Kamalamma,మలేశం,వార్డు -5
+557,Ward -5,Vadde Anjaiah,Ellaiah,73,M,NIQ2555639,వడ్డె అంజయ్య,ఎల్లయ్య,వార్డు -5
+558,Ward -5,Vadde Pochamma,Anjaiah,65,F,NIQ2558336,Vadde Pochamma,అంజయ్య,వార్డు -5
+559,Ward -5,Vadde Shrishailam,Vadde,35,M,FBD5289608,వడ్డె శ్రీశైలం,Vadde,వార్డు -5
+560,Ward -5,Mounika Vadde,Srishailam,26,F,NIQ1769454,Mounika Vadde,శ్రీశైలం,వార్డు -5
+561,Ward -5,Vadde Malesh,Anjaiah,47,M,FBD3802261,Vadde Malesh,అంజయ్య,వార్డు -5
+562,Ward -5,Vadde Mogulamma,Malesh,43,F,FBD3802675,Vadde Mogulamma,పర్వతాలు,వార్డు -5
+563,Ward -5,Vadde Narsimlu,Anjaiah,36,M,FBD5289582,వడ్డె నర్సింలు,అంజయ్య,వార్డు -5
+564,Ward -5,Vadde Sathyanarayan,Anjaiah,37,M,FBD5289590,వడ్డే సత్యనారాయణ,అంజయ్య,వార్డు -5
+565,Ward -5,Vadde Manjula,Satyanarayana,34,F,NIQ0700989,వడ్డె మంజుల,Satyanarayana,వార్డు -5
+566,Ward -5,Vadde Yadaiah,Ellaiah,54,M,NIQ0356691,Vadde Yadaiah,ఎల్లయ్య,వార్డు -5
+567,Ward -5,Vadde Rukkamma,Yadaiah,46,F,NIQ2555712,Vadde Rukkamma,యాదయ్య,వార్డు -5
+568,Ward -5,Vadde Sarika,Vadde Yadaiah,27,F,NIQ1799196,వడ్డే సారిక,Vadde Yadaiah,వార్డు -5
+569,Ward -5,VADDE MAHESH,VADDE SAMAIAH,20,M,NIQ2884286,VADDE MAHESH,VADDE SAMAIAH,వార్డు -5
+570,Ward -5,Vadde Pocaiah,Mallaiah,64,M,NIQ2556033,వడ్డె పోచయ్య,మల్లయ్య,వార్డు -5
+571,Ward -5,Vadde Lakshmi,Pocaiah,61,F,NIQ2556058,Vadde Lakshmi,పోకయ్య,వార్డు -5
+572,Ward -5,Vadde Eeraiah,Allaiah,56,M,NIQ2556041,వడ్డే ఈరయ్య,అల్లాయ్య,వార్డు -5
+573,Ward -5,Vadde Ellamma,Eeraiah,54,F,NIQ2556066,వడ్డె ఎల్లమ్మ,హిమేతాండః,వార్డు -5
+574,Ward -5,Vadde Samaiah,Mallaiah,53,M,NIQ2556421,Vadde Samaiah,మల్లయ్య,వార్డు -5
+575,Ward -5,Vadde Onmma,Samaiah,46,F,NIQ2556074,వడ్డె ఓమ్మా,సమయ్యా,వార్డు -5
+576,Ward -5,Vadde Venkatamma,Ramulu,65,F,NIQ2556942,Vadde Venkatamma,Ramulu,వార్డు -5
+577,Ward -5,Vadde Shankar,Vadde Ramulu,31,M,NIQ1799881,వడ్డే శంకర్,Vadde Ramulu,వార్డు -5
+578,Ward -5,Vadde Bagyalaxmi,Vadde Shankar,26,F,NIQ1719814,Vadde Bagyalaxmi,వడ్డే శంకర్,వార్డు -5
+579,Ward -5,Vadde Krishna,Ramulu,43,M,FBD3802279,Vadde Krishna,Ramulu,వార్డు -5
+580,Ward -5,Vadde Parvathi,Krishan,37,F,FBD5289632,Vadde Parvathi,క్రిషన్,వార్డు -5
+581,Ward -5,Vadde Anjaneyulu,Vadde Ramulu,38,M,NIQ1799709,Vadde Anjaneyulu,Vadde Ramulu,వార్డు -5
+582,Ward -5,Vadde Lavanya,Anjaneyulu,33,F,NIQ0034850,Vadde Lavanya,Anjaneyulu,వార్డు -5
+583,Ward -5,Vadde Sathyamma,Ellamma,59,F,NIQ2556744,Vadde Sathyamma,ఎల్లమ్మ,వార్డు -5
+584,Ward -5,Srinu Vadde,Yellaiah,34,M,NIQ0989956,Srinu Vadde,యెల్లయ్య,వార్డు -5
+585,Ward -5,Manjula Vadde,Srinu,31,F,NIQ0989915,మంజుల వడ్డె,Srinu,వార్డు -5
+586,Ward -5,P Sathyanarayan,Durgaiah,54,M,NIQ2557106,పి సత్యనారాయణ,దుర్గయ్య,వార్డు -5
+587,Ward -5,P Vanamma,Sathyanarayan,49,F,NIQ2693877,పి వనమ్మ,సత్యనారాయణ,వార్డు -5
+588,Ward -5,Kummari Chinna Mallaiah,Ramanna,66,M,NIQ2556025,కుమ్మరి చిన్న మల్లయ్య,రుచి,వార్డు -5
+589,Ward -5,Kummari Eashwaraiah,Mallaiah,43,M,FBD3802881,కుమ్మరి ఈశ్వరయ్య,మల్లయ్య,వార్డు -5
+590,Ward -5,Kummari Manjula,Eashwaraiah,36,F,FBD3802915,Kummari Manjula,ఈశ్వరయ్య,వార్డు -5
+591,Ward -5,Kummari Srinivas,Mallaiah,41,M,FBD3802022,Kummari Srinivas,మల్లయ్య,వార్డు -5
+592,Ward -5,Kummari Manjula,K Mallaiah,40,F,NIQ0701037,Kummari Manjula,కె మలయ్య,వార్డు -5
+593,Ward -5,Kummari Archan,Srinivas,33,F,FBD5290242,Kummari Archan,శ్రీనివాస్,వార్డు -5
+594,Ward -5,Vadla Shrihari,Govindu,70,M,NIQ2556157,వడ్ల శ్రీహరి,గోవిందు,వార్డు -5
+595,Ward -5,Vadla Svaruapa,Shrihari,63,F,NIQ2556140,వాద్ స్వరూపే,శ్రీహరి,వార్డు -5
+596,Ward -5,Vadla Srinivas,Shrihari,47,M,NIQ2556272,వడ్ల శ్రీనివాస్,శ్రీహరి,వార్డు -5
+597,Ward -5,Vadla Sailaja,Srinivas,45,F,FBD5288899,వడ్ల శైలజ,శ్రీనివాస్,వార్డు -5
+598,Ward -5,Vadla Pandu,Shrihari,42,M,FBD3803475,Vadla Pandu,శ్రీహరి,వార్డు -5
+599,Ward -5,Vadla Padma,Pandu,40,F,FBD5288907,వాద్ పద్మ,పాండు,వార్డు -5
+600,Ward -5,Kummari Santosha,Narayana,48,F,NIQ2558351,కుమారి సంతోష,నారాయణ,వార్డు -5
+601,Ward -5,Kummari Krishna,Narayana,34,M,NIQ0701060,కుమారి కృష్ణ,నారాయణ,వార్డు -5
+602,Ward -5,Kummari Ganesh,Kummari Narayana,30,M,NIQ0989717,కుమారి గణేష్,Kummari Narayana,వార్డు -5
+603,Ward -5,Kurma Gopal,Naraayana,49,M,NIQ2556512,కూర్మ గోపాల్,నారాయణ,వార్డు -5
+604,Ward -5,Kurma Manemma,Gopal,44,F,NIQ2555373,చెవిటి మణెమ్మ,గోపాల్,వార్డు -5
+605,Ward -5,Kurma Manohar,Kurma Gopal,29,M,NIQ1799634,కూర్మ మనోహర్,కూర్మ గోపాల్,వార్డు -5
+606,Ward -5,Kummari Padmamma,Pocaiah,41,F,NIQ2556611,Kummari Padmamma,పోకయ్య,వార్డు -5
+607,Ward -5,Kummari Ramesh,Kummari Pochaiah,27,M,NIQ1799113,Kummari Ramesh,క్లూరెట్,వార్డు -5
+608,Ward -5,Kummari Praveen Kumar,Kummari Pochaiah,25,M,NIQ1799311,Kummari Praveen Kumar,క్లూరెట్,వార్డు -5
+609,Ward -5,Kurma Anasuja,Ramulu,66,F,NIQ2555365,కూర్మ అనసూజ,Ramulu,వార్డు -5
+610,Ward -5,Kurma Lalitha,Buchaiah,38,F,FBD3802139,కూర్మ లలిత,బుచ్చయ్య,వార్డు -5
+611,Ward -5,Kurma Thirupathi,Ramulu,36,M,FBD5289665,కూర్మ తిరుపతి,Ramulu,వార్డు -5
+612,Ward -5,Kurma Maneela,Kurma Malesham,35,F,FBD5289673,మనీలా తేదీలు,కూర్మ మలేశం,వార్డు -5
+613,Ward -5,Kurma Lavanya,Kurma Thirupathi,34,F,NIQ1814904,లావణ్య డేట్స్,కూర్మ తిరుపతి,వార్డు -5
+614,Ward -5,Kurma Shrinivas,Naraayana,37,M,FBD3803103,కూర్మ శ్రీనివాస్,నారాయణ,వార్డు -5
+615,Ward -5,Kurma Amrutha,Shrinivas,36,F,FBD5289681,అమృత తేదీలు,శ్రీనివాస్,వార్డు -5
+616,Ward -5,Bharathamma Kurma,Anjaiah,46,F,NIQ2301729,భారతమ్మ కూర్మ,అంజయ్య,వార్డు -5
+617,Ward -5,M Balamani,Dasaradha,53,F,NIQ2555605,ఎం బాలమణి,Dasaradha,వార్డు -5
+618,Ward -5,M Anitha,Yadagiri,36,F,NIQ0701102,ఎం అనిత,యాదగిరి,వార్డు -5
+619,Ward -5,M Yadagiri,Dashrat,36,M,FBD5289699,ఎం యాదగిరి,దశరత్,వార్డు -5
+620,Ward -5,Dore Narsimlu,Dore Dasharatham,30,M,NIQ1164771,దొర నర్సింలు,దొరే దశరథం,వార్డు -5
+621,Ward -5,Kurma Lakshmi,Narsimulu,49,F,NIQ2556702,కూర్మ లక్ష్మి,నర్సిములు,వార్డు -5
+622,Ward -5,Kurma Narsimlu,Kurma Narayana,49,M,NIQ1815216,కూర్మ నర్సింలు,కూర్మ నారాయణ,వార్డు -5
+623,Ward -5,Itkayala Narsimulu,Ramakishtaiah,63,M,NIQ0356840,ఇట్కాయల నర్సిములు,రామకిష్టయ్య,వార్డు -5
+624,Ward -5,Itkayala Puspamma,Narsimulu,59,F,NIQ0403352,Itkayala Puspamma,నర్సిములు,వార్డు -5
+625,Ward -5,Etikyala Yadaiah,Etikyala Narsimulu,40,M,NIQ2094522,ఎటిక్యాల యాదయ్య,ఎటిక్యాల నర్సిములు,వార్డు -5
+626,Ward -5,I Andalu,Narsimulu,39,F,NIQ0034876,I Andalu,నర్సిములు,వార్డు -5
+627,Ward -5,Etikala Anjaneyulu,Etikala Narsimlu,37,M,NIQ0034884,ఎటికల ఆంజనేయులు,ఎటికల నర్సింలు,వార్డు -5
+628,Ward -5,Etikyala Nagamani,Etikyala Yadaiah,35,F,NIQ2094563,Etikyala Nagamani,ఎటిక్యాల యాదయ్య,వార్డు -5
+629,Ward -5,Surekha Itikala,Anjaneyulu,35,F,NIQ2301737,సురేఖ ఇటిక్యాల,Anjaneyulu,వార్డు -5
+630,Ward -5,Darshanam Lakshmi,Chandraiah,69,F,NIQ2555316,Darshanam Lakshmi,చంద్రయ్య,వార్డు -5
+631,Ward -5,Buddula Ram Chandraiah,Buddula Rayappa,40,M,NIQ1597996,Buddula Ram Chandraiah,Buddula Rayappa,వార్డు -5
+632,Ward -5,Buddula Vimalamma,Buddula Ramchendraiah,37,F,NIQ1601673,Buddula Vimalamma,బుద్దుల రాంచేంద్రయ్య,వార్డు -5
+633,Ward -5,Darshnam Anjaneyulu,Lalaiah,34,M,FBD5292503,Darshnam Anjaneyulu,లాలాజోధ్,వార్డు -5
+634,Ward -5,DHARSHANAM SOUNDARYUA,DHARSHANAMANJANEYULU,34,F,NIQ2796837,DHARSHANAM SOUNDARYUA,దర్శనమాంజనేయులు,వార్డు -5
+635,Ward -5,Darshanam Narsimulu,Darshanam Chinarajaya,60,F,NIQ2098853,Darshanam Narsimulu,దర్శనం చినరాజాయ,వార్డు -5
+636,Ward -5,Darshanam Ramulama,Darshanam Narsimulu,48,F,NIQ2094506,Darshanam Ramulama,Darshanam Narsimulu,వార్డు -5
+637,Ward -5,DARSHANAM VARALAXMI,DARSHANAM RAMESH,32,F,NIQ2801579,DARSHANAM VARALAXMI,DARSHANAM RAMESH,వార్డు -5
+638,Ward -5,Ramesh Darshanam,Narsimulu,31,M,NIQ0964040,Ramesh Darshanam,నర్సిములు,వార్డు -5
+639,Ward -5,Dharshanam Prabhakar,Dharshanam Narsimulu,29,M,NIQ1954544,దర్శనం ప్రభాకర్,Dharshanam Narsimulu,వార్డు -5
+640,Ward -5,Darshanam Roja,Venkatesham,40,F,NIQ0701193,Darshanam Roja,వెంకటేశం,వార్డు -5
+641,Ward -5,Darshanam Venkatesham,Kishtaiah,38,M,NIQ0701110,దర్శనం వేంకటేశం,కిష్టయ్య,వార్డు -5
+642,Ward -5,Darshana Samul,Darshana Kistaiah,38,M,FBD5289624,దర్శన సమూల్,దర్శన కిష్టయ్య,వార్డు -5
+643,Ward -5,Darshanam Kalapna,Darshanam Samul,36,F,FBD5289616,దర్శనం కల్పన,దర్శనం సమూల్,వార్డు -5
+644,Ward -5,Dharshanam Praveen,Kishtaiah,31,M,NIQ1231646,Dharshanam Praveen,కిష్టయ్య,వార్డు -5
+645,Ward -5,Darshanam Chemantha,Praveen,30,F,NIQ1231638,Darshanam Chemantha,ప్రవీణ్,వార్డు -5
+646,Ward -5,mallishwari kurma,manemma,23,F,NIQ3182375,మల్లీశ్వరి కూర్మ,ఆడపిల్ల,వార్డు -5
+647,Ward -5,Darshanam Ettamma,DHARSHANAMRAMULU,45,F,NIQ2556215,Darshanam Ettamma,ధర్శనమ్రాములు,వార్డు -5
+648,Ward -5,Darshanam Ramulu,DARSHANAMCHANDRAIAH,52,M,NIQ2555282,Darshanam Ramulu,దర్శనమచంద్రయ్యః,వార్డు -5
+649,Ward -5,Darshanam Kamalamma,DARSHANAM RAMULU,41,F,FBD3803095,Darshanam Kamalamma,DARSHANAM RAMULU,వార్డు -5
+650,Ward -5,KURMA PRAMILA,KURMA MANOHAR,23,F,NIQ2842094,ప్రమీల తేదీలు,కూర్మ మనోహర్,వార్డు -5
+651,Ward -5,Vaddepally Veeramani,Raja Goud,44,F,FBD3802469,వడ్డేపల్లి వీరమణి,రాజు గౌడ్,వార్డు -5
+652,Ward -5,V Mahesh Goud,Raja Goud,33,M,NIQ1180140,వి మహేష్ గౌడ్,రాజు గౌడ్,వార్డు -5
+653,Ward -5,Raghavendra Buddula,Ramchandraiah,19,M,NIQ3245412,రాఘవేంద్ర బుద్దుల,రామచంద్రయ్య,వార్డు -5
+654,Ward -5,sampath chari vadla,srinivas chari,19,M,NIQ3354487,sampath chari vadla,శ్రీనివాస్ చారి,వార్డు -5
+655,Ward -5,Vadde Malesham,Malaiah,43,M,NIQ2556934,Vadde Malesham,సోల్మోర్,వార్డు -5
+656,Ward -5,KUMMARI NAVEEN KUMAR,KUMMARI POCHAIAH,23,M,NIQ2893097,KUMMARI NAVEEN KUMAR,క్రిస్టార్ప్ జమాటియా,వార్డు -5
+657,Ward -5,Dharshanam Sravani Dharshanam,Dharshanam Balaji,22,F,NIQ3369162,దర్శనం శ్రావణి దర్శనం,Dharshanam Balaji,వార్డు -5
+658,Ward -5,Vade Sanjeevulu Vade,Vade Krishna,19,M,NIQ3369170,వాడే సంజీవులు వాడే,వాడే కృష్ణ,వార్డు -5
+659,Ward -5,Kuruma Gopal Kuruma,Kurma Srinivas,18,M,NIQ3379013,కురుమ గోపాల్ కురుమ,కూర్మ శ్రీనివాస్,వార్డు -5
+660,Ward -6,PARVEEN,Ibrahim,29,F,NIQ2865830,పర్వీన్,ఇబ్రహీం,వార్డు -6
+661,Ward -6,NAVEEN ETIKYALA,KANTHAIAH,22,M,NIQ2865707,నవీన్ ఎటిక్యాల,కాంతయ్య,వార్డు -6
+662,Ward -6,GOPAL KRISHNA DARSHANAM,MALLAIAH,25,M,NIQ2868453,GOPAL KRISHNA DARSHANAM,మల్లయ్య,వార్డు -6
+663,Ward -6,SADANA DARSHANAM,GOPAL KRIAHAN,23,F,NIQ2860344,సదన దర్శనం,గోపాల్ క్రిహన్,వార్డు -6
+664,Ward -6,PRABHAKAR DARSHANAM,MALLAIAH,27,M,NIQ2864890,ప్రభాకర్ దర్శనం,మల్లయ్య,వార్డు -6
+665,Ward -6,MANISHA DARSHANAM,PRABHAKAR,25,F,NIQ2860914,MANISHA DARSHANAM,ప్రభాకర్,వార్డు -6
+666,Ward -6,Darshanam Roja,Darshanam Krishana,23,F,NIQ3305208,Darshanam Roja,దర్శనం కృష్ణ,వార్డు -6
+667,Ward -6,SHEKAR DARSHANAM,NARSIMLU,22,M,NIQ2868404,శేఖర్ దర్శనం,నర్సింలు,వార్డు -6
+668,Ward -6,VIJAYA DARSHANAM,RANGAIAH,22,F,NIQ2860476,VIJAYA DARSHANAM,రంగయ్య,వార్డు -6
+669,Ward -6,Sana,Mohammed Aslam,25,F,NIQ2786192,చాలా,మహ్మద్ అస్లాం,వార్డు -6
+670,Ward -6,SHOBHANA BANDA,PRAVEEN KUMAR,24,F,NIQ2861573,శోభన బండా,ప్రవీణ్ కుమార్,వార్డు -6
+671,Ward -6,ARUN KUMAR BACHUGUDEM,POCHAIAH,23,M,NIQ2860633,అరుణ్ కుమార్ బచ్చుగూడెం,పోచయ్య,వార్డు -6
+672,Ward -6,KISHORE KUMAR BACHUGUDAM,POCHAIAH,20,M,NIQ2893584,కిషోర్ కుమార్ బచ్చుగూడం,పోచయ్య,వార్డు -6
+673,Ward -6,Kurma Anusha Kurma,Kurma Laxmaiah,23,F,NIQ3145927,మోడరేటివ్స్: ల్యాండ్‌మోడర్ల కోసం మానవ మతాలు.,లక్ష్మయ్య తేదీలు,వార్డు -6
+674,Ward -6,Farzana Beguam,Mohammad Allahbhaksh,57,F,NIQ2780385,ఫర్జానా బేగ్యం,మహమ్మద్ అల్లాభక్ష్,వార్డు -6
+675,Ward -6,ADIBA AHMED,SHABBAR,23,F,NIQ2860526,ఆదిబా అహ్మద్,షబ్బర్,వార్డు -6
+676,Ward -6,Md Azam Mohammed,Yakhub Miya,23,M,NIQ3247236,ఎండి ఆజం మహ్మద్,యాఖూబ్ మియా,వార్డు -6
+677,Ward -6,Itikayala Adivaiah,Lalaiah,74,M,NIQ2555795,ఇటికాయల అడివియా,లాలాజోధ్,వార్డు -6
+678,Ward -6,Itikayala Ellamma,Kantaiah,44,F,NIQ2555746,ఇటికాయల ఎల్లమ్మ,కాంతయ్య,వార్డు -6
+679,Ward -6,Etikala Jyothi,Etikala Emmanuel,39,F,NIQ1799840,ఎటికల జ్యోతి,ఇది ఇమ్మాన్యుయేల్‌గా మిగిలిపోయింది,వార్డు -6
+680,Ward -6,Etikala Emmanuel,Etikala Kantaiah,35,M,NIQ1799832,ఇది ఇమ్మాన్యుయేల్‌గా మిగిలిపోయింది,ఎటికల కాంతయ్య,వార్డు -6
+681,Ward -6,Gousiya Bee,Vazeer Yousuf Sab,69,F,NIQ1937523,గౌసియా తేనెటీగ,వజీర్ యూసుఫ్ సాబ్,వార్డు -6
+682,Ward -6,Itikyala Laxmi,Narsimulu,41,F,NIQ1420777,ఇటిక్యాల లక్ష్మి,నర్సిములు,వార్డు -6
+683,Ward -6,E Lalaiah,E Narsimlu,39,M,NIQ1576547,అవును లాలయ్యా,ఇ నర్సింలు,వార్డు -6
+684,Ward -6,Etikala Mallika,E Lalaiah,28,F,NIQ1769421,ఎటికల మల్లిక,అవును లాలయ్యా,వార్డు -6
+685,Ward -6,Etikala Aruna,Etikala Narsimulu,28,F,NIQ1799873,అరుణ లేబుల్,ఎటికల నర్సిములు,వార్డు -6
+686,Ward -6,Dharshanam Prabhakar,Dharshanam Mallaiah,26,M,NIQ1854207,దర్శనం ప్రభాకర్,దర్శనం మల్లయ్య,వార్డు -6
+687,Ward -6,Darshanam Palguna,Mallaiah,39,F,NIQ2301844,Darshanam Palguna,మల్లయ్య,వార్డు -6
+688,Ward -6,I Tikyala Sanjeevlu,Baskar,37,M,FBD5292669,నేను టిక్యాల సంజీవులు,Baskar,వార్డు -6
+689,Ward -6,ETIKALA PUSHPA,ETIKALASANJEEVULU,32,F,NIQ0701318,ఎటికల పుష్ప,నైతిక ఆదాయం,వార్డు -6
+690,Ward -6,Darshanam Padmamma,Narsimulu,49,F,FBD3804911,Darshanam Padmamma,నర్సిములు,వార్డు -6
+691,Ward -6,Darshanam Mahesh,D Narsimlu,32,M,NIQ1236042,దర్శనం మహేష్,నర్సన్,వార్డు -6
+692,Ward -6,Dharmanam Krishna,D Narsimlu,31,M,NIQ1231612,ధర్మానాం కృష్ణుడు,నర్సన్,వార్డు -6
+693,Ward -6,Darshanam Mounika,Darshanam Mahesh,27,F,NIQ1769405,Darshanam Mounika,దర్శనం మహేష్,వార్డు -6
+694,Ward -6,Darshanam Ashok,Narsimlu,27,M,NIQ2301810,Darshanam Ashok,నర్సింలు,వార్డు -6
+695,Ward -6,ADIBA AHMED,MD SHABBAR,23,F,NIQ2884385,ఆదిబా అహ్మద్,MD షబ్బర్,వార్డు -6
+696,Ward -6,Darshanam Rangaiah,Samaiah,48,M,FBD5289756,దర్శనం రంగయ్య,సమయ్యా,వార్డు -6
+697,Ward -6,Darshanam Lakshmi,Rangaiah,45,F,FBD3804929,Darshanam Lakshmi,రంగయ్య,వార్డు -6
+698,Ward -6,Vajir Khajamiya,Maibusab,59,M,NIQ2555399,వజీర్ ఖజామియా,మార్చదగినది,వార్డు -6
+699,Ward -6,Julekha Begum,Khajamiya,53,F,FBD3802667,జులేఖా బేగం,ఖజామియా,వార్డు -6
+700,Ward -6,Shaker Vajir,Khajamiya,36,M,FBD5289798,శేకర్ వజీర్,ఖజామియా,వార్డు -6
+701,Ward -6,Saleema,Vajeer Shakeer,31,F,NIQ0805119,సలీమా,వజీర్ షకీర్,వార్డు -6
+702,Ward -6,Ibrahim Mohammed,Khajamiya,30,M,NIQ0989618,ఇబ్రహీం మహమ్మద్,ఖజామియా,వార్డు -6
+703,Ward -6,Parwiz,Md. Ibrahim,30,F,NIQ2210698,పర్విజ్,డాక్టర్ ఇబ్రహీం,వార్డు -6
+704,Ward -6,Md Kuthubuddin Vajir,Vajir Khajamiya,27,M,NIQ1601681,ఎండీ కుతుబుద్దీన్ వజీర్,వజీర్ ఖజామియా,వార్డు -6
+705,Ward -6,Sana Begum,MohammedKhuthubuddin,24,F,NIQ2958981,సనా బేగం,మహమ్మద్ ఖుతుబుద్దీన్,వార్డు -6
+706,Ward -6,SANA BEGUM,KUTHUBUDDIN,24,F,NIQ3128329,సనా బేగం,కుతుబుద్దీన్,వార్డు -6
+707,Ward -6,M D Yousuf,Murtaz,59,M,NIQ2556116,ఎమ్ డి యూసుఫ్,ముర్తాజ్,వార్డు -6
+708,Ward -6,Mohmmed Mujafar,Mohmmaed Yousuf,36,M,NIQ1799774,మహ్మద్ ముజాఫర్,మహ్మద్ యూసుఫ్,వార్డు -6
+709,Ward -6,Sameena Begum,M D Mujafar,31,F,NIQ0966848,Sameena Begum,M D ముజాఫర్,వార్డు -6
+710,Ward -6,Mohammed Ghouse,Khairat Ali,59,M,NIQ2555647,మహమ్మద్ గౌస్,ఖైరత్ అలీ,వార్డు -6
+711,Ward -6,Hanifa Begum,Ghouse,49,F,NIQ2555720,హనీఫా బేగం,గౌస్,వార్డు -6
+712,Ward -6,Mohammed Dastagir,Ghouse,37,M,FBD5289806,మహమ్మద్ దస్తగీర్,గౌస్,వార్డు -6
+713,Ward -6,Mohammed Haji Pasha,Mahmad Ghous,36,M,FBD3802683,మహమ్మద్ హాజీ పాషా,మహ్మద్ గౌస్,వార్డు -6
+714,Ward -6,Shabana Begum,Md Dastagir,32,F,NIQ1334184,షబానా బేగం,ఎండీ దస్తగిర్,వార్డు -6
+715,Ward -6,Mohammed Aslam,Md Ghouse,32,M,NIQ0890988,మహ్మద్ అస్లాం,ఎండి గౌస్,వార్డు -6
+716,Ward -6,Batchugudem Biramma,Pocaiah,48,F,FBD3804432,బచ్చుగూడెం బీరమ్మ,పోకయ్య,వార్డు -6
+717,Ward -6,Kurma Navanitha,Kurma Mallesham,36,F,NIQ1799741,కూర్మ నవనీత,కూర్మ మల్లేశం,వార్డు -6
+718,Ward -6,Malesham K,Pochaiah,34,M,NIQ0966871,మలేశం కె,పోచయ్య,వార్డు -6
+719,Ward -6,Bachugudem Kumar,Pocaiah,36,M,FBD5290424,బచ్చుగూడెం కుమార్,పోకయ్య,వార్డు -6
+720,Ward -6,Bachugudim Vijaya,Kumar,34,F,NIQ0035030,బచ్చుగుడిం విజయ,కుమార్,వార్డు -6
+721,Ward -6,Pentamma Kurma,Chandraiah,54,F,NIQ2556389,పెంటమ్మ కూర్మ,చంద్రయ్య,వార్డు -6
+722,Ward -6,Kurma Shekhar,Kurma Chandraiah,31,M,NIQ0989451,కూర్మ శేఖర్,కూర్మ చంద్రయ్య,వార్డు -6
+723,Ward -6,Kurma Latha,Kurma Shekar,26,F,NIQ1799469,కూర్మ దినం,చెవిటి సంవత్సరం,వార్డు -6
+724,Ward -6,Batchugudem Lakshmi,N,46,F,FBD3803574,బచ్చుగూడెం లక్ష్మి,ఎన్,వార్డు -6
+725,Ward -6,Batchugudem N,Chithari,43,M,FBD5289814,బచ్చుగూడెం ఎన్,చితారి,వార్డు -6
+726,Ward -6,Batchugudem Jiyoti,Pandu,41,F,FBD3803566,బచ్చుగూడెం జియోతి,పాండు,వార్డు -6
+727,Ward -6,Buchagudem Raju,Nagaiah,34,M,NIQ0700971,బుచ్చగూడెం రాజు,నాగయ్య,వార్డు -6
+728,Ward -6,Patlolla Swapna,Kurma Raju,33,F,NIQ1799337,పట్లోళ్ల స్వప్న,రాజు డేట్స్,వార్డు -6
+729,Ward -6,B Praveen,B Nagaiah,25,M,NIQ1937341,బి ప్రవీణ్,బి నగాహా,వార్డు -6
+730,Ward -6,Kurma Mallamma,Nagaiah,62,F,NIQ2556371,చెవిటి మల్లమ్మ,నాగయ్య,వార్డు -6
+731,Ward -6,Kurma Mallesham,Nagaiah,51,M,NIQ0701797,కూర్మ మల్లేశం,నాగయ్య,వార్డు -6
+732,Ward -6,Kurma Lakshmi,Mallesh,48,F,NIQ0701789,కూర్మ లక్ష్మి,Mallesh,వార్డు -6
+733,Ward -6,Kurma Bachugudem Pochaiah,Nagaiah,43,M,FBD3802956,కూర్మ బచ్చుగూడెం పోచయ్య,నాగయ్య,వార్డు -6
+734,Ward -6,Kurma Bachugudem Lalita,Pocaiah,42,F,FBD3802964,బచ్చుగూడెం లలిత తేదీలు,పోకయ్య,వార్డు -6
+735,Ward -6,Bachu Gudem Srinivas,Bachugudem Pochaiah,34,M,NIQ0989394,Bachu Gudem Srinivas,బచ్చుగూడెం పోచయ్య,వార్డు -6
+736,Ward -6,Bachugudam Praveen Kumar,Pochaiah,31,M,NIQ0989386,బచ్చుగూడం ప్రవీణ్ కుమార్,పోచయ్య,వార్డు -6
+737,Ward -6,Bachugudem Rajitha,Srinivas,27,F,NIQ2301885,Bachugudem Rajitha,శ్రీనివాస్,వార్డు -6
+738,Ward -6,Batchugudem Aruna,Pochaiah,44,F,FBD3803582,బచ్చుగూడెం అరుణ,పోచయ్య,వార్డు -6
+739,Ward -6,Kurma Narsimlu,Kurma Pochaiah,36,M,NIQ1799659,కూర్మ నర్సింలు,కూర్మ పోచయ్య,వార్డు -6
+740,Ward -6,Kurma Lakshmaiah,Kurma Pochaiah,34,M,NIQ1799519,కూర్మ లక్ష్మయ్య,కూర్మ పోచయ్య,వార్డు -6
+741,Ward -6,Kurma Suvarna,Kurma Narsimulu,33,F,NIQ1799733,కూర్మ సువర్ణ,కూర్మ నర్సిములు,వార్డు -6
+742,Ward -6,Bachu Gudem Renuka,Lakshmaiah,30,F,NIQ0890970,Bachu Gudem Renuka,లక్ష్మయ్య,వార్డు -6
+743,Ward -6,Kurma Mallesham,Pochaiah,64,M,NIQ2555357,కూర్మ మల్లేశం,పోచయ్య,వార్డు -6
+744,Ward -6,Kurma Mallamma,Mallesham,59,F,NIQ2555340,చెవిటి మల్లమ్మ,Mallesham,వార్డు -6
+745,Ward -6,Kurma Lakshmaiah,Mallesham,33,M,NIQ0989352,కూర్మ లక్ష్మయ్య,Mallesham,వార్డు -6
+746,Ward -6,K Narsimhulu,Mallesham,31,M,NIQ0989378,K Narsimhulu,Mallesham,వార్డు -6
+747,Ward -6,Kurma Yadagiri,Pochaiah,59,M,NIQ2556991,కూర్మ యాదగిరి,పోచయ్య,వార్డు -6
+748,Ward -6,Kurma Lakshmamma,Yadagiri,53,F,NIQ2556538,కూర్మ లక్ష్మమ్మ,యాదగిరి,వార్డు -6
+749,Ward -6,Kurma Shobh,Srinu,33,F,FBD5289822,కూర్మ శోభ్,Srinu,వార్డు -6
+750,Ward -6,Bachu Gudem Srinivas,Yadagiri,33,M,NIQ0989345,Bachu Gudem Srinivas,యాదగిరి,వార్డు -6
+751,Ward -6,Jaggareddy Gari Aruna,Srinivas Reddy,43,F,FBD3803939,జగ్గారెడ్డి గారి అరుణ,శ్రీనివాస్ రెడ్డి,వార్డు -6
+752,Ward -6,Jaggareddygari Abhijit Reddy,Srinivas Reddy,23,M,NIQ2959146,జగ్గారెడ్డిగారి అభిజిత్ రెడ్డి,శ్రీనివాస్ రెడ్డి,వార్డు -6
+753,Ward -6,Jaggareddygari Akhila,Srinivas Reddy,21,F,NIQ2959153,జాగ్గారెడ్డిగారి అఖిల,శ్రీనివాస్ రెడ్డి,వార్డు -6
+754,Ward -6,K Sattaiah,Pochaiah,74,M,FBD3804838,కె సత్తయ్య,పోచయ్య,వార్డు -6
+755,Ward -6,Kummari Balmani,Sattaiah,64,F,FBD3804424,కుమారి బాలమణి,సత్తయ్య,వార్డు -6
+756,Ward -6,Kummari Srinivas,Sattaiah,46,M,NIQ2556736,Kummari Srinivas,సత్తయ్య,వార్డు -6
+757,Ward -6,Kummari Suvarn,Srinivas,41,F,FBD3802923,Kummari Suvarn,శ్రీనివాస్,వార్డు -6
+758,Ward -6,Kummari Mallesham,Sattaiah,37,M,FBD5289848,Kummari Mallesham,సత్తయ్య,వార్డు -6
+759,Ward -6,Kummari Navaneetha,Kummari Mallesham,34,F,NIQ1937333,Kummari Navaneetha,Kummari Mallesham,వార్డు -6
+760,Ward -6,Kummari Anusha,Kummari Srinivas,26,F,NIQ1831510,Kummari Anusha,Kummari Srinivas,వార్డు -6
+761,Ward -6,Kummari Saikumar,Kummari Srinivas,24,M,NIQ2412955,కుమారి సాయికుమార్,Kummari Srinivas,వార్డు -6
+762,Ward -6,Kummari Ramulu,Balakistaiah,64,M,NIQ2556397,Kummari Ramulu,బాలకిష్టయ్య,వార్డు -6
+763,Ward -6,Kummari Lakshmamma,Ramulu,57,F,NIQ2556777,Kummari Lakshmamma,Ramulu,వార్డు -6
+764,Ward -6,Kummari Shekar,Ramulu,39,M,FBD3802873,కుమ్మరి శేఖర్,Ramulu,వార్డు -6
+765,Ward -6,Kummari Sujatha,Shekhar,36,F,FBD5289855,Kummari Sujatha,శేఖర్,వార్డు -6
+766,Ward -6,Kummari Manasa,Kummari Shekar,19,F,NIQ3245057,నన్ను క్షమించండి,కుమ్మరి శేఖర్,వార్డు -6
+767,Ward -6,Kummari Rajitha,Kumar,36,F,FBD3802915,Kummari Rajitha,కుమార్,వార్డు -6
+768,Ward -6,Kummari Kumar,Pentaiah,34,M,FBD5289863,కుమారి కుమార్,పెంటయ్య,వార్డు -6
+769,Ward -6,Kummari Krishna,Pentaiah,32,M,NIQ0989683,కుమారి కృష్ణ,పెంటయ్య,వార్డు -6
+770,Ward -6,Kummari Rajamani,Krishna,30,F,NIQ2094621,Kummari Rajamani,కృష్ణుడు,వార్డు -6
+771,Ward -6,Kumari Mahesh,Kumari Pentayya,29,M,NIQ1769447,కుమారి మహేష్,కుమారి పెంటయ్య,వార్డు -6
+772,Ward -6,Kummari Shirisha,Kummari Mahesh,24,F,NIQ3034600,కుమ్మరి శిరీష,Kummari Mahesh,వార్డు -6
+773,Ward -6,Kummari Laxmi,Samaiah,51,F,NIQ2555308,కుమారి లక్ష్మి,సమయ్యా,వార్డు -6
+774,Ward -6,Kummari Ramesh,Samaiah,33,M,NIQ0890913,Kummari Ramesh,సమయ్యా,వార్డు -6
+775,Ward -6,Kummari Srividya,Ramesh,29,F,NIQ2301802,Kummari Srividya,రమేష్,వార్డు -6
+776,Ward -6,M D Shabar,Mahmad Khasim,49,M,FBD3803624,ఎమ్ డి షబర్,మహ్మద్ ఖాసిం,వార్డు -6
+777,Ward -6,M D Rasida Begam,Shabbar,44,F,FBD3804242,M D రసీదా బేగం,షబ్బర్,వార్డు -6
+778,Ward -6,Shaik Sameer,Shaik Shabbar,26,M,NIQ1922046,షేక్ సమీర్,షేక్ షబ్బర్,వార్డు -6
+779,Ward -6,Yakub Miya,Md Khasim,54,M,NIQ2556926,యాకూబ్ మియా,Md. ఖాసిం,వార్డు -6
+780,Ward -6,Shahajan Begam,Yakubmiya,46,F,NIQ2556918,షాహజన్ బేగం,యాకుబ్మియా,వార్డు -6
+781,Ward -6,Sana Begum,Md Yakub,33,F,NIQ0989675,సనా బేగం,Md జాకబ్,వార్డు -6
+782,Ward -6,Abdul Raheman,Md Yakub,29,M,NIQ1799790,అబ్దుల్ రెహమాన్,Md జాకబ్,వార్డు -6
+783,Ward -6,Kummari Kavitha,Kummari Krishna,31,F,NIQ1799048,Kummari Kavitha,కుమారి కృష్ణ,వార్డు -6
+784,Ward -6,Gulam Jelani,Gulam Rasool,49,M,NIQ1222843,గులాం జెలానీ,గులాం రసూల్,వార్డు -6
+785,Ward -6,SAYYAD SAMEER,SAYYAD SHAKEER,23,M,NIQ3033891,సయాద్ సమీర్,సయ్యద్ షకీర్,వార్డు -6
+786,Ward -6,ETIKYALA KALYANI,ETIKYALA LALAIAH,22,F,NIQ3368289,ఎటిక్యాల కళ్యాణి,ఎటిక్యాలా లాలయా,వార్డు -6
+787,Ward -6,Kurma Arun Kumar,Kurma Durgaiah,28,M,NIQ3388279,చెవిటి అరుణ్ కుమార్,దుర్గయ్య తేదీలు,వార్డు -6
+788,Ward -7,Mohammed Pasha,Sharfoddin,54,M,NIQ2556983,మహమ్మద్ పాషా,ఒక గౌరవం,వార్డు -7
+789,Ward -7,Rehana,Pashamaiya,44,F,NIQ2555688,రెహనా,పాషామియా,వార్డు -7
+790,Ward -7,MOHAMMED IMRAN,GULAM RASUL,22,M,NIQ2868362,మహమ్మద్ ఇమ్రాన్,గులాం రసూల్,వార్డు -7
+791,Ward -7,SAMREEN BEGUM,HAFEEZ,22,F,NIQ2861110,సమ్రీన్ బేగం,హఫీజ్,వార్డు -7
+792,Ward -7,MAHESH BORRA,KRISHNA,23,M,NIQ2869766,మహేశ్ బొర్రా,కృష్ణుడు,వార్డు -7
+793,Ward -7,Sana Sultana Md,Gulam Rasul,22,F,NIQ3305000,సనా సుల్తానా Md,గులాం రసూల్,వార్డు -7
+794,Ward -7,SANA SULTHANA,GULAM RASUL,21,F,NIQ2860906,సనా సుల్తానా,గులాం రసూల్,వార్డు -7
+795,Ward -7,FEROZE UNNISA,AFZAL,22,F,NIQ2860732,ఫిరోజ్ ఉన్నిసా,అఫ్జల్,వార్డు -7
+796,Ward -7,Kurma Manasa,Borra Praveen,20,F,NIQ3013604,ఉపాధ్యాయులను పట్టుకోండి,ప్రవీణ్‌ని చెరిపేయండి,వార్డు -7
+797,Ward -7,FIRDOUS MD,KHAMRUDDIN,21,M,NIQ2864858,ఫిర్డస్ MD,ఖమ్రుద్దీన్,వార్డు -7
+798,Ward -7,Mohammed Nizam,Yosuf,37,M,NIQ3245065,మహమ్మద్ నిజాం,యూసుఫ్,వార్డు -7
+799,Ward -7,IRFAN MOHAMMED,IBRAHEEM,20,M,NIQ2865749,ఇర్ఫాన్ మహమ్మద్,ఇబ్రహీం,వార్డు -7
+800,Ward -7,IMRAN MOHAMMED,IBRAHEEM,21,M,NIQ2868321,ఇమ్రాన్ మహమ్మద్,ఇబ్రహీం,వార్డు -7
+801,Ward -7,SABA BEGUM,SHABBEER MIYA,22,F,NIQ2861656,సబా బేగం,షబ్బీర్ ఇది?,వార్డు -7
+802,Ward -7,Shelaja Patnam,Anjaiah,25,F,NIQ3222247,శెలజా పట్నం,అంజయ్య,వార్డు -7
+803,Ward -7,Poola Pravalika Poola,Borra Mahipal,21,F,NIQ3265717,Poola Pravalika Poola,బొర్రా మహిపాల్,వార్డు -7
+804,Ward -7,Borra Mounika Borra,Borra Rajesh,24,F,NIQ3287935,బొర్రా మౌనిక బొర్రా,బొర్రా రాజేష్,వార్డు -7
+805,Ward -7,ANUSHA KURMA,MALLESHAM,21,F,NIQ2861623,అనూష,MALLESHAM,వార్డు -7
+806,Ward -7,Mohammed Rahmath Ali,Mahbusab,56,M,FBD5289921,మహమ్మద్ రహమత్ అలీ,ఖైదీ,వార్డు -7
+807,Ward -7,Jugun Pasha,Rahmat Alee,49,F,FBD3804176,దక్షిణ పాషా,రహమత్ అలీ,వార్డు -7
+808,Ward -7,Mohammed Hafeez Miya Md,Rahamath Ali,30,M,NIQ1180132,మహ్మద్ హఫీజ్ మియా Md,రహమత్ అలీ,వార్డు -7
+809,Ward -7,Mohammed Habeeb Miya,Mohammed Rahmath Ali,28,M,NIQ1477802,మహ్మద్ హబీబ్ మియా,మహమ్మద్ రహమత్ అలీ,వార్డు -7
+810,Ward -7,Mubeena Mohammad,Rahmath Ali,26,F,NIQ2412955,ముబీనా మహ్మద్,రహమత్ అలీ,వార్డు -7
+811,Ward -7,Vazeer Khajamainoddin,Saber Miah,37,M,FBD3802386,వజీర్ ఖాజామైనొద్దీన్,సాబెర్ మియా,వార్డు -7
+812,Ward -7,Sajeeda Begam,Khaja Moinuddin,35,F,NIQ0701094,సజీదా బేగం,ఖాజా మొయినుద్దీన్,వార్డు -7
+813,Ward -7,BORROLLA SUSHMITHA,BORROLLA SRIPAL,24,F,NIQ3247285,బొర్రోళ్ల సుష్మిత,బొర్రోల్ల శ్రీపాల్,వార్డు -7
+814,Ward -7,AFSHA UNISA,MOHAMMAD AFZAL,21,F,NIQ2884377,తాజా వర్షం,మహ్మద్ అఫ్జల్,వార్డు -7
+815,Ward -7,SABA BEGUM,MOHAMMEDSHABBEER MIYA,22,F,NIQ2848570,సబా బేగం,మహమ్మద్‌షబ్బీర్ మియా,వార్డు -7
+816,Ward -7,Jagadishwar Kummari,Saidappa,24,M,NIQ2787679,జగదీశ్వర్ కుమారి,సైదప్ప,వార్డు -7
+817,Ward -7,sravan kumar Borra,Ramulu,20,M,NIQ3182227,శ్రావణ్ కుమార్ బొర్రా,Ramulu,వార్డు -7
+818,Ward -7,SAMREEN BEGUM,HAFEEZ,22,F,NIQ2848588,సమ్రీన్ బేగం,హఫీజ్,వార్డు -7
+819,Ward -7,Chakali Ramesh,Chakali Mallesham,31,M,NIQ1799543,చాకలి రమేష్,చాకలి మల్లేశం,వార్డు -7
+820,Ward -7,CHAKALI MADHAVI,Chakali Ramesh,25,F,NIQ1854231,చాకలి మాధవి,చాకలి రమేష్,వార్డు -7
+821,Ward -7,Srinivas Chakali,Yadaiah,24,M,NIQ2412922,శ్రీనివాస్ చాకలి,యాదయ్య,వార్డు -7
+822,Ward -7,Chakali Mallesham,Ramaiah,58,M,FBD3803822,చాకలి మల్లేశం,చాలా మంది,వార్డు -7
+823,Ward -7,Chakali Lingamma,Chakali Mallesham,46,F,NIQ1815562,ఇది ఇప్పటికీ లింగం,చాకలి మల్లేశం,వార్డు -7
+824,Ward -7,Bharathamma Borra,Krishna,43,F,NIQ2301703,భారతమ్మ బొర్రా,కృష్ణుడు,వార్డు -7
+825,Ward -7,BORRA MAHESH,BORRA KRISHNA,23,M,NIQ2841864,బొర్రా మహేష్,WASRACHING విత్ ది,వార్డు -7
+826,Ward -7,Nasreen Begum,Vajir Gulam Rasul,42,F,FBD3803640,నెదర్లీ బేగం బేగం,వజీర్ గులాం రసూల్,వార్డు -7
+827,Ward -7,Vazeer Rafiq,Babu Miya,36,M,NIQ0477729,వజీర్ రఫిక్,సూప్ లేదు,వార్డు -7
+828,Ward -7,M D Nazeer,Babu Miya,35,M,NIQ0036723,ఎమ్ డి నజీర్,సూప్ లేదు,వార్డు -7
+829,Ward -7,Nasreen Begum Nasirbegum,Rafiq,34,F,NIQ0477760,నస్రీన్ బేగం నసీర్బేగం,రఫిక్,వార్డు -7
+830,Ward -7,Parveen Begam,Nazeer,32,F,NIQ0701185,పర్వీన్ బేగం,నజీర్,వార్డు -7
+831,Ward -7,Kammari Naga Bhooshanam,Ratnam,64,M,FBD5289905,కమ్మరి నాగ భూషణం,రత్నం,వార్డు -7
+832,Ward -7,Borra Satyaiah,Borra Pentaiah,59,M,NIQ1799782,బొర్రా సత్యయ్య,బ్లాత్స్,వార్డు -7
+833,Ward -7,Kammari Manemma,Bhooshanam,56,F,FBD5289913,ఛాంబర్ మణెమ్మ,భూషణం,వార్డు -7
+834,Ward -7,Mohammed Afzal,Hussensab,50,M,NIQ2563781,మహ్మద్ అఫ్జల్,హుస్సెన్సాబ్,వార్డు -7
+835,Ward -7,Borra Sushila,Satyaiah,49,F,FBD3804663,బొర్రా సుశీల,సత్యయ్య,వార్డు -7
+836,Ward -7,Afsar Begum,Mohammad Afzal,44,F,FBD5290028,అథరార్ బేగ్మెంట్,మహ్మద్ అఫ్జల్,వార్డు -7
+837,Ward -7,Sripal Borra,Sataiah,31,M,NIQ0964073,శ్రీపాల్ బొర్రా,సత్తయ్య,వార్డు -7
+838,Ward -7,Praveen Yadav Borra,Sathaiah,28,M,NIQ1164433,ప్రవీణ్ యాదవ్ బొర్రా,సత్తయ్య,వార్డు -7
+839,Ward -7,Afroz Unnisa,Mohmmed Afjal,26,F,NIQ1799360,అఫ్రోజ్ ఉన్నిసా,మహ్మద్ అఫ్జల్,వార్డు -7
+840,Ward -7,Mohmmed Althaf Hussain,Mohmmed Afjal,25,M,NIQ1799923,మహ్మద్ అల్తాఫ్ హుస్సేన్,మహ్మద్ అఫ్జల్,వార్డు -7
+841,Ward -7,FEROZE UNNISA,MOHAMMAD AFZAL,22,F,NIQ2841914,ఫిరోజ్ ఉన్నిసా,మహ్మద్ అఫ్జల్,వార్డు -7
+842,Ward -7,Chand Miya,Janee Miya,68,M,FBD3802840,చాంద్ మియా,జానీ మియా,వార్డు -7
+843,Ward -7,Banu Bee,Chand Miah,63,F,FBD3802816,బాను బీ,చాంద్ మియా,వార్డు -7
+844,Ward -7,Azar Miya,Chand Miya,49,M,NIQ2301794,అజర్ మియా,చాంద్ మియా,వార్డు -7
+845,Ward -7,Asma Sulthan,Ajgar Miya,40,F,NIQ2094449,అస్మా సుల్తాన్,డ్రాగన్ మియా,వార్డు -7
+846,Ward -7,Bismilla,Chand Miah,37,M,FBD5289947,బిస్మిల్లా,చాంద్ మియా,వార్డు -7
+847,Ward -7,ALI AKBAR,CHAND MIYAN,37,M,FBD5289939,అలీ అక్బర్,చాంద్ మియాన్,వార్డు -7
+848,Ward -7,Khajabee Mohammed,Chand Miya,31,F,NIQ1222744,ఖాజాబీ మహమ్మద్,చాంద్ మియా,వార్డు -7
+849,Ward -7,Anwar Vazeer,Chand Miya,31,M,NIQ1197806,అన్వర్ వజీర్,చాంద్ మియా,వార్డు -7
+850,Ward -7,TABASSUM,AZGAR MIYA,19,F,NIQ3201787,చిరునవ్వు,అజ్గర్ మియా,వార్డు -7
+851,Ward -7,Kammari Sugunamma,Venkata Amulu,70,F,NIQ2556777,ఛాంబర్ సుగుణమ్మ,Venkata Amulu,వార్డు -7
+852,Ward -7,M D Siraj,Yusuf Miya,49,M,NIQ2555464,ఎమ్ డి సిరాజ్,యూసుఫ్ మియా,వార్డు -7
+853,Ward -7,Jahangir Begum,M D Siraj,44,F,NIQ2555589,జహంగీర్ బేగం,ఎమ్ డి సిరాజ్,వార్డు -7
+854,Ward -7,Mohmmed Shaikel Pasha,Mohmmed Shiraj,28,M,NIQ1798958,మహ్మద్ షైకెల్ పాషా,మహ్మద్ షిరాజ్,వార్డు -7
+855,Ward -7,Shabana Begum,Md Siraj,26,F,NIQ1937549,షబానా బేగం,మిస్టర్ సిరాజ్,వార్డు -7
+856,Ward -7,Md Khamruddin,Md Nasheeruddin,46,M,NIQ1831486,ఎండీ ఖమ్రుద్దీన్,ఎండీ నషీరుద్దీన్,వార్డు -7
+857,Ward -7,Md Meharunnissa,Md Nasheeruddin,43,F,NIQ1831494,మెహరున్నీలో ఎండీ,ఎండీ నషీరుద్దీన్,వార్డు -7
+858,Ward -7,Khamar Begum,M D Yousuf Sab,39,F,NIQ2556363,ఖమర్ బేగం,ఎమ్ డి యూసుఫ్ సాబ్,వార్డు -7
+859,Ward -7,Md Inayath Pasha,Md Wazeer Yousuf Sab,37,M,NIQ1815331,ఎండీ ఇనాయత్ పాషా,ఎండీ వజీర్ యూసుఫ్ సాబ్,వార్డు -7
+860,Ward -7,Parvin Begam,Inayath Pasha,27,F,NIQ1799170,పర్వీన్ బేగం,ఇనాయత్ పాషా,వార్డు -7
+861,Ward -7,Vajir Abedha Begum,M D Yusuf Sab,65,F,FBD5289970,వజీర్ అబేధా బేగం,M D యూసుఫ్ సాబ్,వార్డు -7
+862,Ward -7,Samina Begum Mohd,Yousuf Miya,32,F,NIQ1222850,సమీనా బేగం మొహమ్మద్,యూసుఫ్ మియా,వార్డు -7
+863,Ward -7,Sabera Begum Mohd,Yousuf Miya,31,F,NIQ1222801,సబేరా బేగం మొహమ్మద్,యూసుఫ్ మియా,వార్డు -7
+864,Ward -7,SHAHEEN BEGUM,MD YOUSUF,30,F,NIQ1799386,షాహీన్ బేగం,MD యూసుఫ్,వార్డు -7
+865,Ward -7,Asia Begam,Mohmmed Yousuf,28,F,NIQ1799915,ఆసియా బేగం,మహ్మద్ యూసుఫ్,వార్డు -7
+866,Ward -7,Jahangir,Yusuf Miya,54,M,FBD5289988,జహంగీర్,యూసుఫ్ మియా,వార్డు -7
+867,Ward -7,Julekha Begam,Mahmad Pasha,37,F,FBD3802410,జులేఖా బేగం,మహ్మద్ పాషా,వార్డు -7
+868,Ward -7,M D Molana,Mahammad Sab,37,M,FBD3802295,M d ఫోలేస్,మహమ్మద్ సాబ్,వార్డు -7
+869,Ward -7,Ruksana Begum,Maulana,34,F,NIQ0356824,రుక్సానా బేగం,మౌలానా,వార్డు -7
+870,Ward -7,Halema Bee,Mahammad Sab,61,F,FBD3804572,అవతల ఇల్లు,మహమ్మద్ సాబ్,వార్డు -7
+871,Ward -7,Mohammed Ibraheem,Mahammad Sab,43,M,FBD3804838,మహమ్మద్ ఇబ్రహీం,మహమ్మద్ సాబ్,వార్డు -7
+872,Ward -7,Fatheema Begam,Ibrahim,38,F,FBD3802493,ఫాతీమా బేగం,ఇబ్రహీం,వార్డు -7
+873,Ward -7,Yusuf Bee,M D Jani Mitya,64,F,NIQ2556249,యూసుఫ్ బీ,M D జాని మిత్య,వార్డు -7
+874,Ward -7,Mohmmed Jakiya Begam,Mohmmed Jaffer Miya,46,F,NIQ1799121,మహ్మద్ జాకియా బేగం,మహ్మద్ జాఫర్ మియా,వార్డు -7
+875,Ward -7,Mohammed Jafar Miya,M D Jani Miya,43,M,NIQ2556660,మహ్మద్ జాఫర్ మియా,M D జానీ మియా,వార్డు -7
+876,Ward -7,Md Zakeer Miya,Md Jani Miya,40,M,FBD3803962,MD జకీర్ మియా,ఎండీ జానీ మియా,వార్డు -7
+877,Ward -7,Shahanaz Sulthana,Md Zakeer Miya,36,F,NIQ0879932,షహనాజ్ సుల్తానా,MD జకీర్ మియా,వార్డు -7
+878,Ward -7,Vazeer Rasheed,Vazeer Janemiya,35,M,NIQ1937309,వజీర్ రషీద్,వజీర్ జానేమియా,వార్డు -7
+879,Ward -7,M D Shabbeer Miya,Mohammed Janimiya,32,M,NIQ0879924,M D షబ్బీర్ మియా,మహమ్మద్ జానిమియా,వార్డు -7
+880,Ward -7,Beebe Begum,Vazeer Rasheed,29,F,NIQ1532689,బీబీ బేగం,వజీర్ రషీద్,వార్డు -7
+881,Ward -7,Patnam Anjaiah,Narsimulu,43,M,NIQ2556397,పట్నం అంజయ్య,నర్సిములు,వార్డు -7
+882,Ward -7,Patnam Anitha,Patnam Anjaiah,41,F,NIQ1815307,Patnam Anitha,పట్నం అంజయ్య,వార్డు -7
+883,Ward -7,Besta Anuradha,Besta Ramulu,37,F,NIQ1799816,ఉత్తమ అనురాధ,Besta Ramulu,వార్డు -7
+884,Ward -7,Patnam Saikiran,Patnam Anjaiah,28,M,NIQ1532663,పట్నం సాయికిరణ్,పట్నం అంజయ్య,వార్డు -7
+885,Ward -7,Patnam Sai Kumar,Patnam Anjaneyulu,26,M,NIQ1799162,పట్నం సాయి కుమార్,Patnam Anjaneyulu,వార్డు -7
+886,Ward -7,Md Bipasha,Mahammed MahammadMiya,51,F,NIQ2555597,ఎండీ బిపాషా,మహమ్మద్ మహ్మద్ మియా,వార్డు -7
+887,Ward -7,M D Ghouse Pasha,Mahammed Miya,36,M,FBD5290036,M D గౌస్ పాషా,మహమ్మద్ మియా,వార్డు -7
+888,Ward -7,Md Mahaboob Pasha,M Mahamood,34,M,FBD5290044,ఎండీ మహబూబ్ పాషా,ఎం మహమూద్,వార్డు -7
+889,Ward -7,Hajira Sulthana,Gouse Pasha,30,F,NIQ1799733,హాజీరా సుల్తానా,గౌస్ పాషా,వార్డు -7
+890,Ward -7,Mohammad Jareena,Mohammad Haji Pasha,56,F,NIQ2301745,మహ్మద్ జరీనా,మహ్మద్ హాజీ పాషా,వార్డు -7
+891,Ward -7,Kapu Ramulamma,Prabhakar Areddy,50,F,NIQ2556876,Kapu Ramulamma,ప్రభాకర్ ఆరెడ్డి,వార్డు -7
+892,Ward -7,Raji Reddy Gari Nagaraju Reddy,Raji Reddy GariPrabhakar Redd,28,M,NIQ1799071,Raji Reddy Gari Nagaraju Reddy,రాజి రెడ్డి గారి ప్రభాకర్ రెడ్డి,వార్డు -7
+893,Ward -7,Sar Shankar Bai,Balram,64,F,NIQ2556892,సర్ శంకర్ బాయి,బలరాం,వార్డు -7
+894,Ward -7,Sar Haribai,Balram,49,F,NIQ2556884,సార్ హరిబాయి,బలరాం,వార్డు -7
+895,Ward -7,Raajareddygari Vishnuwardan Re,Naraayana Areddy,59,M,NIQ2556736,రాజారెడ్డిగారి విష్ణువర్దన్ రె,నారాయణ ఆరెడ్డి,వార్డు -7
+896,Ward -7,Reddygari Eshwaramma,Reddygari VishnuvardhanReddy,58,F,NIQ1815513,Reddygari Eshwaramma,రెడ్డిగారి విష్ణువర్ధన్ రెడ్డి,వార్డు -7
+897,Ward -7,Rajireddy Gari Balreddy,Veeshnu Vardhan Reddi,35,M,NIQ0036939,రాజిరెడ్డి గారి బాలరెడ్డి,వీష్ణు వర్ధన్ రెడ్డి,వార్డు -7
+898,Ward -7,R Veena,R Balreddy,35,F,NIQ1940774,ఆర్ వీణ,ఆర్ బాలరెడ్డి,వార్డు -7
+899,Ward -7,Kummari Sailu Sailu,Kummari,49,M,FBD5289251,Kummari Sailu Sailu,Kummari,వార్డు -7
+900,Ward -7,Kummari Veeramani,Kummari,46,F,FBD5289269,కుమారి వీరమణి,Kummari,వార్డు -7
+901,Ward -7,Rajireddigari Ramchandar Redd,Naraayana Areddy,44,M,NIQ2556355,Rajireddigari Ramchandar Redd,నారాయణ ఆరెడ్డి,వార్డు -7
+902,Ward -7,Rajireddy Gari Prathyusha RajireddyGari,Ramchandra Reddy,29,F,NIQ1214741,Rajireddy Gari Prathyusha RajireddyGari,రాంచంద్రారెడ్డి,వార్డు -7
+903,Ward -7,Rajireddy Gari Narsimha ReddyNarashimha Reddi,Narayanareddy,55,M,NIQ0356857,రాజిరెడ్డి గారి నర్సింహా రెడ్డి నరసింహా రెడ్డి,నారాయణరెడ్డి,వార్డు -7
+904,Ward -7,Rajireddy Gari Lalitha Lalita,Narashimha Reddi,50,F,NIQ0356865,Rajireddy Gari Lalitha Lalita,నరసింహ రెడ్డి,వార్డు -7
+905,Ward -7,Kemshetty N,Yadagiri,59,F,NIQ2556785,కేంశెట్టి ఎన్,యాదగిరి,వార్డు -7
+906,Ward -7,Kemshetti Veeresam,Yadagiri,36,M,FBD3802485,కెంశెట్టికి చెందిన వీరేశం,యాదగిరి,వార్డు -7
+907,Ward -7,Kemishetty Sravanthi K,Veeresham,34,F,NIQ0963976,కెమిశెట్టి స్రవంతి కె,వీరేశం,వార్డు -7
+908,Ward -7,Chakali Narsimlu,Chakali Mallesham,35,M,NIQ1854256,చాకలి నర్సింలు,చాకలి మల్లేశం,వార్డు -7
+909,Ward -7,Chakali Madhuri,Chakali Narsimlu,27,F,NIQ1854249,చాకలి మాధురి,చాకలి నర్సింలు,వార్డు -7
+910,Ward -7,Borra Mallesham,Jangaiah,48,M,FBD3804069,బొర్రా మల్లేశం,జంగయ్య,వార్డు -7
+911,Ward -7,Borra Indhramma,Mallesham,43,F,FBD3804242,బొర్రా ఇంద్రమ్మ,Mallesham,వార్డు -7
+912,Ward -7,Borra Mahipal,Borra Malesham,26,M,NIQ1799790,బొర్రా మహిపాల్,బొర్రా మలేశం,వార్డు -7
+913,Ward -7,Borra Ramulu,Pentaiah,42,M,NIQ0701748,Borra Ramulu,పెంటయ్య,వార్డు -7
+914,Ward -7,Borra Rajitha,Ramulu,39,F,FBD3802154,బొర్రా రజిత,Ramulu,వార్డు -7
+915,Ward -7,Mangali Shayamamma,Mallaiah,67,F,NIQ2555340,మంగలి శాయమ్మ,మల్లయ్య,వార్డు -7
+916,Ward -7,Magali Papaiah,Mallaiah,48,M,NIQ2555498,మగలి పాపయ్య,మల్లయ్య,వార్డు -7
+917,Ward -7,Mangli Swrrupa,Papaaiah,43,F,NIQ2555506,మంగ్లీ స్వరూప,మీరు అనుసరిస్తున్నారు,వార్డు -7
+918,Ward -7,Mangali Naveen,Mangali Papaiah,26,M,NIQ1815026,మంగలి నవీన్,పాపయ్య నన్ను క్షమించండి,వార్డు -7
+919,Ward -7,Sugunamma Banja,Mallappa,83,F,NIQ2301919,ఆవేశమును అణిచిపెట్టుకొను,మల్లప్ప,వార్డు -7
+920,Ward -7,Kurma Mallamma,Raajaiah,80,F,FBD3803871,చెవిటి మల్లమ్మ,రాజయ్య,వార్డు -7
+921,Ward -7,Kurma Shayamamma,Dasharadham,47,F,FBD5290119,కూర్మ శాయమమ్మ,దశరధం,వార్డు -7
+922,Ward -7,Kurma Malesham,Raajaiah,42,M,FBD3802709,కూర్మ మలేశం,రాజయ్య,వార్డు -7
+923,Ward -7,Kurma Laxmi,Kurma Mallesham,37,F,NIQ1327882,కూర్మ లక్ష్మి,కూర్మ మల్లేశం,వార్డు -7
+924,Ward -7,Borra Rajesh,Borra Darsharaja,27,M,NIQ1799717,బొర్రా రాజేష్,బొర్రా దర్శరాజు,వార్డు -7
+925,Ward -7,HASEENA BEGUM,AZAR MIYA,21,F,NIQ3280369,హసీద్ బేగం,అజర్ మియా,వార్డు -7
+926,Ward -7,MOHAMMED IRFAN,MOHAMMADIDRAHEEM,20,M,NIQ2884393,మహమ్మద్ ఇర్ఫాన్,మహమ్మదిద్రహీం,వార్డు -7
+927,Ward -7,Fathima Begum,M Mahaboob Pasha,25,F,NIQ2814424,ఫాతిమా బేగం,ఎం మహబూబ్ పాషా,వార్డు -7
+928,Ward -7,KURMA ANUSHA,KURMA MALLESHAM,21,F,NIQ2842060,అనూష,కూర్మ మల్లేశం,వార్డు -7
+929,Ward -7,VAJIR GULAM RASUL,Babu Miya,47,M,FBD3803665,వజీర్ గులాం రసూల్,సూప్ లేదు,వార్డు -7
+930,Ward -7,Raajareddygari Umarani,Ramachander Areddy,42,F,FBD3805249,రాజారెడ్డిగారి ఉమారాణి,రామచందర్ ఆరెడ్డి,వార్డు -7
+931,Ward -7,Samreen Begum Mohammed,Mohammed Anwar,26,F,NIQ3372026,సమ్రీన్ బేగం మహమ్మద్,మహమ్మద్ అన్వర్,వార్డు -7
+932,Ward -8,Cheruduppa Balamani Chiduruppa Others :Cheduruppa Mallesham,,67,F,NIQ3033875,Cheruduppa Balamani Chiduruppa Others :Cheduruppa Mallesham,,వార్డు -8
+933,Ward -8,Chedurupa Mallesham Chiduruppa Others :Chiduruppa Chandraiah,,50,M,NIQ3033834,Chedurupa Mallesham Chiduruppa Others :Chiduruppa Chandraiah,,వార్డు -8
+934,Ward -8,Dandu Pavani,Dandu Buchi Ramulu,27,F,NIQ3318482,పావని ఇస్తున్నారు,Dandu Buchi Ramulu,వార్డు -8
+935,Ward -8,Kurma Shirisha,kurma Sattaiah,22,F,NIQ3178746,కూర్మ శిరీష,కూర్మ సత్తయ్య,వార్డు -8
+936,Ward -8,Kurma Shiva Kumar,Kurma Laxmi,20,M,NIQ3011582,చెవిటి శివ కుమార్,కూర్మ లక్ష్మి,వార్డు -8
+937,Ward -8,SUSHMITHA KOMIRI SETTY,VENKATESHAM,32,F,NIQ2860807,SUSHMITHA KOMIRI SETTY,వెంకటేశం,వార్డు -8
+938,Ward -8,Kurma Vijayalaxmi Kurma,Kurma Veeresham,23,F,NIQ3247293,విజయలక్ష్మి తేదీలు తేదీలు,కూర్మ వీరేశం,వార్డు -8
+939,Ward -8,SRILATHA CHIDURUPPA,SRINIVAS,25,F,NIQ2861680,SRILATHA CHIDURUPPA,శ్రీనివాస్,వార్డు -8
+940,Ward -8,PRAVEENA DANDU,SRINIVAS,22,F,NIQ2893600,PRAVEENA DANDU,శ్రీనివాస్,వార్డు -8
+941,Ward -8,KEERTHI CHIDRUPPA,VENKATESHAM,30,F,NIQ2861524,KEERTHI CHIDRUPPA,వెంకటేశం,వార్డు -8
+942,Ward -8,CHANDRASHEKAR CHAKALI,PENTAIAH,20,M,NIQ2861516,చంద్రశేఖర్ స్టిల్,పెంటయ్యా,వార్డు -8
+943,Ward -8,BHAVANI CHAKALI,RAMESH,20,F,NIQ2971596,భవానీ చాకలి,రమేష్,వార్డు -8
+944,Ward -8,VADDEPALLY NARENDRA,VADDEPALLY NAVAZGOUD,23,M,NIQ2841997,వడ్డేపల్లి నరేంద్ర,వడ్డేపల్లి నవాజ్‌గౌడ్,వార్డు -8
+945,Ward -8,NARENDRA GOUD VADDEPALLY,NAVAJ GOUD,23,M,NIQ2865632,నరేంద్ర గోల్డ్ వడ్డేపల్లి,నవజ్ గౌడ్,వార్డు -8
+946,Ward -8,RAMCHANDAR ERUKALA,SRINIVAS,23,M,NIQ2864619,RAMCHANDAR ERUKALA,శ్రీనివాస్,వార్డు -8
+947,Ward -8,Manik Prabhu Erukali,Srinivas,21,M,NIQ3146081,మాణిక్ ప్రభు ఎరుకలి,శ్రీనివాస్,వార్డు -8
+948,Ward -8,SAI KRISHNA ERUKALA,SATHYANARAYANA,22,M,NIQ2890135,సాయి కృష్ణ ఎరుకల,SATHYANARAYANA,వార్డు -8
+949,Ward -8,RAMYA ERUKALA,HARIKRISHNA,20,F,NIQ2864692,రమ్య ఎరుకల,HARIKRISHNA,వార్డు -8
+950,Ward -8,VENKATESHAM ERUKALA,MALLESHAM,22,M,NIQ2847150,వెంకటేశం ఎరుకల,MALLESHAM,వార్డు -8
+951,Ward -8,LAXMAN BAGARI,RAMCHANDRAIAH,20,M,NIQ2865665,లక్ష్మణ్ బాగ్రి,రామచంద్రయ్య,వార్డు -8
+952,Ward -8,Premalatha Bagari,Venktamma,23,F,NIQ3221199,ప్రేమలత బ్యాగరి,వెంక్టమ్మ,వార్డు -8
+953,Ward -8,Praveen Kumar Beagari,Venktamma,21,M,NIQ3221397,ప్రవీణ్ కుమార్ బీగరి,వెంక్టమ్మ,వార్డు -8
+954,Ward -8,Baygari Paramesh Baygari,Baygari Anjaya,19,M,NIQ2973659,బైగారి పరమేష్ బైగారి,బైగారి అంజయ్య,వార్డు -8
+955,Ward -8,NARENDRA BEGARI,ELLAIAH,20,M,NIQ2847168,నరేంద్ర బేగరి,ఎల్లయ్య,వార్డు -8
+956,Ward -8,MURALI BYAGARI,RAMULU,20,M,NIQ2853570,మీరు విశాలంగా ఉన్నారు,RAMULU,వార్డు -8
+957,Ward -8,KOMIRI SETTY SUSHMITHA,PEDDAGOLLAVENKATESHAM,32,F,NIQ2842045,KOMIRI SETTY SUSHMITHA,PEDDAGOLLAVENKATESHAM,వార్డు -8
+958,Ward -8,Fathima Begum Erukala,Mahender,29,F,NIQ3191517,ఫాతిమా బేగం ఎరుకల,మహేందర్,వార్డు -8
+959,Ward -8,Buchi Ramulu Dandu,Balaiah,27,M,NIQ1769389,Buchi Ramulu Dandu,Balaiah,వార్డు -8
+960,Ward -8,DHANDU SRIKANTH,DANDU BALALIAH,24,M,NIQ2884096,దండు శ్రీకాంత్,దండు బలాలియా,వార్డు -8
+961,Ward -8,DHARSHANAM SRIHARI,D SURDARSHAN,39,M,NIQ3328499,DHARSHANAM SRIHARI,డి సురదర్శన్,వార్డు -8
+962,Ward -8,Borra Lakshmi,Anjaiah,51,F,FBD3803301,బొర్రా లక్ష్మి,అంజయ్య,వార్డు -8
+963,Ward -8,Borra Madhu,Anjaiah,36,M,NIQ0036806,మధు,అంజయ్య,వార్డు -8
+964,Ward -8,Borra Saritha,Madhu,33,F,NIQ0036855,బొర్రా సరిత,మధు,వార్డు -8
+965,Ward -8,KURMA SATTAIAH,SHANKARAIAH,54,M,FBD3803376,కూర్మ సత్తయ్య,శంకరయ్య,వార్డు -8
+966,Ward -8,Kurma Kistaiah,Sankaraiah,50,M,FBD5290432,కూర్మ కిష్టయ్య,శంకరయ్య,వార్డు -8
+967,Ward -8,Kurma Nagamani,Satyaiah,44,F,FBD3803509,కూర్మయ్ నాగమనే,సత్యయ్య,వార్డు -8
+968,Ward -8,Kurmalakshmi,Kishtaiah,43,F,FBD3802600,కూర్మలక్ష్మి,కిష్టయ్య,వార్డు -8
+969,Ward -8,Kurma Lakshmamma,Chandhraiah,59,F,NIQ2556801,కూర్మ లక్ష్మమ్మ,చంద్రయ్య,వార్డు -8
+970,Ward -8,Kurma Amarata,Srishailam,42,F,NIQ2556793,చేదు కుర్మా,శ్రీశైలం,వార్డు -8
+971,Ward -8,Kurma Mallesh,Kurma Srishailam,30,M,NIQ0989824,కూర్మ మల్లేష్,కూర్మ శ్రీశైలం,వార్డు -8
+972,Ward -8,Jonnada Poojitha,Mallesh,25,F,NIQ2303386,జొన్నాడ పూజిత,Mallesh,వార్డు -8
+973,Ward -8,K KUMARAIAH,K MANAIAH,45,M,FBD3802287,కె కుమారయ్య,కె మనాహ్,వార్డు -8
+974,Ward -8,Pedda Golla Harita,Komuraiah,34,F,NIQ0356899,పెద్ద గొల్ల హరిత,కొమురయ్య,వార్డు -8
+975,Ward -8,Kuruma Ramesh,Kuruma Maneyya,34,M,NIQ1815406,కురుమ రమేష్,కురుమ మాణెయ్య,వార్డు -8
+976,Ward -8,Pedda Golla Venkatesham,Manayya,33,M,NIQ0403345,Pedda Golla Venkatesham,మాణయ్య,వార్డు -8
+977,Ward -8,Sujatha Kurma,Ramesh,30,F,NIQ2301679,సుజాత కూర్మ,రమేష్,వార్డు -8
+978,Ward -8,Kurma Veeresham,Kurma Beerappa,28,M,NIQ1799014,కూర్మ వీరేశం,బీరప్ప ఖర్జూరాలు,వార్డు -8
+979,Ward -8,Chidruppa Laxmayya,Chidruppa Ramaiah,73,M,NIQ1815232,చిద్రుప్ప లక్ష్మయ్య,చిద్రుప్ప రామయ్య,వార్డు -8
+980,Ward -8,Kurma Bucchamma,Maneiah,62,F,FBD3803111,కూర్మ బుచ్చమ్మ,మానెయ్య,వార్డు -8
+981,Ward -8,Chidruppa Shrinivas,Laxmaiah,31,M,NIQ0883439,చిద్రుప్ప శ్రీనివాస్,లక్ష్మయ్య,వార్డు -8
+982,Ward -8,Kammari Pushpamma,Sudarshanam,75,F,NIQ2556868,ఛాంబర్ పుష్పమ్మ,సుదర్శనం,వార్డు -8
+983,Ward -8,Kammari Srinivas,Sudarshanam,50,M,NIQ2556827,ఛాంబర్ శ్రీనివాస్,సుదర్శనం,వార్డు -8
+984,Ward -8,Kammari Neelamma,Sudharshanam,42,F,FBD3802246,ఛాంబర్ నీలమ్మ,సుదర్శనం,వార్డు -8
+985,Ward -8,Kammari Uma,Srinivas,40,F,FBD3802238,ఛాంబర్ ఉమ,శ్రీనివాస్,వార్డు -8
+986,Ward -8,Kammari Karunkar,Sudharshanam,37,M,FBD3802923,కరుణ్కర్ లాగా,సుదర్శనం,వార్డు -8
+987,Ward -8,Kummari Anitha,Karunakar,34,F,NIQ0701243,Kummari Anitha,Karunakar,వార్డు -8
+988,Ward -8,DANDU PRAVEENA,DANDU SRINIVAS,25,F,NIQ2842011,DANDU PRAVEENA,దండు శ్రీనివాస్,వార్డు -8
+989,Ward -8,Chidruppa Lakshmi,Lakshmaiah,56,F,FBD5290135,చిద్రుప్ప లక్ష్మి,లక్ష్మయ్య,వార్డు -8
+990,Ward -8,Chidruppa Venkatesham,Chidruppa Laxmaiah,36,M,NIQ1327841,చిద్రుప్ప వెంకటేశం,చిద్రుప్ప లక్ష్మయ్య,వార్డు -8
+991,Ward -8,CHIDRUPPA KEERTHI,CHIDRUPPAVENKATESHAM,30,F,NIQ2848596,CHIDRUPPA KEERTHI,చిద్రుప్పవెంకటేశం,వార్డు -8
+992,Ward -8,Chakali Laxmi,Chakali Manaiah,55,F,NIQ1327890,ఇది ఇప్పటికీ లక్ష్మి,చనేమైక,వార్డు -8
+993,Ward -8,Chakali Ramesh,Manayya,35,M,NIQ0037168,చాకలి రమేష్,మాణయ్య,వార్డు -8
+994,Ward -8,Chakali Srinivas,Manayya,33,M,NIQ0037184,చాకలి శ్రీనివాస్,మాణయ్య,వార్డు -8
+995,Ward -8,Chakali Sravanthi,Chakali Srinivas,28,F,NIQ1799576,ఇప్పటికీ స్రవంతి,చాకలి శ్రీనివాస్,వార్డు -8
+996,Ward -8,Chakali Pramodha,Chakali Ramesh,27,F,NIQ1799568,చాకలి ప్రమోద,చాకలి రమేష్,వార్డు -8
+997,Ward -8,Bhavani Mallepally,Dayan,26,F,NIQ2462950,Bhavani Mallepally,దయాన్,వార్డు -8
+998,Ward -8,Chakali Bal Ram,Bucchaiah,59,M,NIQ2556017,చాకలి బల్ రామ్,బుచ్చయ్య,వార్డు -8
+999,Ward -8,Chakali Anjamma,Balram,49,F,NIQ2555902,ఇప్పటికీ అంజమ్మ,బలరాం,వార్డు -8
+1000,Ward -8,Chakali Pentaiah,Chakali Bhuchayya,49,M,NIQ1815109,టాలియస్,చాకలి బుచ్చయ్య,వార్డు -8
+1001,Ward -8,Chakali Indiramma,Pentaiah,40,F,FBD5288881,Chakali Indiramma,పెంటయ్య,వార్డు -8
+1002,Ward -8,Chakalee Narsimulu,Chakalee,36,M,FBD5290150,Chakalee Narsimulu,ఇది పాతది,వార్డు -8
+1003,Ward -8,Ramesh Chakali,Balaram,32,M,NIQ0990128,రమేష్ చాకలి,బలరాం,వార్డు -8
+1004,Ward -8,Chakali Srilatha,Chakali Narsimlu,26,F,NIQ1799865,Chakali Srilatha,చాకలి నర్సింలు,వార్డు -8
+1005,Ward -8,CHAKALI CHANDRASHEKAR,CHAKALI PENTAIAH,20,M,NIQ2884138,ఇప్పటికీ చంద్రశేఖర్,కెనాల్ పార్టీ ప్రజలు,వార్డు -8
+1006,Ward -8,Chidruppa Pocaiah,Ramulu,59,M,FBD3802980,చిద్రుప్ప పోచయ్య,Ramulu,వార్డు -8
+1007,Ward -8,Chidruppa Rukkamma,Pocaiah,53,F,FBD3802964,చిద్రుప్ప రుక్కమ్మ,పోకయ్య,వార్డు -8
+1008,Ward -8,Chidruppa Mallesham,Pochaiah,33,M,NIQ0701342,Chidruppa Mallesham,పోచయ్య,వార్డు -8
+1009,Ward -8,Chidruppa Swathi,Chidruppa Mallesham,31,F,NIQ1769447,Chidruppa Swathi,Chidruppa Mallesham,వార్డు -8
+1010,Ward -8,Gayidi Parushram,Pentayya,36,M,NIQ0037267,గయ్యి పరుశరాముడు,పెంటయ్య,వార్డు -8
+1011,Ward -8,Gaidhi Sujatha,Gaidhi Parshu Ramulu,34,F,NIQ1799659,గైధి సుజాత,Gaidhi Parshu Ramulu,వార్డు -8
+1012,Ward -8,Dandu Srinivas,Kishtaiah,50,M,FBD3803178,దండు శ్రీనివాస్,కిష్టయ్య,వార్డు -8
+1013,Ward -8,Dandu Pramila,Srinivas,47,F,FBD3803913,దండు ప్రమీల,శ్రీనివాస్,వార్డు -8
+1014,Ward -8,Dandu Padma,Baiyulu,54,F,FBD3803897,పద్మ ఇవ్వడం,బైయులు,వార్డు -8
+1015,Ward -8,Manne Suresh,Manne Chandhrayya,43,M,NIQ1814862,మన్నె సురేష్,మన్నె చంద్రయ్య,వార్డు -8
+1016,Ward -8,Manne Sumalatha,Suresh,35,F,NIQ0868836,మన్నె సుమలత,సురేష్,వార్డు -8
+1017,Ward -8,Vadde Palli Navaj Goud,Kista Goud,46,M,FBD5289426,వడ్డె పల్లి నవాజ్ గౌడ్,కిస్తా గోల్డ్,వార్డు -8
+1018,Ward -8,Vadepalli Veeramani,Navj Goud,40,F,FBD5289400,వడ్డేపల్లి వీరమణి,నవ్జ్ గోల్డ్,వార్డు -8
+1019,Ward -8,Vaddepalli Aruna,Srinivas Goud,38,F,FBD5289392,వడ్డేపల్లి అరుణ,శ్రీనివాస్ గోల్డ్,వార్డు -8
+1020,Ward -8,Yerukla Saujanya,Shrinivas,37,F,NIQ0356790,యెరుక్లా సౌజన్య,శ్రీనివాస్,వార్డు -8
+1021,Ward -8,Erukala Sailu,Pocaiah,70,M,NIQ2555308,ఎరుకల సాయిలు,పోకయ్య,వార్డు -8
+1022,Ward -8,Erukala Sathyanarayan,Sailu,44,M,NIQ2555407,ఎరుకల సత్యనారాయణ,Sailu,వార్డు -8
+1023,Ward -8,Erukala Rajeshvari,Sathyanarayan,39,F,FBD3802113,ఎరుకల రాజేశ్వరి,సత్యనారాయణ,వార్డు -8
+1024,Ward -8,Erukala Srinivas,Sailu,38,M,FBD3802949,ఎరుకల శ్రీనివాస్,Sailu,వార్డు -8
+1025,Ward -8,Erukala Harikrishna,Erukala Sathyanarayana,25,M,NIQ1799824,ఎరుకల హరికృష్ణ,Erukala Sathyanarayana,వార్డు -8
+1026,Ward -8,Erukala Malesham,Sailu,49,M,NIQ2555357,ఎరుకల మలేశం,Sailu,వార్డు -8
+1027,Ward -8,Erukala Lakshmi,Malesham,38,F,NIQ2555381,ఎరుకల లక్ష్మి,మలేశం,వార్డు -8
+1028,Ward -8,Mahendar Erukala,Mallesham,31,M,NIQ1164730,మహేంద్ర ఎరుకల,Mallesham,వార్డు -8
+1029,Ward -8,Darshanam Parvatamma,Sudarshanam,42,F,FBD3807054,Darshanam Parvatamma,సుదర్శనం,వార్డు -8
+1030,Ward -8,Darshanam Srihari,Sudarshan,35,M,FBD5292453,Darshanam Srihari,సుదర్శన్,వార్డు -8
+1031,Ward -8,Darshanam Lavanya,Srihri,34,F,FBD5292461,Darshanam Lavanya,శ్రీహరి,వార్డు -8
+1032,Ward -8,Ramchandraiah Begari,Mallaiah,50,M,NIQ2303360,రామచంద్రయ్య బిచ్చగాడు,మల్లయ్య,వార్డు -8
+1033,Ward -8,Laxmi Begari,Ramchandraiah,44,F,NIQ2303378,లక్ష్మి బేగరి,రామచంద్రయ్య,వార్డు -8
+1034,Ward -8,Byagri Venkatamma,Durgaiah,43,F,FBD3805025,బయగ్రి వెంకటమ్మ,దుర్గయ్య,వార్డు -8
+1035,Ward -8,Byagri Anjaiah,Papaaiah,41,M,FBD3804770,బయగ్రి అంజయ్య,మీరు అనుసరిస్తున్నారు,వార్డు -8
+1036,Ward -8,Byagri Pravina,Anjaiah,38,F,FBD3803921,బయగ్రీ ప్రవీణ,అంజయ్య,వార్డు -8
+1037,Ward -8,Byagari Praveen Kumar,Byagari Anjaiah,33,M,NIQ1799105,బయ్యగారి ప్రవీణ్ కుమార్,బైగారి అంజయ్య,వార్డు -8
+1038,Ward -8,Prashanth Begari,Durgaiah,28,M,NIQ1487967,ప్రశాంత్ బేగరి,దుర్గయ్య,వార్డు -8
+1039,Ward -8,Byagri Ramulu,Narsaiah,49,M,NIQ2557031,Byagri Ramulu,నర్సయ్య,వార్డు -8
+1040,Ward -8,Byagri Chandhrakala,Ramulu,44,F,NIQ2557080,బయగ్రీ చంద్రకళ,Ramulu,వార్డు -8
+1041,Ward -8,Begari Suneetha,Ellaiah,42,F,NIQ0701425,Begari Suneetha,ఎల్లయ్య,వార్డు -8
+1042,Ward -8,Byagri Ellaiah,Narsaiah,37,M,FBD3802733,బయగిరి ఎల్లయ్య,నర్సయ్య,వార్డు -8
+1043,Ward -8,Alluri Anita,Prabhakar,36,F,FBD5290192,అల్లూరి అనిత,ప్రభాకర్,వార్డు -8
+1044,Ward -8,Alluri Yadamma,Alluri Sangaiah,53,F,NIQ1327833,Alluri Yadamma,అల్లూరియో సాహుంద్,వార్డు -8
+1045,Ward -8,Alluri Santa,Kumar,36,F,FBD5290218,Alluri Santa,కుమార్,వార్డు -8
+1046,Ward -8,Alluri Kumar,Sangaiah,36,M,FBD3802345,Alluri Kumar,సంగయ్య,వార్డు -8
+1047,Ward -8,Shekar Alluri,Nagaiah,35,M,NIQ1214683,శేఖర్ అల్లూరి,నాగయ్య,వార్డు -8
+1048,Ward -8,Dhandu Krishnaveni,Shekar,29,F,NIQ1214675,Dhandu Krishnaveni,ఒక సంవత్సరం,వార్డు -8
+1049,Ward -8,Begari Aparana Begari,Begari Prashanth,22,F,NIQ3370632,నిరుద్యోగ కార్మికులు,బిచ్చగాడు ప్రశాంత్,వార్డు -8
+1050,Ward -9,SANDHYA POLIMERA,MALLIKARJUN,23,F,NIQ2864585,సంధ్యా పాలిమెరా,మల్లికార్జున్,వార్డు -9
+1051,Ward -9,Polimera Anusha,Polimera Shivakumar,22,F,NIQ3350733,పొలిమేర అనూష,పొలిమెర శివకుమార్,వార్డు -9
+1052,Ward -9,POLIMERA PRAVANEELA,JANGAIAH,24,F,NIQ2860872,ప్రవనీల్ పాలిమర్,జంగయ్య,వార్డు -9
+1053,Ward -9,ANURADHA POLIMERA,MAHIPAL,23,F,NIQ2861649,అనురాధ పాలిమెరా,మహిపాల్,వార్డు -9
+1054,Ward -9,MANASA POLIMERA,SRINIVAS,24,F,NIQ2860856,మానస పాలిమెరా,శ్రీనివాస్,వార్డు -9
+1055,Ward -9,Himabindu Polimera,Shiva,19,F,NIQ3221082,హిమబిందు పొలిమెర,శివుడు,వార్డు -9
+1056,Ward -9,VENKATESHAM KUNDRA,SHYAMAIAH,30,M,NIQ2868115,వెంకటేశం కుంద్రా,శ్యామయః,వార్డు -9
+1057,Ward -9,PAVAN KUMAR POLIMERA,SAILU,21,M,NIQ2890481,పవన్ కుమార్ పాలిమర్స్,SAILU,వార్డు -9
+1058,Ward -9,Bollaram Manimuthyam Bollaram,Bollaram Renuka,19,M,NIQ3250727,బొల్లారం మణిముత్యం బొల్లారం,బాల్ ఫ్రేమ్ రేణుక,వార్డు -9
+1059,Ward -9,Mahesh Polimera,Polimera Narsamma,20,M,NIQ3092210,మహేష్ పాలిమర్,పొలిమెర నర్సమ్మ,వార్డు -9
+1060,Ward -9,Solkamapali Pirbhu,Gopala,34,M,FBD5290572,సోల్కమపాలి పిర్భు,గోపాల,వార్డు -9
+1061,Ward -9,Polimera Narsama,Anjaiah,44,F,NIQ2555993,నర్సం పాలిమర్స్,అంజయ్య,వార్డు -9
+1062,Ward -9,Polimera Mallesh,Polimera Adivayya,58,M,NIQ1815117,పాలిమర్ మల్లేష్,పొలిమేర అడివయ్య,వార్డు -9
+1063,Ward -9,Polimera Laxmi,Polimera Mallesh,47,F,NIQ1815133,పాలిమర్ లక్ష్మి,పాలిమర్ మల్లేష్,వార్డు -9
+1064,Ward -9,Polimera Nagamani,Mallesham,42,F,NIQ2556454,Polimera Nagamani,Mallesham,వార్డు -9
+1065,Ward -9,Polimera Jangamma,Balaiah,64,F,NIQ2555910,పాలిమర్ జంగమ్మ,Balaiah,వార్డు -9
+1066,Ward -9,Polimera Chandhraiah,Balaiah,51,M,NIQ2555944,పొలిమేర చంద్రయ్య,Balaiah,వార్డు -9
+1067,Ward -9,Polimera Rutamma,Chandhraiah,44,F,NIQ2556553,పాలిమర్ రుతమ్మ,చంద్రయ్య,వార్డు -9
+1068,Ward -9,Polimera Shiva Kumar,Polimera Malaiah,25,M,NIQ1799485,పొలిమేర శివ కుమార్,ఒక ఫార్చర్,వార్డు -9
+1069,Ward -9,Polimera Pedda Yellaih,Venkaiah,52,M,NIQ2555480,పొలిమేర పెద్ద యెల్లైః,వెంకయ్య,వార్డు -9
+1070,Ward -9,Polimera Pedda Manemma,Ellaiah,49,F,NIQ2555563,Polimera Pedda Manemma,ఎల్లయ్య,వార్డు -9
+1071,Ward -9,Ploimera Ganesh,Ploimera Yellaiah,26,M,NIQ1799261,ప్లైమెరా గణేష్,ప్లైమెరా యెల్లయ్య,వార్డు -9
+1072,Ward -9,Polimera Maneesha,Polimera Ganesh,25,F,NIQ1799154,పొలిమేర మనీషా,పొలిమేర గణేష్,వార్డు -9
+1073,Ward -9,Polimera Mallaiah,Pocaiah,57,M,NIQ2558054,పొలిమేర మల్లయ్య,పోకయ్య,వార్డు -9
+1074,Ward -9,Polimera Shantamma,Allaiah,56,F,NIQ2558062,పాలిమర్ శాంతమ్మ,అల్లాయ్య,వార్డు -9
+1075,Ward -9,Polimera Bucchamma,Pocaiah,58,F,FBD5290465,పొలిమేర బుచ్చమ్మ,పోకయ్య,వార్డు -9
+1076,Ward -9,Polimera Rajamma,Polimera Narasaiah,61,F,NIQ2098341,Polimera Rajamma,పొలిమేర నరసయ్య,వార్డు -9
+1077,Ward -9,Polimera Srinivas,Polimera Narsaiah,34,M,NIQ1327973,శ్రీనివాస్ పాలిమర్స్,పొలిమెర నర్సయ్య,వార్డు -9
+1078,Ward -9,Polimera Jangamma,Shiivaiah,63,F,NIQ2557551,పాలిమర్ జంగమ్మ,శివయ్య,వార్డు -9
+1079,Ward -9,Polimera Amulu,Yelaiah,62,M,FBD3807476,అమూల్ పాలిమర్,యేలయ్య,వార్డు -9
+1080,Ward -9,Kondra Venkata Lakshmi,Narsimlu,36,F,FBD5290515,కొండ్ర వెంకట లక్ష్మి,నర్సింలు,వార్డు -9
+1081,Ward -9,Kondra Shvamaiah,Venkaiah,46,M,FBD5290531,కొండ్ర శ్వమయ్య,వెంకయ్య,వార్డు -9
+1082,Ward -9,Kondra Lakshmi,Shyamaiah,42,F,FBD5290549,కొండ్ర లక్ష్మి,శ్యామయ్య,వార్డు -9
+1083,Ward -9,Bollaram Yadaiah,Ellaiah,45,M,FBD3807500,బొల్లారం యాదయ్య,ఎల్లయ్య,వార్డు -9
+1084,Ward -9,Bollaram Anjamma,Yadaiah,41,F,FBD3808144,బొల్లారం అంజమ్మ,యాదయ్య,వార్డు -9
+1085,Ward -9,Bollaram Renuka,Kishtaiah,40,F,FBD3808375,బాల్ ఫ్రేమ్ రేణుక,కిష్టయ్య,వార్డు -9
+1086,Ward -9,POLIMERA PAVANILA,POLIMERA JANGAIAH,24,F,NIQ2842193,పాలీమేరా పవనిల్లా,జంగయ్య పాలిమర్,వార్డు -9
+1087,Ward -9,Kundra Vinoda,kundra Venkatesham,20,F,NIQ3311966,కుంద్రా వినోద,కుంద్రా వెంకటేశం,వార్డు -9
+1088,Ward -9,ETIKALA PRAVEEN KUMAR,ITIKALA SAILU,21,M,NIQ2884112,ఎటికల ప్రవీణ్ కుమార్,ఇటిక్యాల సాయిలు,వార్డు -9
+1089,Ward -9,POLIMERA KUMAR,POLIMERA POCHAIAH,37,M,NIQ3348927,పొలిమేరా కుమార్,పాలిమెరా పోచయ్య,వార్డు -9
+1090,Ward -9,Gayidi Indira,Sundaraiah,40,F,NIQ1141233,ఇందిరకు మార్గదర్శి,సుందరయ్య,వార్డు -9
+1091,Ward -9,Gaihidi Ramulu,Davood,39,M,FBD5290226,Gaihidi Ramulu,దావోస్,వార్డు -9
+1092,Ward -9,Gayedhi Lalitha,Ramulu,38,F,NIQ0701250,గయేది లలిత,Ramulu,వార్డు -9
+1093,Ward -9,Gayidi Sayamma,Allaiah,73,F,FBD3804796,గాయిడి సాయమ్మ,అల్లాయ్య,వార్డు -9
+1094,Ward -9,Gayidi Ashok,Allaiah,44,M,FBD3804218,గాయిడి అశోక్,అల్లాయ్య,వార్డు -9
+1095,Ward -9,Gayidi Ramulamma,Ashok,41,F,FBD3804127,Gayidi Ramulamma,అశోక్,వార్డు -9
+1096,Ward -9,Gaidhi Madhusudan,Gaidhi Ashok,26,M,NIQ1799295,గైధి మధుసూదన్,గైధి అశోక్,వార్డు -9
+1097,Ward -9,Gayidi Vinodh,Yadaiah,49,F,FBD3803699,గాయిది వినోద్,యాదయ్య,వార్డు -9
+1098,Ward -9,Gaidi Laxmaiah,Gaidi Yadaiah,28,M,NIQ1798974,గైడి లక్ష్మయ్య,గైడి యాదయ్య,వార్డు -9
+1099,Ward -9,Polimera Jangaiah,Pedda Malaiah,35,M,NIQ0701375,జంగయ్య పాలిమర్స్,పెద్ద మల్లయ్య,వార్డు -9
+1100,Ward -9,Polimera Chinna Sukkamma,Mallaiah,44,F,NIQ2555787,Polimera Chinna Sukkamma,మల్లయ్య,వార్డు -9
+1101,Ward -9,P Chinna Mallaiah,Venkaiah,44,M,NIQ2558369,పి చిన్న మల్లయ్య,వెంకయ్య,వార్డు -9
+1102,Ward -9,Polimera Mallikarjun,Polimera Mallaiah,29,M,NIQ1324169,పాలిమర్ మల్లికార్జున్,పొలిమేర మల్లయ్య,వార్డు -9
+1103,Ward -9,Polimera Mallaiah,Ellaiah,52,M,NIQ2556561,పొలిమేర మల్లయ్య,ఎల్లయ్య,వార్డు -9
+1104,Ward -9,Polimera Durgamma,Mallaiah,49,F,NIQ2558344,Polimera Durgamma,మల్లయ్య,వార్డు -9
+1105,Ward -9,Polimera Prasanna,Polimera Shiva Kumar,26,F,NIQ1799675,పాలిమర్ ప్రసన్న,పొలిమేర శివ కుమార్,వార్డు -9
+1106,Ward -9,Polimera Mallaiah,Enkamma,59,M,NIQ2555860,పొలిమేర మల్లయ్య,Enkamma,వార్డు -9
+1107,Ward -9,Polimera Lalitha,Polimera Mallaiah,37,F,NIQ1327932,Polimera Lalitha,పొలిమేర మల్లయ్య,వార్డు -9
+1108,Ward -9,Polimera Mahipal,Polimera Mallaiah,30,M,NIQ1327940,పొలిమెర మహిపాల్,పొలిమేర మల్లయ్య,వార్డు -9
+1109,Ward -9,POLIMERA ANURADHA,POLIMERA MAHIPAL,23,F,NIQ2842219,పాలిమేరా అనురాధ,పాలిమెరా మహిపాల్,వార్డు -9
+1110,Ward -9,Polimera Srinivas,Mallaiah,42,M,NIQ2301851,శ్రీనివాస్ పాలిమర్స్,మల్లయ్య,వార్డు -9
+1111,Ward -9,Polimera Laxmi,Srinivas,38,F,NIQ2301836,పాలిమర్ లక్ష్మి,శ్రీనివాస్,వార్డు -9
+1112,Ward -9,Polimera Ravindar,Mallaiah,35,M,NIQ0701391,పాలిమర్ రవీందర్,మల్లయ్య,వార్డు -9
+1113,Ward -9,POLIMERA MANASA,POLIMERA SRINIVAS,24,F,NIQ2842151,మనస్ పాలిమర్,పాలిమర్స్ శ్రీనివాస్,వార్డు -9
+1114,Ward -9,Polemera Balamni,Narsimulu,39,F,NIQ0701086,బిలాము బరువు,నర్సిములు,వార్డు -9
+1115,Ward -9,Polimer Narsingh Rao,Polimer Venkatayya,36,M,NIQ1815455,పొలిమేర నర్సింగరావు,పాలిమర్ వెంకటయ్య,వార్డు -9
+1116,Ward -9,Polimera Chinna Poshamma,Balaiah,49,F,NIQ2555779,Polimera Chinna Poshamma,Balaiah,వార్డు -9
+1117,Ward -9,Malaiah Polimera,Venkaiah,49,M,NIQ1214691,అవ్నేండ్ల ఒళ్,వెంకయ్య,వార్డు -9
+1118,Ward -9,Polimera Chinna Lakshmi,Mallaiah,46,F,NIQ2561306,Polimera Chinna Lakshmi,మల్లయ్య,వార్డు -9
+1119,Ward -9,Polimrea Pandaraiah,Polimera Baalaiah,41,M,NIQ2462869,పొలిమ్రియా పండరయ్య,పాలిమర్ బాలయ్య,వార్డు -9
+1120,Ward -9,Polimera Chinna Ramulu,Baiyulu,39,M,FBD3804168,Polimera Chinna Ramulu,బైయులు,వార్డు -9
+1121,Ward -9,Pollemra Vinoda,Narayana,36,F,NIQ0701151,పొల్లెమ్ర వినోద,నారాయణ,వార్డు -9
+1122,Ward -9,Polimera Chinna Lakshmi,Amulu,36,F,FBD3804150,Polimera Chinna Lakshmi,అములు,వార్డు -9
+1123,Ward -9,Kommu Pramila,Polimera Pandaraiah,31,F,NIQ2462851,కొమ్ము ప్రమీల,పోలిల్ల పండరయ్య,వార్డు -9
+1124,Ward -9,Polimera Shiva Kumar,Mallaiah,32,M,NIQ0805234,పొలిమేర శివ కుమార్,మల్లయ్య,వార్డు -9
+1125,Ward -9,Kundra Shyamaiah,Venkaiah,59,M,NIQ2556769,కుంద్రా శ్యామయ్య,వెంకయ్య,వార్డు -9
+1126,Ward -9,Kundra Laxmamma,Shyamaiah,54,F,NIQ2556835,లక్ష్మమ్మకు వ్యతిరేకంగా,శ్యామయ్య,వార్డు -9
+1127,Ward -9,Kundra Venkatesham,Shyamaiah,39,M,FBD3802378,కుండ్ర వెంకటేశం,శ్యామయ్య,వార్డు -9
+1128,Ward -9,Kundara Anjamma,Venkatesam,36,F,FBD5290507,కుందర అంజమ్మ,వెంకటేష్,వార్డు -9
+1129,Ward -9,Kundara Narsimulu,Samaiah,36,M,FBD5290523,కుందర నర్సిములు,సమయ్యా,వార్డు -9
+1130,Ward -9,Kundra Aruna,Kundra Narsimlu,31,F,NIQ1799725,కుంద్రా అరుణ,కుంద్రా నర్సింలు,వార్డు -9
+1131,Ward -9,Gayidi Padma,Kishan,36,F,NIQ0701235,Gayidi Padma,కిషన్,వార్డు -9
+1132,Ward -9,Gaydi Kisan,Saylu,36,M,FBD5290291,గైడి రైతు,సాయిలు,వార్డు -9
+1133,Ward -9,Gaidhi Mounika,Gaidhi Krishna,26,F,NIQ1799147,గైధి మౌనిక,గైధి కృష్ణ,వార్డు -9
+1134,Ward -9,Gaydi Mallesh,Saylu,39,M,FBD5290309,గైడి మల్లేష్,సాయిలు,వార్డు -9
+1135,Ward -9,Gaidhi Shobha,Gaidhi Mallesham,34,F,NIQ1799329,గైధి శోభ,గైడి మల్లేశం,వార్డు -9
+1136,Ward -9,Etikala Laxmi,Kistaiah,49,F,NIQ2555761,ఎటికల లక్ష్మి,కిష్టయ్య,వార్డు -9
+1137,Ward -9,Etikela Sailu,Kistaiah,47,M,FBD3803608,ఎటికెల సాయిలు,కిష్టయ్య,వార్డు -9
+1138,Ward -9,Etikela Manemma,Sailu,43,F,FBD3803616,సూరటే,Sailu,వార్డు -9
+1139,Ward -9,Polimera Pocaiah,Amulu,44,M,FBD5290564,పాలిమర్ పోకయ్య,అములు,వార్డు -9
+1140,Ward -9,Polimera Lavanya,Pochaiah,34,F,NIQ0701128,పొలిమేర లావణ్య,పోచయ్య,వార్డు -9
+1141,Ward -9,Bollaram Kishtaiah,Yadaiah,44,M,FBD3807492,బొల్లారం కిష్టయ్య,యాదయ్య,వార్డు -9
+1142,Ward -9,Bollaram Ramesh,Kistaiah,27,M,NIQ1799006,బొల్లారం రమేష్,కిష్టయ్య,వార్డు -9
+1143,Ward -9,Thota Sathaiah,Pochaiah,39,M,FBD5290358,తోట సత్తయ్య,పోచయ్య,వార్డు -9
+1144,Ward -9,Tota Sujatha,Sathaiah,36,F,FBD5290333,తోట సుజాత,సత్తయ్య,వార్డు -9
+1145,Ward -9,Gaidhi Anitha,Gaidhi Narsimlu,27,F,NIQ1799758,గైధి అనిత,గైధి నర్సింలు,వార్డు -9
+1146,Ward -9,Solkampalli Gopala,Pentaiah,64,M,NIQ2556207,సోల్కంపల్లి గోపాల,పెంటయ్య,వార్డు -9
+1147,Ward -9,Solkamapali Ramulamma,Gopala,59,F,FBD3803384,Solkamapali Ramulamma,గోపాల,వార్డు -9
+1148,Ward -9,Sulkampally Narsimlu,Gopal,31,M,NIQ0868851,సుల్కంపల్లి నర్సింలు,గోపాల్,వార్డు -9
+1149,Ward -9,Sulkampally Renuka,Sulkampally Narsimlu,26,F,NIQ1799253,సుల్కంపల్లి రేణుక,సుల్కంపల్లి నర్సింలు,వార్డు -9
+1150,Ward -9,Sulkampally Anitha,Sulkampally Prabhu,25,F,NIQ1815042,సుల్కంపల్లి అనిత,సుల్కంపల్లి ప్రభు,వార్డు -9
+1151,Ward -9,Polimera Naresh,Polimera Narsimulu,26,M,NIQ1799022,పొలిమేర నరేష్,పాలిమర్ నర్సిములు,వార్డు -9
+1152,Ward -9,Kudra Ramesh,Sayamma,31,M,NIQ0989360,కుద్ర రమేష్,సాయమ్మ,వార్డు -9
+1153,Ward -9,Kundra Lakshmi,Ramesh,29,F,NIQ1587304,కుంద్రా లక్ష్మి,రమేష్,వార్డు -9
+1154,Ward -9,Polimera Venkatamma,Chandraiah,64,F,NIQ2555811,పొలిమేర వెంకటమ్మ,చంద్రయ్య,వార్డు -9
+1155,Ward -9,Polimera Narsimulu,Chandraiah,47,M,FBD3803459,పాలిమర్ నర్సిములు,చంద్రయ్య,వార్డు -9
+1156,Ward -9,Polimera Anita,Narasimhulu,39,F,FBD3803467,పాలిమర్ అనిత,నరసింహులు,వార్డు -9
+1157,Ward -9,Polimera Shekar,Polimera Narsimulu,25,M,NIQ1854223,పొలిమెర శేఖర్,పాలిమర్ నర్సిములు,వార్డు -9
+1158,Ward -9,Kundra Balmani,Venkaiah,53,F,FBD3803996,కుంద్రా బాలమణి,వెంకయ్య,వార్డు -9
+1159,Ward -9,Kundra Sailu,Venkaiah,37,M,FBD3802220,కుంద్ర సాయిలు,వెంకయ్య,వార్డు -9
+1160,Ward -9,Kundra Balamani,Sailu,32,F,NIQ0989436,కుంద్రా బాలమణి,Sailu,వార్డు -9
+1161,Ward -9,Bollaram Ramesh,Kistaiah,27,M,NIQ3033883,బొల్లారం రమేష్,కిష్టయ్య,వార్డు -9
+1162,Ward -9,Polimera Narsaiah,Amulu,33,M,NIQ0989337,పొలిమెర నర్సయ్య,అములు,వార్డు -9
+1163,Ward -9,Polimera Nithisha,Polimera Mallesh,19,F,NIQ3172152,నితీష్ పాలిమర్స్,పాలిమర్ మల్లేష్,వార్డు -9
+1164,Ward -9,Kundra Venkatesh,Kundra Shyamaiah,23,M,NIQ2959120,కుండ్ర వెంకటేష్,కుంద్రా శ్యామయ్య,వార్డు -9
+1165,Ward -9,POLIMERA NAVANEETHA,POLIMERA PANDARI,21,F,NIQ3245032,పాలిమర్స్ మరియు ఈథర్స్,పాలీమేరా పండరి,వార్డు -9
+1166,Ward -9,Polimera Anitha Polimera,Polimera Narsaiah,23,F,NIQ3368263,పొలిమేరా అనిత పొలిమేరా,పొలిమెర నర్సయ్య,వార్డు -9
+1167,Ward -9,Polimera Mounika,Polimera Ravindar,30,F,NIQ3368305,పొలిమెర మౌనిక,పాలిమర్ రవీందర్,వార్డు -9
+1168,Ward -9,Kundra Anusha,Kundra Shyamaiah,19,F,NIQ3370640,కుంద్రా అనూష,కుంద్రా శ్యామయ్య,వార్డు -9
+1169,Ward -9,KUNDRA MANIKYAM,KUNDRA SHAMAIAH,22,M,NIQ2848521,కుంద్ర మాణిక్యం,కుంద్రా షామయ్యా,వార్డు -9
+1170,Ward -9,KUNDRA LATHA,KUNDRA VENKATESHAM,23,F,NIQ2864601,కుంద్ర లత,కుండ్ర వెంకటేశం,వార్డు -9
+1171,Ward -9,Polimera Shirisha,Polimera Shekar,21,F,NIQ3388139,పొలిమేర శిరీష,పొలిమెర శేఖర్,వార్డు -9
+1172,Ward -9,Bollaram Manimuthyam,Bollaram Renuka,19,M,NIQ3388238,బొల్లారం మణిముత్యం,బాల్ ఫ్రేమ్ రేణుక,వార్డు -9
+1173,Ward -9,POLIMERA RAVI,POLIMERA BALAIAH,39,M,NIQ3388154,పాలిమెరా రవి,పాలిమెరా బాలయ్య,వార్డు -9
+1174,Ward -9,Polimera Ramya,Polimera Ravi,30,F,NIQ3388162,పొలిమేర రమ్య,Polimera Ravi,Ward -9
+1175,Ward -9,POLIMERA SHIRISHA,POLIMERA SHEKAR,21,F,NIQ3388139,పొలిమేర శిరీష,పాలిమెరా సంవత్సరాలు,వార్డు -9
+1176,Ward -10,Etikala Yadhagiri,Etikala Narsaiah,41,M,NIQ2303337,ఎటికల యాదగిరి,ఎటికల నర్సయ్య,వార్డు -10
+1177,Ward -10,Hamsamma Mushti,Yadagiri,36,F,NIQ2301943,హంసమ్మ ముష్టి,యాదగిరి,వార్డు -10
+1178,Ward -10,MAMATHA MASTI,SRINIVAS,21,F,NIQ2862753,MAMATHA MASTI,శ్రీనివాస్,వార్డు -10
+1179,Ward -10,DHANALAKSHMI YEMULA,RAJA RAO,50,F,NIQ3319191,ధనలక్ష్మి యేముల,కింగ్ రావు,వార్డు -10
+1180,Ward -10,DHANANJAY ETIKYALA,DURGAIAH,23,M,NIQ2861607,ధనంజయ్ ఎటిక్యాల,దుర్గయ్య,వార్డు -10
+1181,Ward -10,KARUNAKAR ETIKYALA,KISHTAIAH,21,M,NIQ2847143,కరుణాకర్ ఎటిక్యాల,కిష్టయ్య,వార్డు -10
+1182,Ward -10,Darshanam Prashant Kumar,Darshanam Hamsamaa,20,M,NIQ3091477,దర్శనం ప్రశాంత్ కుమార్,Darshanam Hamsamaa,వార్డు -10
+1183,Ward -10,ETIKYALA SAI CHARAN,ETIKYALA NARSIMLU,20,M,NIQ2841849,ఎటిక్యాల సాయి చరణ్,ఎటిక్యాల నర్సిములు,వార్డు -10
+1184,Ward -10,ARUN EDULAKANTI,RAMESH,21,M,NIQ2847192,ఎదులకాంతి వ్యాధి,రమేష్,వార్డు -10
+1185,Ward -10,GANESH DARSHANAM,MURALI,22,M,NIQ2864635,గణేష్ దర్శనం,మురళి,వార్డు -10
+1186,Ward -10,Darshanam Aravind Darshanam,Dharashanam Jyothi,20,M,NIQ3064565,Darshanam Aravind Darshanam,ధరాశనం జ్యోతి,వార్డు -10
+1187,Ward -10,Darshanam Hari Krishna,Darshanam Ramulu,19,M,NIQ3091956,Darshanam Hari Krishna,Darshanam Ramulu,వార్డు -10
+1188,Ward -10,ASHWINI ETIKYALA,BIKSHAPATHI,21,F,NIQ2862787,అశ్విని ఎటిక్యాల,బిక్షపతి,వార్డు -10
+1189,Ward -10,PRATHYUSHA ETIKYALA,MAHESH KUMAR,24,F,NIQ2847267,PRATHYUSHA ETIKYALA,మహేశ్ కుమార్,వార్డు -10
+1190,Ward -10,SHEKAR ETIKYALA,YADAIAH,22,M,NIQ2864825,ఎటిక్యాల సంవత్సరం,యాదయ్య,వార్డు -10
+1191,Ward -10,SUMANASRI ETIKYALA,SHEKAR,20,F,NIQ2860989,సుమనశ్రీ ఎటిక్యాల,సంవత్సరం,వార్డు -10
+1192,Ward -10,Etikala Kumar Etikala,Etikala Salamma,27,M,NIQ3064789,ఎటికల కుమార్ ఎటికల,అది సాలమ్మగా మిగిలిపోయింది,వార్డు -10
+1193,Ward -10,Etikala Kumar,Etikala Salama,27,M,NIQ3071552,ఎటికల కుమార్,అది సలామాగా మిగిలిపోయింది,వార్డు -10
+1194,Ward -10,KRISHNA PRASAD ETIKYALA,SANJEEVA,20,M,NIQ2853588,కృష్ణ ప్రసాద్ ఎటిక్యాల,సంజీవ,వార్డు -10
+1195,Ward -10,ESTHER ETIKYALA,DAVED,20,F,NIQ2893659,ఎస్థర్ ఎటిక్యాలా,DAVED,వార్డు -10
+1196,Ward -10,SHAILAJA ETIKYALA,KONDAIAH,20,F,NIQ2870301,శైలజ ఎటిక్యాల,కొండయ్య,వార్డు -10
+1197,Ward -10,RAKESH ETIKYALA,GOPAL,21,M,NIQ2890408,రాకేష్ ఎటిక్యాలా,గోపాల్,వార్డు -10
+1198,Ward -10,DARSHANAM ESTHER,DEVED,21,F,NIQ2842201,DARSHANAM ESTHER,DEVED,వార్డు -10
+1199,Ward -10,ETIKYALA RAKESH,LATE ETIKYALAGOPAL LATE,21,M,NIQ2884252,ఎటిక్యాల రాకేష్,లేట్ ఎటిక్యాలగోపాల్ లేట్,వార్డు -10
+1200,Ward -10,RAJESH NUNSAVATH,AMAR SINGH,21,M,NIQ2894756,రాజేష్ నున్సావత్,అమర్ సింగ్,వార్డు -10
+1201,Ward -10,Dhanalaxmi Yemula,Raja Rao,50,F,SWD5834346,ధనలక్ష్మి యేముల,రాజు రావు,వార్డు -10
+1202,Ward -10,Raja Rao Yemula,Venkateswara Rao,73,M,SWD5834288,రాజారావు యేముల,వెంకటేశ్వరరావు,వార్డు -10
+1203,Ward -10,ETIKALA JYOTHI,ETIKALA SAMAIAH,19,F,NIQ3354420,ఎటికల జ్యోతి,ఎటికల సమైయా,వార్డు -10
+1204,Ward -10,Mushti Pentamma,Ramdas,75,F,NIQ2301802,Mushti Pentamma,రాందాస్,వార్డు -10
+1205,Ward -10,Itikala Galamma,Pentaiah,69,F,NIQ2557312,ఇటిక్యాల గాలమ్మ,పెంటయ్య,వార్డు -10
+1206,Ward -10,Itikayala Damodar,Pentaiah,37,M,FBD3810652,ఇటికాయల దామోదర్,పెంటయ్య,వార్డు -10
+1207,Ward -10,Itikyala Samaiah,Pentaiah,37,M,FBD3810645,ఇటిక్యాల సమయ్య,పెంటయ్య,వార్డు -10
+1208,Ward -10,Itikala Uma,Samaiah,36,F,FBD5290481,ఇటిక్యాల ఉంటే,సమయ్యా,వార్డు -10
+1209,Ward -10,Etikala Hamsamma,Etikala Dhamodhar,30,F,NIQ1178046,ఎటికల హంసమ్మ,ఎటికల ధమోదర్,వార్డు -10
+1210,Ward -10,ETIKYALA DHANUNJAY,ETIKYALA DURGESH,23,M,NIQ2884120,ఎటిక్యాల ధనుంజయ్,ఎటిక్యాల దుర్గేష్,వార్డు -10
+1211,Ward -10,ETIKYALA PRAVEEN,ETIKYALA KRISHNA,24,M,NIQ3273349,ప్రవీణ్ చేత లేబుల్ చేయబడింది,ఎటిక్యాల కృష్ణ,వార్డు -10
+1212,Ward -10,ETIKALA PRASAD,ETIKALA KRISHNA,23,M,NIQ3056389,ఇటికల ప్రసాద్,ఎటికల కృష్ణ,వార్డు -10
+1213,Ward -10,Itikala Yadaiah,Ramkishtaiah,68,M,NIQ2557353,ఇటిక్యాల యాదయ్య,రామకిష్టయ్య,వార్డు -10
+1214,Ward -10,Itikala Sugunamma,Yadaiah,63,F,NIQ2557346,ఇటిక్యాల సుగుణమ్మ,యాదయ్య,వార్డు -10
+1215,Ward -10,Venkataiah,Yadaiah,40,M,FBD3807013,వెంకటయ్య,యాదయ్య,వార్డు -10
+1216,Ward -10,Itikyala Narsimlu,Yadaiah,39,M,FBD3807609,ఇటిక్యాల నర్సింలు,యాదయ్య,వార్డు -10
+1217,Ward -10,Yitikayala Lakshmi,Narsimlu,38,F,FBD3803368,యిటికాయల లక్ష్మి,నర్సింలు,వార్డు -10
+1218,Ward -10,Itikala Punnamma,Ramulu,58,F,FBD5290580,Itikala Punnamma,Ramulu,వార్డు -10
+1219,Ward -10,Itikyala Shrinu,Ramulu,37,M,FBD3810488,ఇటిక్యాల శ్రీను,Ramulu,వార్డు -10
+1220,Ward -10,Itikayala Chandramma,Durgaiah,36,F,FBD5290606,ఇటికాయల చంద్రమ్మ,దుర్గయ్య,వార్డు -10
+1221,Ward -10,Itikyala Chandramma,Shrinu,35,F,NIQ0037424,ఇటిక్య చంద్రమ్మ,శ్రీను,వార్డు -10
+1222,Ward -10,Etikala Aruna,Etikala Babu,31,F,NIQ1769397,అరుణ లేబుల్,అది బాబుగా మిగిలిపోయింది,వార్డు -10
+1223,Ward -10,E Mahipal,E Kistaiah,30,M,NIQ1799725,ఇ మహిపాల్,ఇ కిష్టయ్య,వార్డు -10
+1224,Ward -10,Etikala Madhavi,Etikala Mahipal,27,F,NIQ1799618,ఎటికల మాధవి,ఎటికల మహిపాల్,వార్డు -10
+1225,Ward -10,Itikala Chinnamallaiah,Pedda Allaiah,55,M,NIQ2557247,ఇటిక్యాల చిన్నమల్లయ్య,పెద్ద అల్లయ్య,వార్డు -10
+1226,Ward -10,Shoba Itikala,Yadaiah,39,F,NIQ2345692,శోబా ఇటిక్యాల,యాదయ్య,వార్డు -10
+1227,Ward -10,Yadaiah Itikala,Mallaiah,39,M,NIQ2351187,యాదయ్య ఇటిక్యాల,మల్లయ్య,వార్డు -10
+1228,Ward -10,Itikala Jiyoti,Yadaiah,46,F,FBD5290689,ఇటిక్యాల జ్యోతి,యాదయ్య,వార్డు -10
+1229,Ward -10,Etikyala Dhasharath,Etikyala Chinna Rajayya,38,M,NIQ1815364,ఎటిక్యాల ధశరథ్,Etikyala Chinna Rajayya,వార్డు -10
+1230,Ward -10,Etikala Raju,Hanumanth,33,M,NIQ1257006,ఎటికల రాజు,హనుమంత్,వార్డు -10
+1231,Ward -10,Darshnem Hamsamma,Samaiah,35,F,FBD5290739,దర్శనం హంసమ్మ,సమయ్యా,వార్డు -10
+1232,Ward -10,Etikyala Raju,Itikyala Ramchandraiah,34,M,NIQ1771138,ఎటిక్యాల రాజు,ఇటిక్యాల రాంచంద్రయ్య,వార్డు -10
+1233,Ward -10,Etikyala Vasantha,Etikyala Raju,30,F,NIQ1771120,ఎటిక్యాల వసంత,ఎటిక్యాల రాజు,వార్డు -10
+1234,Ward -10,Itikala Agamaiah,Sailu,46,M,FBD5290697,ఇటిక్యాల ఆగమయ్య,Sailu,వార్డు -10
+1235,Ward -10,Itikala Shamanta,Agmaiah,42,F,FBD5290705,ఇటిక్యాల శమంత,ఆగమామః,వార్డు -10
+1236,Ward -10,Etikyala Latha,Ashok,31,F,NIQ1937689,ఎటిక్యాల లత,అశోక్,వార్డు -10
+1237,Ward -10,Itikyala Krishna,E Agamaiah,29,M,NIQ1236117,ఇటిక్యాల కృష్ణ,ఇ మతం,వార్డు -10
+1238,Ward -10,ETIKALA SONY,Etikala Krishna,30,F,NIQ1799584,ఎటికల సోనీ,ఎటికల కృష్ణ,వార్డు -10
+1239,Ward -10,Idulkanti Ramesh,Naraayana,39,M,FBD3809605,ఇదులకంటి రమేష్,నారాయణ,వార్డు -10
+1240,Ward -10,Idulkanti Manjula,Ramesh,37,F,FBD3807252,ఇదులకంటి మంజుల,రమేష్,వార్డు -10
+1241,Ward -10,Sreeramulu Edulakanti,Naraayana,37,M,FBD3807047,Sreeramulu Edulakanti,నారాయణ,వార్డు -10
+1242,Ward -10,Idula Kanti Manasa,Shriramulu,34,F,FBD5292578,ఇదుల కాంతి మానస,Shriramulu,వార్డు -10
+1243,Ward -10,Darshanam Shantamma,Sailu,64,F,NIQ2555324,Darshanam Shantamma,Sailu,వార్డు -10
+1244,Ward -10,Darshanam Murali,Lalaiah,46,M,NIQ2556199,Darshanam Murali,లాలాజోధ్,వార్డు -10
+1245,Ward -10,Darshanam Narasma,Murali,42,F,NIQ2556207,దర్శనం నరస్మ,మురళి,వార్డు -10
+1246,Ward -10,Darshanam Venkatesham,Darshanam Sailu,28,M,NIQ2094548,దర్శనం వేంకటేశం,Darshanam Sailu,వార్డు -10
+1247,Ward -10,Darshanam Premathalatha,Darshanam Venkatesham,26,F,NIQ2094696,Darshanam Premathalatha,దర్శనం వేంకటేశం,వార్డు -10
+1248,Ward -10,Itikala Agmma,Narsimlu,43,F,NIQ2558229,ఇటిక్యాల ఆగమ్మ,నర్సింలు,వార్డు -10
+1249,Ward -10,Di Jiyoti,Amulu,36,F,FBD3807039,జియోతిలో,అములు,వార్డు -10
+1250,Ward -10,Darshnam Raju,Bhikshapati,35,M,FBD5292479,దర్శనం రాజు,భిక్షపతి,వార్డు -10
+1251,Ward -10,Darshanam Shamala,Raju,33,F,FBD5292487,Darshanam Shamala,రాజు,వార్డు -10
+1252,Ward -10,Itikala Ellamma,Amulu,72,F,NIQ2558112,ఇటిక్యాల ఎల్లమ్మ,అములు,వార్డు -10
+1253,Ward -10,Itikala Bhikshapathi,Amulu,43,M,NIQ2557361,ఇటిక్యాల భిక్షపతి,అములు,వార్డు -10
+1254,Ward -10,Itikala Anthamma,Bikshapathi,42,F,NIQ2557411,ఇటిక్యాల అంతమ్మ,బిక్షపతి,వార్డు -10
+1255,Ward -10,Etikyala Vishnu,Bikshapathi,32,M,NIQ1601723,ఎటిక్యాల విష్ణు,బిక్షపతి,వార్డు -10
+1256,Ward -10,Etikala Saroja,Etikala Vishnu,28,F,NIQ1799642,అది సరోజగా మిగిలిపోయింది,ఎటికల విష్ణు,వార్డు -10
+1257,Ward -10,ETUKALA ESHWAR,Etakala Bikshapathi,28,M,NIQ1799691,ఎతుకాల ఈశ్వర్,Etakala Bikshapathi,వార్డు -10
+1258,Ward -10,E. Pravalika,Etikala Eshwar,26,F,NIQ2213478,E. Pravalika,ఎటికల ఈశ్వర్,వార్డు -10
+1259,Ward -10,Yadaiah Itikala,Govind,56,M,NIQ2301927,యాదయ్య ఇటిక్యాల,గోవింద్,వార్డు -10
+1260,Ward -10,Itikala Shankaramma,Kishtaiah,51,F,NIQ2557999,ఇటిక్యాల శంకరమ్మ,కిష్టయ్య,వార్డు -10
+1261,Ward -10,Itikyala Babu,Kishtaiah,37,M,FBD5292594,ఇటిక్యాల తాత,కిష్టయ్య,వార్డు -10
+1262,Ward -10,Etikala Mahesh Kumar,Etikala Yadaiah,29,M,NIQ1799477,ఎటికల మహేష్ కుమార్,ఎటికల యాదయ్య,వార్డు -10
+1263,Ward -10,Etikala Srinivas,Etikala Yadaiah,36,M,NIQ1799683,ఎటికల శ్రీనివాస్,ఎటికల యాదయ్య,వార్డు -10
+1264,Ward -10,LAXMI ETIKYALA,Shreenivas,36,F,NIQ0477802,లక్ష్మి ఎటిక్యాల,శ్రీనివాస్,వార్డు -10
+1265,Ward -10,Itikala Rangaiah,Raajaiah,48,M,NIQ2563849,ఇటిక్యాల రంగయ్య,రాజయ్య,వార్డు -10
+1266,Ward -10,Itikala Salamma,Rangaiah,43,F,NIQ2566768,ఇటిక్యాల సాలమ్మ,రంగయ్య,వార్డు -10
+1267,Ward -10,Etikela Bharathamma,Ramchendar,41,F,NIQ2515021,ఎటికెల భారతమ్మ,రాంచందర్,వార్డు -10
+1268,Ward -10,Itikala Venkatamma,Shrinivas,34,F,FBD5290663,ఇటిక్యాల వెంకటమ్మ,శ్రీనివాస్,వార్డు -10
+1269,Ward -10,Itikala Kavita,Dhashrath,33,F,FBD5292495,ఇటిక్యాల కవిత,ధశరథ్,వార్డు -10
+1270,Ward -10,Etikyala Durghayya,Etikyala Ramulu,28,M,NIQ1814888,ఎటిక్యాల దుర్గయ్య,Etikyala Ramulu,వార్డు -10
+1271,Ward -10,Itikala Sanjeevulu,Raajaiah,41,M,NIQ2557189,ఇటిక్యాల సంజీవులు,రాజయ్య,వార్డు -10
+1272,Ward -10,Etikyala Amrutha,Etikyala Mallaiah,26,F,NIQ2301968,Etikyala Amrutha,ఎటిక్యాల మల్లయ్య,వార్డు -10
+1273,Ward -10,Itikala Sankaraiah,Sailu,63,M,NIQ2557205,ఇటిక్యాల శంకరయ్య,Sailu,వార్డు -10
+1274,Ward -10,Itikala Anasuya,Sankaraiah,58,F,NIQ2557213,ఇటిక్యాల అనసూయ,శంకరయ్య,వార్డు -10
+1275,Ward -10,Itikayala Yadaiah,Sankaraiah,52,M,FBD5290648,ఇటికాయల యాదయ్య,శంకరయ్య,వార్డు -10
+1276,Ward -10,Budhula Ramulamma,Budhula Ramaiah,49,F,NIQ1798990,Budhula Ramulamma,Budhula Ramaiah,వార్డు -10
+1277,Ward -10,Etikyala Urmila,Etikyala Maadhayya,39,F,NIQ1815547,ఎటిక్యాల ఊర్మిళ,ఎటిక్యాల మాదయ్య,వార్డు -10
+1278,Ward -10,Budhula Venkataiah,Budhula Ramaiah,39,M,NIQ1799006,బుద్దుల వెంకటయ్య,Budhula Ramaiah,వార్డు -10
+1279,Ward -10,Etikyala Navaneetha,Etikyala Yadagiri,37,F,NIQ1937572,ఎటిక్యాల నవనీత,Etikyala Yadagiri,వార్డు -10
+1280,Ward -10,Itikyala Yadagiri,Sankaraiah,36,M,FBD5290184,ఇటిక్యాల యాదగిరి,శంకరయ్య,వార్డు -10
+1281,Ward -10,Budhula Narsimulu,Budhula Ramaiah,33,M,NIQ1799022,Budhula Narsimulu,Budhula Ramaiah,వార్డు -10
+1282,Ward -10,Anil Kumar Itikala,Shankaraiah,32,M,NIQ0964008,అనిల్ కుమార్ ఇటిక్యాల,శంకరయ్య,వార్డు -10
+1283,Ward -10,Etikala Devid,Etikala Yadhaiah,31,M,NIQ1799048,అది దేవిగా మిగిలిపోయింది,ఎటికల యాదయ్య,వార్డు -10
+1284,Ward -10,Etikyala Darma Biksham,Etikyala Mallaiah,31,M,NIQ1922103,Etikyala Darma Biksham,ఎటిక్యాల మల్లయ్య,వార్డు -10
+1285,Ward -10,Etikala Aksa,Etikala Yadhaiah,28,F,NIQ1799147,అది అక్షంగా మిగిలిపోయింది,ఎటికల యాదయ్య,వార్డు -10
+1286,Ward -10,Etikala Anusha,Etikala Darmabiksham,27,F,NIQ2210433,ఎటికల అనూష,ఎటికల దర్మభిక్షం,వార్డు -10
+1287,Ward -10,Itikala Shekar,Venkataiah,40,M,NIQ1831452,ఇటిక్యాల శేఖర్,వెంకటయ్య,వార్డు -10
+1288,Ward -10,Itikala Venkatamma,Itikala Shekhar,36,F,NIQ1831460,ఇటిక్యాల వెంకటమ్మ,ఇటిక్యాల శేఖర్,వార్డు -10
+1289,Ward -10,Adivamma,Bheemaiah,80,F,NIQ2557510,అడివమ్మా,భీమయ్య,వార్డు -10
+1290,Ward -10,Itikala Pentamma,Allaiah,77,F,NIQ0403329,Itikala Pentamma,అల్లాయ్య,వార్డు -10
+1291,Ward -10,Itikala Mallaiah,Bheemaiah,51,M,FBD5290713,ఇటిక్యాల మల్లయ్య,భీమయ్య,వార్డు -10
+1292,Ward -10,Itikala Narasma,Allaiah,44,F,FBD5290721,ఇటిక్యాల నరస్మా,అల్లాయ్య,వార్డు -10
+1293,Ward -10,Itikayala Hanmanthu,Bheemaiah,36,M,FBD3807427,ఇత్యః హన్మును హంకాలీష్,భీమయ్య,వార్డు -10
+1294,Ward -10,Itikyala Swapna,Hanumantu,34,F,FBD5290630,ఇటిక్యాల స్వప్న,హనుమంతు,వార్డు -10
+1295,Ward -10,Itikala Kondaiah,Sailu,68,M,NIQ0356956,ఇటిక్యాల కొండయ్య,Sailu,వార్డు -10
+1296,Ward -10,Itikala Narasma,Kondaiah,50,F,FBD3808334,ఇటిక్యాల నరస్మా,లెజెండ్,వార్డు -10
+1297,Ward -10,Itikala Chendramma,Sailu,73,F,NIQ2557320,ఇటిక్యాల చెంద్రమ్మ,Sailu,వార్డు -10
+1298,Ward -10,Itikala Renuka,Gopal,42,F,NIQ2560845,హెరియోలా రెల్నుకా,గోపాల్,వార్డు -10
+1299,Ward -10,Etikyala Ramesh,Etikyla Gopal,33,M,NIQ1853605,ఎటిక్యాల రమేష్,ఎటికిల గోపాల్,వార్డు -10
+1300,Ward -10,Etikyala Bal Raj,Etikyala Gopal,29,M,NIQ1854165,ఎటిక్యాల బాల్ రాజ్,ఎటిక్యాల గోపాల్,వార్డు -10
+1301,Ward -10,Etikyala Renuka,Etikyala Ramesh,25,F,NIQ1854181,ఎటికియాల రేణుక,ఎటిక్యాల రమేష్,వార్డు -10
+1302,Ward -10,Darshanam Kotamma,Darshanam Venkataiah,25,F,NIQ2301950,Darshanam Kotamma,Darshanam Venkataiah,వార్డు -10
+1303,Ward -10,Annapurna Samgem,Anil Kumar,27,F,NIQ2301893,అన్నపూర్ణ సంగెం,అనిల్ కుమార్,వార్డు -10
+1304,Ward -10,Manish Singh,Mahesh,39,M,NIQ3305174,మనీష్ సింగ్,మహేష్,వార్డు -10
+1305,Ward -10,Bodapatla Srinivas,Bodapatla Ramulu,30,M,NIQ1140763,బోడపట్ల శ్రీనివాస్,Bodapatla Ramulu,వార్డు -10
+1306,Ward -10,ITIKYALA PRASHANTH KUMAR,ITIKYALA NARSIMLU,28,M,NIQ3366648,ఇటిక్యాల ప్రశాంత్ కుమార్,ఇటిక్యాల నర్సిములు,వార్డు -10
+1307,Ward -10,Thalari Surya Vamshi Thalari,Thalari Srinivas,25,M,NIQ3371648,తలారి సూర్య వంశీ తలారి,తలారి శ్రీనివాస్,వార్డు -10
+1308,Ward -10,Etikala Laxmi,Etikala Sanjiva,37,F,NIQ3386992,ఎటికల లక్ష్మి,ఎటికల సంజీవ,వార్డు -10
+1309,Ward -10,ETIKYALA MAHA DEVI,ETIKYALA MALLAIH,20,F,NIQ3388147,ఎటిక్యాల మహా దేవి,ఎటిక్యాల మలైహ్,వార్డు -10
+1310,Ward -10,ETIKYALA MADHAVI,ETIKYALA MALLAIAH,24,F,NIQ3388055,ఎటిక్యాల మాధవి,ఎటిక్యాల మల్లయ్య,వార్డు -10
+1311,Ward -10,ATLA AYYAPPA,ATLA RAMANA REDDY,26,M,NIQ3388212,అట్ల అయ్యప్ప,జంప్ రమణ రెడ్డి,వార్డు -10
