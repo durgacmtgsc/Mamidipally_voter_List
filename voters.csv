@@ -930,8 +930,8 @@ S.No,Ward,Name,Father/Husband Name,Age,Sex,EPIC
 929,Ward -7,VAJIR GULAM RASUL,Babu Miya,47,M,FBD3803665
 930,Ward -7,Raajareddygari Umarani,Ramachander Areddy,42,F,FBD3805249
 931,Ward -7,Samreen Begum Mohammed,Mohammed Anwar,26,F,NIQ3372026
-932,Ward -8,Cheruduppa Balamani Chiduruppa Others :Cheduruppa Mallesham,,67,F,NIQ3033875
-933,Ward -8,Chedurupa Mallesham Chiduruppa Others :Chiduruppa Chandraiah,,50,M,NIQ3033834
+932,Ward -8,Cheruduppa Balamani,Cheduruppa Mallesham,67,F,NIQ3033875
+933,Ward -8,Chedurupa Mallesham ,Chiduruppa Chandraiah,50,M,NIQ3033834
 934,Ward -8,Dandu Pavani,Dandu Buchi Ramulu,27,F,NIQ3318482
 935,Ward -8,Kurma Shirisha,kurma Sattaiah,22,F,NIQ3178746
 936,Ward -8,Kurma Shiva Kumar,Kurma Laxmi,20,M,NIQ3011582
@@ -1310,3 +1310,4 @@ S.No,Ward,Name,Father/Husband Name,Age,Sex,EPIC
 1309,Ward -10,ETIKYALA MAHA DEVI,ETIKYALA MALLAIH,20,F,NIQ3388147
 1310,Ward -10,ETIKYALA MADHAVI,ETIKYALA MALLAIAH,24,F,NIQ3388055
 1311,Ward -10,ATLA AYYAPPA,ATLA RAMANA REDDY,26,M,NIQ3388212
+
