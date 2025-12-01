@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"/>
+  <title>BPY Team Mamidipally - Voters List</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/datatables.net@1.13.8/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/datatables.net-dt@1.13.8/css/jquery.dataTables.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Pothana2000&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* --- Global & Mobile Optimizations --- */
+    body {
+        font-family: 'Roboto', Arial, sans-serif;
+        background: #f4f6f9;
+        margin: 0;
+        padding: 10px;
+        -webkit-text-size-adjust: 100%;
+    }
+
+    /* --- Main Container --- */
+    .container {
+        width: 100%;
+        max-width: 1600px;
+        margin: auto;
+        background: white;
+        padding: 15px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        box-sizing: border-box;
+    }
+
+    /* --- Image Logo Styling --- */
+    .app-logo {
+        max-width: 120px; 
+        height: auto;
+        display: block;
+        margin: 0 auto 5px auto; 
+        border-radius: 8px; 
+    }
+
+    /* --- The Text Heading --- */
+    h1 {
+        text-align: center;
+        color: #d35400;
+        font-size: 2.0rem; 
+        font-weight: 800;
+        margin: 5px 0 20px;
+        line-height: 1.2;
+    }
+
+    /* --- Buttons & Inputs (Touch friendly) --- */
+    button, select, input {
+        font-size: 16px !important; 
+        touch-action: manipulation;
+    }
+
+    .lang-btn, #clearBtn {
+        padding: 12px 24px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: 500;
+        transition: background 0.2s;
+    }
+    .lang-btn { background: #3498db; color: white; }
+    .lang-btn:hover { background: #2980b9; }
+    #clearBtn { background: #95a5a6; color: white; }
+    #clearBtn:hover { background: #7f8c8d; }
+
+    /* --- Stats Box (Responsive) --- */
+    .stats {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        padding: 15px;
+        background: #fffacd;
+        border-radius: 10px;
+        margin: 15px 0 25px;
+        border: 1px solid #ffeeba;
+        font-weight: 500;
+    }
+    .stat-item {
+        background: rgba(255, 255, 255, 0.6);
+        padding: 8px 12px;
+        border-radius: 6px;
+        white-space: nowrap;
+    }
+    .highlight { color: #e74c3c; font-weight: 700; font-size: 1.1em;}
+
+    /* --- Filter Panel --- */
+    .filter-panel {
+        background: #f8f9fa;
+        padding: 20px;
+        border-radius: 12px;
+        margin-bottom: 25px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 15px;
+        align-items: center;
+        border: 1px solid #e9ecef;
+    }
+    .filter-panel select, .filter-panel input {
+        padding: 14px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        width: 100%;
+        box-sizing: border-box;
+        background: white;
+    }
+
+    /* --- Table Styling --- */
+    .telugu { font-family: 'Pothana2000', Arial; font-size: 17px; }
+    .loading { text-align: center; color: #d35400; margin: 30px; font-size: 1.2em; }
+    
+    table.dataTable thead th, table.dataTable tbody td {
+        padding: 15px 10px !important;
+        vertical-align: middle;
+    }
+    table.dataTable thead th { background: #d35400; color: white; }
+    table.dataTable tbody tr:hover { background: #f1f1f1; }
+    
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-radius: 8px;
+        border: 1px solid #eee;
+    }
+
+    /* --- Password Screen Styles --- */
+    #loginScreen {
+      position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+      background: #f4f6f9; z-index: 9999;
+      display: flex; justify-content: center; align-items: center;
+      padding: 20px; box-sizing: border-box;
+    }
+    .login-box {
+      background: white; padding: 40px 30px; border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1); text-align: center;
+      width: 100%; max-width: 420px;
+    }
+    .login-box h2 { color: #d35400; margin-top: 0; font-size: 1.8rem; }
+    .login-box input {
+      width: 100%; padding: 16px; margin: 20px 0;
+      border: 2px solid #eee; border-radius: 8px; box-sizing: border-box; 
+      font-size: 18px !important;
+      text-align: center;
+    }
+    .login-box input:focus { border-color: #d35400; outline: none; }
+    .login-box button {
+      width: 100%; padding: 16px; background: #d35400; color: white;
+      border: none; border-radius: 8px; font-size: 18px !important; cursor: pointer;
+      transition: background 0.3s; font-weight: bold;
+    }
+    .login-box button:hover { background: #e67e22; }
+    #loginError { color: #e74c3c; margin-top: 15px; font-weight: bold; display: none; }
+
+    /* --- Media Query --- */
+    @media (min-width: 768px) {
+        body { padding: 30px; }
+        .container { padding: 30px; }
+        h1 { font-size: 3rem; }
+        .app-logo { max-width: 150px; } 
+    }
+  </style>
+</head>
+<body>
+
+  <div id="loginScreen">
+    <div class="login-box">
+      <h2>BPY Team Mamidipally</h2>
+      <p style="color:#666; font-size: 1.1em;">Enter Access Password</p>
+      <input type="password" id="passwordInput" placeholder="••••" pattern="[0-9]*" inputmode="numeric" />
+      <button onclick="checkPassword()">Unlock List</button>
+      <div id="loginError">Incorrect Password!</div>
+    </div>
+  </div>
+
+  <div class="container" id="mainContent" style="display:none;">
+    <div style="text-align:center;margin-bottom:20px;">
+      <img src="images/logo.jpeg" alt="BPY Team Logo" class="app-logo">
+      <h1 id="pageTitle">BPY Team Mamidipally - Voters List</h1>
+      <button id="langBtn" class="lang-btn">తెలుగు వెర్షన్</button>
+    </div>
+
+    <div class="stats">
+      <div class="stat-item">Total: <span class="highlight" id="totalCount">0</span></div>
+      <div class="stat-item">Male: <span class="highlight" id="maleCount">0</span></div>
+      <div class="stat-item">Female: <span class="highlight" id="femaleCount">0</span></div>
+      <div class="stat-item">Showing: <span class="highlight" id="showingCount">0</span></div>
+    </div>
+
+    <div style="text-align:right;margin-bottom:15px;">
+      <button id="clearBtn">Clear All Filters</button>
+    </div>
+
+    <div class="filter-panel">
+      <input type="text" id="surnameFilter" placeholder="Search name...">
+      <select id="wardFilter"><option value="">All Wards</option></select>
+      <input type="number" id="minAge" placeholder="Min Age" min="18" inputmode="numeric">
+      <input type="number" id="maxAge" placeholder="Max Age" inputmode="numeric">
+      <select id="genderFilter">
+        <option value="">All Gender</option>
+        <option value="M">Male</option>
+        <option value="F">Female</option>
+      </select>
+    </div>
+
+    <div class="loading" id="loading">Loading your voters list...<br><small>This may take a moment</small></div>
+
+    <div class="table-responsive">
+      <table id="votersTable" class="display nowrap" style="width:100%;display:none;">
+        <thead>
+          <tr>
+            <th>S.No</th><th>Ward</th><th>Name</th><th>తండ్రి/భర్త</th><th>Age</th><th>Gender</th><th>EPIC</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+<script>
+// --- PASSWORD LOGIC ---
+function checkPassword() {
+  const pass = document.getElementById('passwordInput').value;
+  if (pass === '4111') {
+    $('#loginScreen').fadeOut(300, function(){
+         document.getElementById('mainContent').style.display = 'block';
+         if(table) table.columns.adjust().responsive.recalc();
+    });
+   
+  } else {
+    document.getElementById('loginError').style.display = 'block';
+    document.getElementById('passwordInput').value = '';
+  }
+}
+
+document.getElementById("passwordInput").addEventListener("keypress", function(event) {
+  if (event.key === "Enter") {
+    checkPassword();
+  }
+});
+window.onload = function() { document.getElementById('passwordInput').focus(); };
+
+
+// --- APP LOGIC ---
+let table, allData = [];
+let isTelugu = false;
+
+const teluguHeaders = ["క్ర.సం","వార్డు","పేరు","తండ్రి/భర్త","వయసు","లింగం","ఓటరు కార్డు"];
+const englishHeaders = ["S.No","Ward","Name","Father/Husband","Age","Gender","EPIC"];
+
+function toggleLanguage() {
+  isTelugu = !isTelugu;
+  document.getElementById('pageTitle').textContent = isTelugu ? "BPY టీమ్ మామిడిపల్లి - ఓటర్ల జాబితా" : "BPY Team Mamidipally - Voters List";
+  document.getElementById('langBtn').textContent = isTelugu ? "English Version" : "తెలుగు వెర్షన్";
+  
+  const headers = isTelugu ? teluguHeaders : englishHeaders;
+  $('#votersTable thead th').each(function(i){ $(this).text(headers[i]); });
+  
+  if (table) {
+    table.rows().invalidate().draw(false);
+  }
+}
+
+function escapeRegex(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+$.fn.dataTable.ext.search.push(function(settings, data) {
+  const min = parseInt($('#minAge').val(), 10);
+  const max = parseInt($('#maxAge').val(), 10);
+  const age = parseFloat(data[4]) || NaN;
+  if ((isNaN(min) && isNaN(max)) ||
+      (isNaN(min) && !isNaN(max) && age <= max) ||
+      (!isNaN(min) && isNaN(max) && age >= min) ||
+      (!isNaN(min) && !isNaN(max) && age >= min && age <= max)) return true;
+  return false;
+});
+
+function normalizeRow(row) {
+  const lower = {};
+  for (const k in row) lower[k.trim().toLowerCase()] = k;
+  function pick(list){ for(const p of list) if (lower[p]) return lower[p]; return null; }
+
+  const sKey = pick(['s.no','s no','sno','serial']);
+  const wKey = pick(['ward','ward -','wardno']);
+  const nKey = pick(['name','voter name','full name']);
+  const nTelKey = pick(['name_telugu','name_tel','name_tel']);
+  const fKey = pick(['father/husband name','father hu','father/husband','father name','father']);
+  const fTelKey = pick(['father_telugu','father_tel']);
+  const aKey = pick(['age','years']);
+  const gKey = pick(['sex','gender']);
+  const eKey = pick(['epic','voter id','voterid','epic no']);
+
+  // CHANGED 'S.No' to 'SerialNo' to avoid DataTables nested object error
+  return {
+    'SerialNo': sKey ? (row[sKey]||'').toString().trim() : '', 
+    'Ward': wKey ? (row[wKey]||'').toString().trim() : '',
+    'Ward_Tel': (row['Ward_Telugu'] || row['Ward_Tel'] || row['ward_telugu'] || ''),
+    'Name': nKey ? (row[nKey]||'').toString().trim() : '',
+    'Name_Tel': nTelKey ? (row[nTelKey]||'').toString().trim() : '',
+    'Father/Husband Name': fKey ? (row[fKey]||'').toString().trim() : '',
+    'Father_Tel': fTelKey ? (row[fTelKey]||'').toString().trim() : '',
+    'Age': aKey ? (row[aKey]||'').toString().trim() : '',
+    'Sex': gKey ? (row[gKey]||'').toString().trim() : '',
+    'EPIC': eKey ? (row[eKey]||'').toString().trim() : ''
+  };
+}
+
+function loadCSV(){
+  Papa.parse("voters_telugu.csv", { download:true, header:true, skipEmptyLines:true,
+    error: function(err){ console.error(err); $('#loading').html(`<p style='color:red;'>Could not load voters_telugu.csv or voters.csv. Use a local server.</p>`); },
+    complete: function(results){
+      if(!results || !results.data || results.data.length===0){
+        Papa.parse("voters.csv", { download:true, header:true, skipEmptyLines:true, complete: function(res2){ if(!res2 || !res2.data) { $('#loading').html(`<p style='color:red;'>No data.</p>`); return; } initTable(res2.data); } , error: function(){ $('#loading').html(`<p style='color:red;'>No data.</p>`);} });
+        return;
+      }
+      initTable(results.data);
+    }
+  });
+}
+
+function initTable(rawData){
+  allData = rawData.map(normalizeRow).filter(r => (r.Name && r.Name.trim() !== '') || (r.Name_Tel && r.Name_Tel.trim() !== ''));
+  
+  if(allData.length === 0){ $('#loading').html(`<p style='color:red;'>No valid rows found.</p>`); return; }
+
+  const wards = Array.from(new Set(allData.map(r => r.Ward || '').filter(Boolean))).sort((a,b)=>a.localeCompare(b, undefined, {numeric:true}));
+  wards.forEach(w => $('#wardFilter').append(`<option value="${w}">${w}</option>`));
+
+  table = $('#votersTable').DataTable({
+    data: allData,
+    pageLength: 25,
+    responsive: false,
+    scrollX: true,
+    autoWidth: false,
+    order: [[0,'asc']], 
+    language: {
+        searchPlaceholder: "Search any field..."
+    },
+    columns: [
+      { data: 'SerialNo', width: '40px' }, // UPDATED: Matches the safe key name
+      { data: function(row){ return isTelugu ? (row.Ward_Tel || row.Ward) : row.Ward; }, width: '60px' },
+      { data: null, className:'telugu', render: function(data,type,row){ return isTelugu ? (row.Name_Tel || row.Name) : row.Name; } },
+      { data: null, className:'telugu', render: function(data,type,row){ return isTelugu ? (row.Father_Tel || row['Father/Husband Name']) : row['Father/Husband Name']; } },
+      { data: 'Age', width: '50px' },
+      { data: 'Sex', width: '70px', render: function(d,type){ const raw = (d||'').toString().trim().toUpperCase(); const isM = raw==='M' || raw==='MALE' || raw==='1'; return (type==='display') ? (isTelugu ? (isM ? 'పురుషుడు' : 'స్త్రీ') : (isM ? 'Male' : 'Female')) : d; } },
+      { data: 'EPIC' }
+    ],
+    drawCallback: function(){
+      const api = this.api();
+      $('#showingCount').text(api.rows({search:'applied'}).count());
+    }
+  });
+
+  $('#loading').hide();
+  $('#votersTable').show();
+  table.columns.adjust();
+  
+  $('#totalCount').text(allData.length);
+  $('#maleCount').text(allData.filter(r => ((r.Sex||'').toUpperCase()==='M' || (r.Sex||'').toUpperCase()==='MALE')).length);
+  $('#femaleCount').text(allData.filter(r => ((r.Sex||'').toUpperCase()==='F' || (r.Sex||'').toUpperCase()==='FEMALE')).length);
+
+  $('#surnameFilter').on('keyup paste change', function(){
+    const q = this.value.trim();
+    if(!q) table.column(2).search('').draw();
+    else table.column(2).search(q, false, true).draw();
+  });
+
+  $('#wardFilter').on('change', function(){
+    const v = $(this).val();
+    if(!v) table.column(1).search('').draw();
+    else table.column(1).search('^' + escapeRegex(v) + '$', true, false).draw();
+  });
+
+  $('#genderFilter').on('change', function(){ const val=$(this).val(); if(!val) table.column(5).search('').draw(); else table.column(5).search('^'+val+'$', true, false).draw(); });
+  $('#minAge, #maxAge').on('keyup change', function(){ table.draw(); });
+
+  $('#clearBtn').on('click', function(){ $('#surnameFilter').val(''); $('#wardFilter').val(''); $('#minAge').val(''); $('#maxAge').val(''); $('#genderFilter').val(''); table.search('').columns().search('').draw(); });
+  $('#langBtn').on('click', toggleLanguage);
+  
+  table.on('draw', function(){ $('#showingCount').text(table.rows({search:'applied'}).count()); });
+}
+
+$(document).ready(function(){ loadCSV(); });
+</script>
+</body>
+</html>
