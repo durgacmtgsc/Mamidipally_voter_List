@@ -182,7 +182,7 @@
 
   <div class="container" id="mainContent" style="display:none;">
     <div style="text-align:center;margin-bottom:20px;">
-      <img src="images/logo.jpeg" alt="BPY Team Logo" class="app-logo">
+      <img src="images/Logo.jpeg" alt="BPY Team Logo" class="app-logo">
       <h1 id="pageTitle">BPY Team Mamidipally - Voters List</h1>
       <button id="langBtn" class="lang-btn">తెలుగు వెర్షన్</button>
     </div>
@@ -312,7 +312,7 @@ function normalizeRow(row) {
 }
 
 function loadCSV(){
-  Papa.parse("voters_telugu.csv", { download:true, header:true, skipEmptyLines:true,
+  Papa.parse("voters.csv", { download:true, header:true, skipEmptyLines:true,
     error: function(err){ console.error(err); $('#loading').html(`<p style='color:red;'>Could not load voters_telugu.csv or voters.csv. Use a local server.</p>`); },
     complete: function(results){
       if(!results || !results.data || results.data.length===0){
@@ -389,4 +389,5 @@ function initTable(rawData){
 $(document).ready(function(){ loadCSV(); });
 </script>
 </body>
+
 </html>
